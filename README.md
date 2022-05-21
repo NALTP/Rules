@@ -115,7 +115,7 @@ ___
       - (ii) Game = 10 minutes of a weekly NALTP Matchup.
       - (iii) There will be no halves.
     - (b) Game settings:
-      - (i) See [Article VII, Section B, Line C](#section-b---settings) for game settings and other match information.
+      - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
@@ -123,7 +123,7 @@ ___
     - (c) There will be 13 Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
-      - (i) See [Article VII, Section B, Line C](#section-b---settings) for game settings and other match information.
+      - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
 ___
 ### Article II - Leadership Roles, Member Roles & Eligibility
 
@@ -912,7 +912,7 @@ ___
   - (1) At any point in the season, a captain will be allowed to formally request a vote of no-confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
     - (a) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, they will be removed from the CRC immediately. If the CRC members do not vote in favor, the member is not removed, but automatically retires at the conclusion of the season.
     - (b) In the event of this, the CRC member must wait at least 1 full season before running for re-election to the CRC.
-    - (c) See [Article II, Section A](#section-a---the-committee-for-rules-and-coordination--crc-) for vacancy information.
+    - (c) See [Article II, Section A, Part 5](#section-a---the-committee-for-rules-and-coordination--crc-) for vacancy information.
 ___
 ### Article XIII - Appendix
   - (1) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that breaks the NALTP rules.
