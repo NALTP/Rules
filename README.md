@@ -14,40 +14,40 @@
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
 - [Article III - Drafting](#article-iii---drafting)
-  * [Section A - General draft information](#section-a---general-draft-information)
-  * [Section B - The auction drafts](#section-b---the-auction-drafts)
-  * [Section C - The snake draft](#section-c---the-snake-draft)
-- [Article IV - Roster changes](#article-iv---roster-changes)
+  * [Section A - General Draft Information](#section-a---general-draft-information)
+  * [Section B - The Auction Drafts](#section-b---the-auction-drafts)
+  * [Section C - The Snake Draft](#section-c---the-snake-draft)
+- [Article IV - Roster Changes](#article-iv---roster-changes)
   * [Section A - Trades](#section-a---trades)
   * [Section B - Drops, Call-ups, Free agency](#section-b---drops-call-ups-free-agency)
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
-- [Article V - Positional and scheduling restrictions.](#article-v---positional-and-scheduling-restrictions)
-  * [Section A - Positional restrictions](#section-a---positional-restrictions)
-  * [Section B - Scheduling restrictions](#section-b---scheduling-restrictions)
+- [Article V - Positional and Scheduling Restrictions.](#article-v---positional-and-scheduling-restrictions)
+  * [Section A - Positional Restrictions](#section-a---positional-restrictions)
+  * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Nominations](#section-a---map-nominations)
-  * [Section B - Map voting and selection](#section-b---map-voting-and-selection)
+  * [Section B - Map Voting and Selection](#section-b---map-voting-and-selection)
   * [Section C - Playoffs](#section-c---playoffs)
 - [Article VII - Matches](#article-vii---matches)
-  * [Section A - Match scheduling](#section-a---match-scheduling)
+  * [Section A - Match Scheduling](#section-a---match-scheduling)
   * [Section B - Settings](#section-b---settings)
-  * [Section C - Points and scoring](#section-c---points-and-scoring)
-  * [Section D - Minute minimums and maximums](#section-d---minute-minimums-and-maximums)
+  * [Section C - Points and Scoring](#section-c---points-and-scoring)
+  * [Section D - Minute Minimums and Maximums](#section-d---minute-minimums-and-maximums)
   * [Section E - Timeouts](#section-e---timeouts)
   * [Section F - Substitutions](#section-f---substitutions)
   * [Section G - Game Start Time Rules, Forfeits](#section-g---game-start-time-rules-forfeits)
   * [Section H - Voice Channels](#section-h---voice-channels)
 - [Article VIII - Playoffs](#article-viii---playoffs)
-  * [Section A - Team eligibility](#section-a---team-eligibility)
+  * [Section A - Team Eligibility](#section-a---team-eligibility)
   * [Section B - Seeding](#section-b---seeding)
   * [Section C - Rounds](#section-c---rounds)
 - [Article IX - Cheating](#article-ix---cheating)
   * [Section A - Cheating](#section-a---cheating)
   * [Section B - Scripts](#section-b---scripts)
   * [Section C - Whistleblowing](#section-c---whistleblowing)
-  * [Section D - Stock manipulation](#section-d---stock-manipulation)
+  * [Section D - Stock Manipulation](#section-d---stock-manipulation)
 - [Article X - Etiquette](#article-x---etiquette)
 - [Article XI - Statistics](#article-xi---statistics)
   * [Section A - TagPro Analytics and TagPro League (TPL)](#section-a---tagpro-analytics-and-tagpro-league-tpl)
@@ -256,15 +256,15 @@ ___
 ___
 ### Article III - Drafting
 
-#### Section A - General draft information
+#### Section A - General Draft Information
   - (1) Specific draft dates and times will be announced by the CRC prior to the draft.
   - (2) Each league's draft will take place on a different day.
   - (3) Drafts will occur in order from the highest level league (MLTP) to the lowest (NLTP).
   - (4) The MLTP and mLTP drafts will continue until every team's roster is filled.
   - (5) The NLTP draft will continue until all remaining players are assigned to a team.
   
-#### Section B - The auction drafts
-  - (1) Leagues
+#### Section B - The Auction Drafts
+  - (1) Leagues:
     - (a) TagCoins (TC):
       - (i) There will be three forms of TagCoins, TCM, TCN, and TCA.
         - (1) TCM = Major league TagCoin.
@@ -296,7 +296,7 @@ ___
         - (1) With the exception of Majors, players who are nominated for 0 TC and do not receive bids from any other team will be added to the roster of the nominating team for 0 TC.
       - (vii) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
       
-#### Section C - The snake draft
+#### Section C - The Snake Draft
   - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons in Novice league.
     - (a) The snake draft will begin shortly after the conclusion of the Novice league auction draft unless otherwise announced by the League Manager or CRC. Usually after a 10-15 minute break.
     - (b) The snake draft order will be determined by the number of remaining TCA of each team, prorated by their initial balance.
@@ -348,7 +348,7 @@ ___
     - (b) Postseason:
       - (i) There will be no trades permitted during the postseason.
      
-#### Section B - Drops, Call-ups, Free agency
+#### Section B - Drops, Call-ups, Free Agency
   - (1) Major and Minor leagues:
     - (a) Add/drop periods:
       - (i) Regular season:
@@ -483,9 +483,9 @@ ___
   - (3) In order to accept a call-up to another league and not obtain DEP status, the player and the captain of the lower league team must both agree to release the player from the lower roster. 
   - (4) Players who are called up to a Majors league team AND play in Majors league games will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
 ___
-### Article V - Positional and scheduling restrictions.
+### Article V - Positional and Scheduling Restrictions.
 
-#### Section A - Positional restrictions
+#### Section A - Positional Restrictions
   - (1) In the Major and Minor leagues, positional restrictions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
     - (a) Players believed to be using positional restrictions as a means to lower their draft stock (rather than play in a specific position) may have their restriction lifted or be removed from the draft entirely at CRC discretion.
     - (b) Players or teams found to be ignoring or testing the boundaries of positional restrictions to gain a competitive advantage may be penalized with replays, forfeiture, add/drop penalties, or point deductions at CRC discretion.
@@ -495,7 +495,7 @@ ___
       - (ii) A defender earns the 70 DNISH in the previous season and signs up with a defense restriction. The restriction will not be enforced.
     - (b) If the player has never played a season where their primary position was the opposite position from their current restriction, no restriction will be applied.
     
-#### Section B - Scheduling restrictions
+#### Section B - Scheduling Restrictions
   - (1) The CRC may enforce minute restrictions on a player commensurate with the availability they indicate in their signup comments.
     - (a) These minute restrictions will be communicated to the player and all captains prior to the relevant draft.
     - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
@@ -516,7 +516,7 @@ ___
     - (c) Community maps:
       - (i) There will be no community maps in Season 27.
       
-#### Section B - Map voting and selection
+#### Section B - Map Voting and Selection
   - (1) Majors, Minors, and Novice leagues:
     - (a) The first round of map voting will conclude no less than 48 hours before the draft.
       - (i) Captains will receive a ballot with every nomination and will vote yea or nay on each submission. All maps with 50% or less approval will be removed from the pool.
@@ -546,7 +546,7 @@ ___
 ___
 ### Article VII - Matches
 
-#### Section A - Match scheduling
+#### Section A - Match Scheduling
   - (1) Major league:
     - (a) By default, Major league games will take place on Sunday nights.
     - (b) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. The times must fall within boundaries to be determined by the CRC.
@@ -688,14 +688,14 @@ ___
     - (c) Server settings:
       - (i) Identical to regular season settings.
         
-#### Section C - Points and scoring
+#### Section C - Points and Scoring
   - (1) A points system will be used alongside a team's record to determine league standings:
     - (a) 3 points are assigned for winning a game;
     - (b) 2 points are assigned for an overtime win;
     - (c) 1 point is assigned for an overtime loss;
     - (d) 0 points are assigned for a loss.
   
-#### Section D - Minute minimums and maximums
+#### Section D - Minute Minimums and Maximums
   - (1) Majors and Minors leagues:
     - (a) There is no minute minimum.
     - (b) There is no minute maximum.
@@ -769,7 +769,7 @@ ___
 ___
 ### Article VIII - Playoffs
 
-#### Section A - Team eligibility
+#### Section A - Team Eligibility
   - (1) Major League:
     - (a) The top 8 teams will advance to the playoffs.
   - (2) Minors League:
@@ -827,7 +827,7 @@ ___
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
   - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
 
-#### Section D - Stock manipulation
+#### Section D - Stock Manipulation
   - (1) Draft stock:
     - (a) Manipulation includes, but is not limited to: lying about availability, lying about ping or location, providing any other false information in signups, providing captains with different information, or making concerted efforts to land on a specific team.
     - (b) If a captain asks a player if they want to play for them, the player is allowed to say no. This includes interest forms, direct messages, or any other form of communication. However, signup comments or messages sent to captains through any forum indicating that the player will be unlikely to attend most or all games will result in the signup being removed.
