@@ -140,7 +140,7 @@ ___
       - (ii) The same list of applicants will be used for all seats.
     - (d) The first two seats will be filled by a combined vote of the previous season’s Captains from all three tiers.
       - (i) The election will be a linear scoring borda count, n=1 (last place is 1 point, 2nd to last is 2, etc.) with full ranked ballots (must rank all candidates).
-      - (ii) The candidate with the highest Borda Count fills the seat.
+      - (ii) The candidates with the two highest Borda Counts will fill the seat.
       - (iii) Captains with a team in more than one league will still receive a single vote towards the final results.
     - (e) The remaining seats will be filled by a vote of the NALTP Community.
       - (i) The NALTP Community is defined as:
@@ -185,7 +185,7 @@ ___
       - (iv) Representing their team to the CRC,
       - (v) Locating/creating team graphics,
       - (vi) Organizing scrimmages,
-      - (vii) Electing one member of the CRC for the following season and
+      - (vii) Electing two members of the CRC for the following season and
       - (viii) Anything else required or requested of them by both the CRC and their team
     - (b) Co-Captains are responsible for assisting the captain and filling in for them when they are unavailable.
     - (c) Captains may change who their co-captain is at any time by notifying the CRC.
@@ -662,9 +662,8 @@ ___
       - (i) There will be one best-of-seven-games series per week for each playoff team.
       - (ii) Maps and starting color (Pick/bans):
         - (1) In playoff rounds requiring a pick/ban, captains will draft the maps and starting color according to the following:
-          - (aa) The team with the higher seed will pick what team they would like to be for the Pick/Ban (Team 1 or Team 2).
-          - (bb) The Pick/Ban must be completed between the two captains no less than 48 hours before the start time of a series and forwarded to the CRC.
-          - (cc) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
+          - (aa) The team with the higher seed will pick what team they would like to be for the Pick/Ban (Team 1 or Team 2)
+          - (bb) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
             - (II) At any point during the Pick/Ban for Minors and Novice league only, either team may choose to ban one map instead of selecting a map. After this is done once by either team neither team may use this option again.
         - (2) Majors:
