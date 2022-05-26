@@ -540,9 +540,10 @@ ___
   - (1) Major League:
     - (a) All 7 maps from the regular season will be featured in playoffs.
   - (2) Minors and Novice Leagues:
-    - (a) Captains of the top 3 seeds in the playoffs will submit a ranked list of preferences from the regular season map rotation to select 8 of the original 10 maps.
-      - (i) Maps will be chosen from the top of the list from team seeds in the following order: 3-2-1-3-2-1-1. This means that a map from the third seed is chosen, then the second, first, third, second, and so on.
+    - (a) Captains of the top 6 seeds in the playoffs will submit a ranked list of preferences from the regular season map rotation to select 8 of the original 14 maps.
+      - (i) Maps will be chosen from the top of the list from team seeds in the following order: 2-1-6-5-4-3-2-1. This means that a map from the second seed is chosen, then the first seed, then the sixth, fifth, and so on.
         - (1) If the map at the top of a team's list has already been submitted by a team before them in line, the next map on their list that has not been submitted will instead be added to the playoff rotation.
+          - (aa) Teams will submit 9-[seed] maps. Ex. the 5th seed will submit 4 (9-5) maps in order of preference.
 ___
 ### Article VII - Matches
 
@@ -659,13 +660,17 @@ ___
   - (2) Playoffs:
     - (a) Format:
       - (i) There will be one best-of-seven-games series per week for each playoff team.
-      - (ii) Maps and starting color:
+      - (ii) Maps and starting color (Pick/bans):
         - (1) In playoff rounds requiring a pick/ban, captains will draft the maps and starting color according to the following:
           - (aa) The team with the higher seed will pick what team they would like to be for the Pick/Ban (Team 1 or Team 2).
           - (bb) The Pick/Ban must be completed between the two captains no less than 48 hours before the start time of a series and forwarded to the CRC.
           - (cc) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
             - (II) At any point during the Pick/Ban for Minors and Novice league only, either team may choose to ban one map instead of selecting a map. After this is done once by either team neither team may use this option again.
+        - (2) Majors:
+          - (aa) Pick/bans will be completed 10 minutes before the matchup.
+        - (3) Minors and Novice:
+          - (aa) Pick/bans must be completed no later than 48 hours before the matchup.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
