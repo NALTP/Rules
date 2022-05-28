@@ -668,8 +668,10 @@ ___
             - (II) At any point during the Pick/Ban for Minors and Novice league only, either team may choose to ban one map instead of selecting a map. After this is done once by either team neither team may use this option again.
         - (2) Majors:
           - (aa) Pick/bans will be completed 10 minutes before the matchup.
+          - (bb) Playoff matches involving the top two seeds will not require pick/bans. Instead the top seed will decide map order and colors.
         - (3) Minors and Novice:
           - (aa) Pick/bans must be completed no later than 48 hours before the matchup.
+          - (bb) All playoff matches require pick/bans.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
