@@ -65,7 +65,7 @@ ___
   - (1) NALTP signups and announcements will be facilitated via the NALTP Discord and subreddit.
     - (a) [Invite link](https://discord.com/invite/JCyQaZH)
     - (b) [Subreddit](https://www.reddit.com/r/MLTP/)
-    - (c) Sign up by messaging "!naltp" to the TToC_BOT.
+    - (c) Sign up by messaging "!mltp" to the TToC_BOT.
       
 #### Section B - Leagues
   - (1) NALTP will be comprised of three leagues, each with its own schedule, rule variations and set of teams.
@@ -242,7 +242,7 @@ ___
         - (4) The player is deemed by the CRC to be beyond the skill level of Novice league.
       - (iii) Players will not be permitted to switch positions to circumvent these rules.
       - (iv) It is the responsibility of the player to confirm their eligibility for the draft.
-    - (b) Players who have no more than 100 minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
+    - (b) Players with fewer than 110 minutes minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
     - (c) Players removed from the Major league draft by the CRC are not eligible to enter the Minor or Novice league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
@@ -304,7 +304,7 @@ ___
       - (ii) Proration example:
         - (1) Captain A begins with 100 TCA and ends with 6 TCA, or 6 pro-rated TCA (100/100\*6);
         - (2) Captain B begins with 100 TCA and ends with 0 TCA, or 0 pro-rated TCB;
-        - (3) Captain C begins with 80 TCAs and ends with 6 TCA, or 7.5 pro-rated TCB (100/80\*6); and
+        - (3) Captain C begins with 80 TCA and ends with 6 TCA, or 7.5 pro-rated TCB (100/80\*6); and
         - (4) Captain D begins with 80 TCA and ends with 0 TCA, or 0 pro-rated TCB.
         - (5) The draft order would be: C, A, B/D (coinflip).
     - (c) The team with the most prorated TCA will pick 1st in the 1st round.
@@ -452,18 +452,20 @@ ___
       - (i) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
       - (ii) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
       - (iii) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
-    - (b) Players may only be loaned for up to one week per team per season for any number of minutes.
-    - (c) Players may only play in one match per league per week.
-    - (d) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
-    - (e) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
+    - (b) Players may only be loaned for up to one week per team in the regular season for any number of minutes.
+    - (c) Players may only be loaned up for one week per team in the post-season for any number of minutes.
+    - (d) Players may only play in one match per league per week.
+    - (e) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
+    - (f) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
       - (i) The CRC may approve conditional hot-sub waivers to players expected to play <40% of a match (less than 2 out of 5 games). If a predetermined minutes threshold is crossed, the waiver will be revoked and the gameplay will be considered as a loan.
-    - (f) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
-    - (g) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
+    - (g) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
+    - (h) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
+    - (i) Players who are loaned to a Major league team will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
   - (2) Novice league:
     - (a) If a Novice league team cannot field a full team for a week’s game, they may elect to loan a player from another team.
       - (i) In extreme cases, if no player can be found, the CRC may approve a loan for a player not currently rostered to an NALTP team.
     - (b) All loans must be approved by the CRC before the player plays.
-      - (i) Failure to acquire approval may result in punishments such as--but not limited to: forfeiture, forced replay, and waiver wire penalties.
+      - (i) Failure to acquire approval may result in punishments such as--but not limited to: forfeiture, forced replay, and waiver point penalties.
     - (c) Loans within Novice league will only be approved in cases where a team would otherwise forfeit.
     - (d) Players with significant Minor league minutes will not be allowed to be loaned within Novice league.
       - (i) Significant Minor league minutes will be defined as averaging more than 15 minutes of Minor league play per week. 
@@ -631,7 +633,7 @@ ___
       - (xii) Powerup delay set to 60 seconds;
       - (xiii) Userscripts: Disabled;
       - (xiv) Respawn Warnings: Disabled; and
-      - (xv) Single World Joiner disabled and set to Dallas.
+      - (xv) Single World Joiner disabled and set to default server.
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
       - (ii) Major and Minor leagues:
@@ -830,7 +832,7 @@ ___
   - (4) Bots are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this]([https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform](https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform "https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform")) form. If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
   - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
