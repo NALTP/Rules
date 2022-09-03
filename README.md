@@ -1,5 +1,5 @@
-
 ## Official Rules for North American League TagPro (NALTP) Season 28
+
 ### Table of Contents
 
 - [Article I - League Overview](#article-i---league-overview)
