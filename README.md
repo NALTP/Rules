@@ -1,4 +1,5 @@
-## Official Rules for North American League TagPro (NALTP) Season 27
+## Official Rules for North American League TagPro (NALTP) Season 28
+
 ### Table of Contents
 
 - [Article I - League Overview](#article-i---league-overview)
@@ -64,7 +65,7 @@ ___
   - (1) NALTP signups and announcements will be facilitated via the NALTP Discord and subreddit.
     - (a) [Invite link](https://discord.com/invite/JCyQaZH)
     - (b) [Subreddit](https://www.reddit.com/r/MLTP/)
-    - (c) Sign up by messaging "!naltp" to the TToC_BOT.
+    - (c) Sign up by messaging "!mltp" to the TToC_BOT.
       
 #### Section B - Leagues
   - (1) NALTP will be comprised of three leagues, each with its own schedule, rule variations and set of teams.
@@ -92,7 +93,7 @@ ___
     - (a) Majors on Sunday;
     - (b) Minors on Monday;
     - (c) Novice on Wednesday;
-  - (5) League start dates will stagger in one week increments with championships all occurring in the same week by default.
+  - (5) League draft dates will stagger in one week increments with championships all occurring in the same week by default.
   
 #### Section E - Servers
   - (1) Major league will be an “all-Dallas” league.
@@ -130,10 +131,9 @@ ___
 #### Section A - The Committee for Rules and Coordination (CRC)
   - (1) CRC Structure Overview:
     - (a) The CRC will consist of 5 members with equal voting power and rights.
-      - (i) For season 27, the CRC will be temporarily expanded to 7 members to assist in the league merger.
     - (b) At the conclusion of every season, the existing members of the CRC will be retired and up for re-election.
   - (2) Elections:
-    - (a) At the conclusion of the season, an election will be held to fill the five vacancies on the CRC.
+    - (a) At the conclusion of the season, elections will be held to fill the five vacancies on the CRC.
     - (b) The election will be conducted by the CRC and overseen by the League Manager.
     - (c) The CRC will call for election applications and allow reasonable time for people to submit them.
       - (i) Applicants will be made public to allow reasonable time for interpretation prior to the election.
@@ -147,13 +147,13 @@ ___
         - (1) Players, Non-Playing Captains and General Managers from the previous season of NALTP and
         - (2) Players signed up for the current season’s draft at the time of ballot posting whose last season of play was within the last 5 seasons of NALTP.
       - (ii) The Vote will use a Single Transferable Vote (STV) with partial ranked ballots (voters rank as many candidates as they would like).
-      - (iii) The winners of the IRV will fill the second, third, and fourth seats.
+      - (iii) The winners of the IRV will fill the third, fourth, and fifth seats.
   - (5) Vacancies:
     - (a) In the event of an unexpected vacancy on the CRC midseason (due to a retirement, VONC, or other issue), the remaining CRC members will appoint a replacement for the remainder of the season.
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (6) Members:
-    - (a) The Season 27 CRC will consist of Cheezedoodle, Destar, FLY, IfYouSeekAmy, Messi, Hjalpa, and pk.
+    - (a) The Season 28 CRC will consist of Cheezedoodle, pk, flaccid trip, Megatron, and tinderfella
  
 #### Section B - The League Manager (LM)
   - (1) League Manager structure overview:
@@ -164,7 +164,7 @@ ___
   - (3) Retirement:
     - (a) The League Manager is not permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Manager for Season 27 will be Poeticalto.
+    - (a) The League Manager for Season 28 will be Poeticalto.
    
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -242,7 +242,7 @@ ___
         - (4) The player is deemed by the CRC to be beyond the skill level of Novice league.
       - (iii) Players will not be permitted to switch positions to circumvent these rules.
       - (iv) It is the responsibility of the player to confirm their eligibility for the draft.
-    - (b) Players who have no more than 100 minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
+    - (b) Players with fewer than 110 minutes minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
     - (c) Players removed from the Major league draft by the CRC are not eligible to enter the Minor or Novice league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
@@ -304,7 +304,7 @@ ___
       - (ii) Proration example:
         - (1) Captain A begins with 100 TCA and ends with 6 TCA, or 6 pro-rated TCA (100/100\*6);
         - (2) Captain B begins with 100 TCA and ends with 0 TCA, or 0 pro-rated TCB;
-        - (3) Captain C begins with 80 TCAs and ends with 6 TCA, or 7.5 pro-rated TCB (100/80\*6); and
+        - (3) Captain C begins with 80 TCA and ends with 6 TCA, or 7.5 pro-rated TCB (100/80\*6); and
         - (4) Captain D begins with 80 TCA and ends with 0 TCA, or 0 pro-rated TCB.
         - (5) The draft order would be: C, A, B/D (coinflip).
     - (c) The team with the most prorated TCA will pick 1st in the 1st round.
@@ -318,7 +318,8 @@ ___
   - (1) Major and Minor leagues:
     - (a) Regular season:
       - (i) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
-        - (1) The trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
+        - (1) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
+        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
@@ -334,7 +335,7 @@ ___
   - (2) Novice league:
     - (a) Regular season:
       - (i) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
-        - (1) The trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
+        - (1) The trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time.
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected.
@@ -354,7 +355,8 @@ ___
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
           - (aa) The first add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the following draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second add/drop period will begin at the conclusion of week 3 default games and conclude 96 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
+          - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
+          - (cc) The second Minors add/drop period will begin at the conclusion of week 3 default games and conclude 72 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -403,18 +405,17 @@ ___
       - (ii) Postseason:
         - (1) There will be no free agency periods in the postseason.
     - (c) Free agency process:
-      - (i) Free agency will consist of teams bidding on eligible free agents to be added to Novice league rosters.
-      - (ii) Primary free agency period:
-        - (1) Bidding order will be determined by a waiver wire.
-          - (aa) Default waiver order will be the inverse of the standings at the start of free agency.
-          - (bb)  Waiver order may be used as a penalty for teams who fail to upload VCR’s, secure streamers, or any other miscellaneous violations.
-          - (cc) If a player on a Novice team is called up and does not become a DEP, that team is advanced towards the front of the waiver order. In the case that this applies to multiple teams, standings will be used to differentiate.
-        - (2) If a team selects a player from the waiver wire they will be pushed to the back of the order.
-        - (3) Free Agents who go unclaimed in free agency will be auto-assigned to a team.
-        - (4) If multiple claims are received from a single team, only the most recent submission will be considered valid. It is the responsibility of the Captain to fill the form out properly.
-      - (iii) Additional free agency periods:
-        - (1) Bidding will continue to be determined by a waiver wire and follow the same processes as the primary free agency period.
-          - (aa) The waiver wire will not reset and will carry over from the results of the primary free agency period.
+        - (i) Free agency will consist of teams bidding on eligible free agents using waiver points to be added to Novice league rosters.
+        - (ii) Each NLTP team will receive 10 waiver points at the start of the season. These waiver points may be included in trades, including during the draft, until the conclusion of the primary free agency period.
+        - (iii) Teams will receive additional waiver points each week based on their standings at the end of each week's games, until free agency is over. The top two teams in the standings will receive 1 waiver point each, the next two teams will receive 3 waiver points each, and so on. Tie-breakers to determine mid-season weekly rank are determined in the same manner outlined in the playoff seeding section of the rules.
+        - (iv) The CRC may award additional waiver points to incentivize actions such as streaming games. Waiver points may be deducted as part of a Disciplinary Announcement.
+        - (v) All teams will have the opportunity to make a bid on any eligible free agent. When the free agency period expires, the player will be awarded to the team with the highest valid waiver point bid.
+        - (vi) If a team submits multiple bids, those bids will be processed in descending order of bid amount. If there are multiple bids on different players for the same amount, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered. It is the responsibility of the Captain to fill the form out properly. A captain should reach out to the CRC if they need help understanding the bidding process, and the CRC is obligated to help them with the process.
+        - (vii) If two teams have identical bids for a single player, the team with the worse season record will obtain the Free Agent, with tiebreaks being applied as necessary.
+        - (viii) Teams with the highest bid will be assigned the requested player and waiver points will be deducted from the team's total available waiver points. Teams will be deducted the amount they bid on a player, regardless of any other bids on the players.
+        - (ix) Bids will automatically be reduced to never exceed available waiver points. If a Team has 20 waiver points and submits a bid sheet: Player A-15; Player B-10; Player C-5 and wins Player A. Their bid for Player-B will reduce to 5 and have a priority over Player C which will remain at 5.
+        - (x) A bid of zero waiver points on a specific player is valid. Waiver points must be used in whole numbers.
+        - (xi) Free Agents that receive no bids will be auto assigned to a team.
     - (d) Free agency player eligibility :
       - (i) Primary free agency period:
         - (1) Minor league drops in the second Minors add/drop period will be eligible for Novice free agency.
@@ -451,18 +452,20 @@ ___
       - (i) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
       - (ii) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
       - (iii) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
-    - (b) Players may only be loaned for up to one week per team per season for any number of minutes.
-    - (c) Players may only play in one match per league per week.
-    - (d) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
-    - (e) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
+    - (b) Players may only be loaned for up to one week per team in the regular season for any number of minutes.
+    - (c) Players may only be loaned up for one week per team in the post-season for any number of minutes.
+    - (d) Players may only play in one match per league per week.
+    - (e) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
+    - (f) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
       - (i) The CRC may approve conditional hot-sub waivers to players expected to play <40% of a match (less than 2 out of 5 games). If a predetermined minutes threshold is crossed, the waiver will be revoked and the gameplay will be considered as a loan.
-    - (f) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
-    - (g) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
+    - (g) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
+    - (h) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
+    - (i) Players who are loaned to a Major league team will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
   - (2) Novice league:
     - (a) If a Novice league team cannot field a full team for a week’s game, they may elect to loan a player from another team.
       - (i) In extreme cases, if no player can be found, the CRC may approve a loan for a player not currently rostered to an NALTP team.
     - (b) All loans must be approved by the CRC before the player plays.
-      - (i) Failure to acquire approval may result in punishments such as--but not limited to: forfeiture, forced replay, and waiver wire penalties.
+      - (i) Failure to acquire approval may result in punishments such as--but not limited to: forfeiture, forced replay, and waiver point penalties.
     - (c) Loans within Novice league will only be approved in cases where a team would otherwise forfeit.
     - (d) Players with significant Minor league minutes will not be allowed to be loaned within Novice league.
       - (i) Significant Minor league minutes will be defined as averaging more than 15 minutes of Minor league play per week. 
@@ -487,8 +490,9 @@ ___
 
 #### Section A - Positional Restrictions
   - (1) In the Major and Minor leagues, positional restrictions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
-    - (a) Players believed to be using positional restrictions as a means to lower their draft stock (rather than play in a specific position) may have their restriction lifted or be removed from the draft entirely at CRC discretion.
-    - (b) Players or teams found to be ignoring or testing the boundaries of positional restrictions to gain a competitive advantage may be penalized with replays, forfeiture, add/drop penalties, or point deductions at CRC discretion.
+    - (a) A position restriction indicates the side of the map a player will default to when there are no external influences on their decision making. Players with position restrictions are not required to adhere to rigid guidelines and may often find themselves 'outside' their restriction when doing so is the best strategical play available to them.
+    - (b) At their discretion the CRC may deem individual players ineligible for position restrictions, in which case their signup will be locked as eligible for both positions. 
+	    - (i) Any player who is ruled ineligible for a position restriction may be removed from the draft entirely if the CRC determines that they are continuing to use positional preferences to manipulate their draft stock.
   - (2) In Novice league, positional restrictions for offense or defense will only be enforced if the player's most recent season in the position opposite their current restriction resulted in a positional NISH of 70 or greater.
     - (a) Examples:
       - (i) A defender earns the 70 DNISH in the previous season and signs up with an offense restriction. The restriction will be enforced.
@@ -514,7 +518,7 @@ ___
       - (i) Each captain will be asked to submit up to 5 map nominations to be voted into the map rotation.
       - (ii) Remixed maps, updated maps, and any other minor adjustments will be treated as separate nominations.
     - (c) Community maps:
-      - (i) There will be no community maps in Season 27.
+      - (i) There will be no community maps in Season 28.
       
 #### Section B - Map Voting and Selection
   - (1) Majors, Minors, and Novice leagues:
@@ -540,7 +544,7 @@ ___
   - (1) Major League:
     - (a) All 7 maps from the regular season will be featured in playoffs.
   - (2) Minors and Novice Leagues:
-    - (a) Captains of the top 6 seeds in the playoffs will submit a ranked list of preferences from the regular season map rotation to select 8 of the original 14 maps.
+    - (a) Captains of the top 6 seeds in the playoffs will submit a ranked list of preferences from the regular season map rotation to select 8 of the regular season maps.
       - (i) Maps will be chosen from the top of the list from team seeds in the following order: 2-1-6-5-4-3-2-1. This means that a map from the second seed is chosen, then the first seed, then the sixth, fifth, and so on.
         - (1) If the map at the top of a team's list has already been submitted by a team before them in line, the next map on their list that has not been submitted will instead be added to the playoff rotation.
           - (aa) Teams will submit 9-[seed] maps. Ex. the 5th seed will submit 4 (9-5) maps in order of preference.
@@ -579,38 +583,38 @@ ___
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Major league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 27, each match will have 2 maps in the following format. Each letter represents a unique map.
-            - (I) Week 1: ABABA;
-            - (II) Week 2: BCBCB;
-            - (III) Week 3: CDCDC;
-            - (IV) Week 4: DEDED;
-            - (V) Week 5: EFEFE;
-            - (VI) Week 6: FGFGF;
-            - (VII) Week 7: GAGAG;
-        - (2) Team colors will alternate AABBA for each match.
+          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+            - (I) Week 1: AABBA;
+            - (II) Week 2: BBCCB;
+            - (III) Week 3: CCDDC;
+            - (IV) Week 4: DDEED;
+            - (V) Week 5: EEFFE;
+            - (VI) Week 6: FFGGF;
+            - (VII) Week 7: GGAAG;
+        - (2) Team colors will alternate RBRBR for each match.
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iii) Minor league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 27, each match will have 2-3 maps in the following format. Each letter represents a unique map.
-            - (I) Week 1: AAABB;
-            - (II) Week 2: BCCCD; 
-            - (III) Week 3: DDEEE;
-            - (IV) Week 4: FFFGG;
-            - (V) Week 5: GHHHI;
-            - (VI) Week 6: IIJJJ;
-        - (2) Team colors will alternate ABABA for each match.
+          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+            - (I) Week 1: AABBA;
+            - (II) Week 2: CCDDC; 
+            - (III) Week 3: EEFFE;
+            - (IV) Week 4: GGHHG;
+            - (V) Week 5: IIJJI;
+            - (VI) Week 6: KKLLK;
+        - (2) Team colors will alternate RBRBR for each match.
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iv) Novice league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 27, each match will have 2-3 maps in the following format. Each letter represents a unique map.
-            - (I) Week 1: AAABB;
-            - (II) Week 2: BCCCD; 
-            - (III) Week 3: DDEEE;
-            - (IV) Week 4: FFFGG;
-            - (V) Week 5: GHHHI;
-            - (VI) Week 6: IIJJJ;
-            - (VII) Week 7: KꓘKLL;
-        - (2) Team colors will alternate ABABA for each match.
+          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+            - (I) Week 1: AABBA;
+            - (II) Week 2: CCDDC; 
+            - (III) Week 3: EEFFE;
+            - (IV) Week 4: GGHHG;
+            - (V) Week 5: IIJJI;
+            - (VI) Week 6: KKLLK;
+            - (VII) Week 7: MMNNM;
+        - (2) Team colors will alternate RBRBR for each match.
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
     - (c) Game settings:
       - (i) Capture limit set to none;
@@ -629,7 +633,7 @@ ___
       - (xii) Powerup delay set to 60 seconds;
       - (xiii) Userscripts: Disabled;
       - (xiv) Respawn Warnings: Disabled; and
-      - (xv) Single World Joiner disabled and set to Dallas.
+      - (xv) Single World Joiner disabled and set to default server.
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
       - (ii) Major and Minor leagues:
@@ -799,7 +803,7 @@ ___
     - (c) Cap differential against common opponents;
     - (d) Total cap differential;
     - (e) Total caps scored;
-    - (f) A 5-minute OFM round-robin tournament with one player from each team. The player must be eligible for that team’s league (i.e., an A-teamer cannot OFM for a B-team matchup), and the captain will be allowed to choose the player.
+    - (f) A 5-minute OFM round-robin tournament with one player from each team. The player must be rostered on the team, and the captain will be allowed to choose the player.
   - (4) If the seeding of one team is determined in a three-or-more team tiebreaker but other seeds aren't, tiebreak rules continue as they are and do not reset for the remaining teams.
 
 #### Section C - Rounds
@@ -828,7 +832,7 @@ ___
   - (4) Bots are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScpnS1ZasbmUnK_377UU1MfaqnD6MVSrZwCOkafVR_5mDTEgA/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
   - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
@@ -850,7 +854,7 @@ ___
   - (4) Players are encouraged to talk smack before the match, but afterwards be cool about everything - especially the winning team.
   - (5) Teams are subject to punishment if their players or captains partake in any of the following: Unnecessary spam to reddit or spam to Discord channels.
   - (6) There is a catch-all "Don't Be a Dick" rule, which can encompass any number of things. Violations of the "DBAD" rule will be dealt with on a case-by-case basis as determined by the CRC.
-  - (7) Excessive or targetted group chat during league games will result in a warning and may result in a ban or team forfeiture if the problem persists or is deemed unruly by the CRC.
+  - (7) Excessive or targeted group chat during league games will result in a warning and may result in a ban or team forfeiture if the problem persists or is deemed unruly by the CRC.
   - (8) At any point during regular season or playoff games, either captain may request to trim a group and can expect full compliance from both teams. A trimmed group requires all non-essential members to leave. Players who may stay include:
     - (a) The eight players scheduled to play in the upcoming half;
     - (b) Up to two legal substitutes per team for playoff games;
