@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 28
+## Official Rules for North American League TagPro (NALTP) Season 29
 
 ### Table of Contents
 
@@ -65,7 +65,7 @@ ___
   - (1) NALTP signups and announcements will be facilitated via the NALTP Discord and subreddit.
     - (a) [Invite link](https://discord.com/invite/JCyQaZH)
     - (b) [Subreddit](https://www.reddit.com/r/MLTP/)
-    - (c) Sign up by messaging "!mltp" to the TToC_BOT.
+    - (c) Sign up by messaging "!naltp" to the TToC_BOT.
       
 #### Section B - Leagues
   - (1) NALTP will be comprised of three leagues, each with its own schedule, rule variations and set of teams.
@@ -120,8 +120,8 @@ ___
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
-    - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be 13 Minors teams in the playoffs determined by regular season standings.
+    - (b) There will be XX Majors teams in the playoffs determined by regular season standings.
+    - (c) There will be XX Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -153,7 +153,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (6) Members:
-    - (a) The Season 28 CRC will consist of Cheezedoodle, pk, flaccid trip, Megatron, and tinderfella
+    - (a) The Season 29 CRC will consist of Cheezedoodle, pk, bigbadball, kelvin, and Prime
  
 #### Section B - The League Manager (LM)
   - (1) League Manager structure overview:
@@ -164,7 +164,7 @@ ___
   - (3) Retirement:
     - (a) The League Manager is not permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Manager for Season 28 will be Poeticalto.
+    - (a) The League Manager for Season 29 will be Poeticalto.
    
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -319,7 +319,7 @@ ___
     - (a) Regular season:
       - (i) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
         - (1) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
-        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
+        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
@@ -356,7 +356,7 @@ ___
         - (1) There will be two add/drop periods during the regular season.
           - (aa) The first add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the following draft or the midnight before week 1 game days, whichever comes first.
           - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
-          - (cc) The second Minors add/drop period will begin at the conclusion of week 3 default games and conclude 72 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
+          - (cc) The second Minors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -401,7 +401,7 @@ ___
     - (b) Free agency period:
       - (i) Regular season:
         - (1) There will be a single, primary, free agency period followed by additional free agency periods as announced by the CRC.
-        - (2) The primary free agency period will begin at the conclusion of the second Minor league add/drop period.
+        - (2) The primary free agency period will begin following the third week of NLTP games.
       - (ii) Postseason:
         - (1) There will be no free agency periods in the postseason.
     - (c) Free agency process:
@@ -519,10 +519,10 @@ ___
       - (i) Each captain will be asked to submit up to 5 map nominations to be voted into the map rotation.
       - (ii) Remixed maps, updated maps, and any other minor adjustments will be treated as separate nominations.
     - (c) Community maps:
-      - (i) There will be no community maps in Season 28.
+      - (i) There will be no community maps in Season 29.
       
 #### Section B - Map Voting and Selection
-  - (1) Majors, Minors, and Novice leagues:
+  - (1) Community selected maps:
     - (a) The first round of map voting will conclude no less than 48 hours before the draft.
       - (i) Captains will receive a ballot with every nomination and will vote yea or nay on each submission. All maps with 50% or less approval will be removed from the pool.
     - (b) The second round of map voting will conclude no later than the start of the draft.
@@ -538,8 +538,16 @@ ___
     - (d) The fourth round of map voting will conclude no later than 48 hours after the draft.
       - (i) Drafted players will receive a ballot to rank the remaining maps in order of preference.
       - (ii) Map votes will be counted via ranked choice vote with the top submissions being accepted.
+        - (1) The number of submissions accepteded will be equal to half of the maps to be played in each respective league rounded up.
     - (e) For Minors and Novice leagues, two slots may be filled via community maps during the season as announced by the CRC.
     - (f) The CRC will insert the winning maps into the regular season schedule at their discretion.
+  - (1) CRC selected maps
+    - (a) The CRC will fill in the remaining half of the map pool for each league following the community vote.
+    - (b) The CRC will select maps based on the following criteria:
+      - (1) Maps may only follow the traditional "CTF" format.
+      - (2) Maps must be considered viable for competitive play at CRC discretion.
+      - (3) Maps must have received prior testing in the form of pubs, tournaments, or league play.
+      - (4) One selection must not have been featured in the previous three seasons of the tier in question.
     
 #### Section C - Playoffs
   - (1) Major League:
@@ -584,7 +592,7 @@ ___
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Major league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: BBCCB;
             - (III) Week 3: CCDDC;
@@ -596,7 +604,7 @@ ___
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iii) Minor league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC; 
             - (III) Week 3: EEFFE;
@@ -607,7 +615,7 @@ ___
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iv) Novice league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC; 
             - (III) Week 3: EEFFE;
@@ -782,9 +790,9 @@ ___
 
 #### Section A - Team Eligibility
   - (1) Major League:
-    - (a) The top 6 teams will advance to the playoffs.
+    - (a) The top XX teams will advance to the playoffs.
   - (2) Minors League:
-    - (a) The top 10 teams will advance to the playoffs.
+    - (a) The top XX teams will advance to the playoffs.
   - (3) Novice League:
     - (a) Every team will advance to the playoffs.
   - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
@@ -833,7 +841,7 @@ ___
   - (4) Bots are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSeuAvk_OuSWd3rT7JfHgu_RTTWPUi71fNCjdRmmFYuHcE6IEg/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
   - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
