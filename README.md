@@ -487,7 +487,7 @@ ___
   - (3) In order to accept a call-up to another league and not obtain DEP status, the player and the captain of the lower league team must both agree to release the player from the lower roster. 
   - (4) Players who are called up to a Majors league team AND play in Majors league games will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
 ___
-### Article V - Positional and Scheduling Restrictions.
+### Article V - Proper Position and Scheduling Restrictions.
 
 #### Section A - Proper Positions
   - (1) In the Major and Minor leagues, proper positions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
