@@ -24,8 +24,8 @@
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
-- [Article V - Positional and Scheduling Restrictions.](#article-v---positional-and-scheduling-restrictions)
-  * [Section A - Positional Restrictions](#section-a---positional-restrictions)
+- [Article V - Proper Position and Scheduling Restrictions.](#article-v---proper-position-and-scheduling-restrictions)
+  * [Section A - Proper Positions](#section-a---proper-positions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Nominations](#section-a---map-nominations)
@@ -489,16 +489,16 @@ ___
 ___
 ### Article V - Positional and Scheduling Restrictions.
 
-#### Section A - Positional Restrictions
-  - (1) In the Major and Minor leagues, positional restrictions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
-    - (a) A position restriction indicates the side of the map a player will default to when there are no external influences on their decision making. Players with position restrictions are not required to adhere to rigid guidelines and may often find themselves 'outside' their restriction when doing so is the best strategical play available to them.
-    - (b) At their discretion the CRC may deem individual players ineligible for position restrictions, in which case their signup will be locked as eligible for both positions. 
-	    - (i) Any player who is ruled ineligible for a position restriction may be removed from the draft entirely if the CRC determines that they are continuing to use positional preferences to manipulate their draft stock.
-  - (2) In Novice league, positional restrictions for offense or defense will only be enforced if the player's most recent season in the position opposite their current restriction resulted in a positional NISH of 70 or greater.
+#### Section A - Proper Positions
+  - (1) In the Major and Minor leagues, proper positions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
+    - (a) A proper position indicates the side of the map a player will default to when there are no external influences on their decision making. Players with a proper position are not required to adhere to rigid guidelines and may often find themselves 'outside' their position when doing so is the best strategical play available to them.
+    - (b) At their discretion the CRC may deem individual players ineligible for proper positions, in which case their signup will be locked as eligible for both positions. 
+	    - (i) Any player who is ruled ineligible for a proper position may be removed from the draft entirely if the CRC determines that they are continuing to use positional preferences to manipulate their draft stock.
+  - (2) In Novice league, proper positions for offense or defense will only be enforced if the player's most recent season in the position opposite their current signup resulted in a positional NISH of 70 or greater.
     - (a) Examples:
-      - (i) A defender earns the 70 DNISH in the previous season and signs up with an offense restriction. The restriction will be enforced.
-      - (ii) A defender earns the 70 DNISH in the previous season and signs up with a defense restriction. The restriction will not be enforced.
-    - (b) If the player has never played a season where their primary position was the opposite position from their current restriction, no restriction will be applied.
+      - (i) A defender earns the 70 DNISH in the previous season and signs up with an offensive proper position. The position will be enforced.
+      - (ii) A defender earns the 70 DNISH in the previous season and signs up with a defensive proper position. The position will not be enforced.
+    - (b) If the player has never played a season where their primary position was the opposite position from their current signup, no restriction will be applied.
     
 #### Section B - Scheduling Restrictions
   - (1) The CRC may enforce minute restrictions on a player commensurate with the availability they indicate in their signup comments.
