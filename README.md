@@ -120,8 +120,8 @@ ___
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
-    - (b) There will be XX Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be XX Minors teams in the playoffs determined by regular season standings.
+    - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
+    - (c) There will be 16 Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -790,9 +790,9 @@ ___
 
 #### Section A - Team Eligibility
   - (1) Major League:
-    - (a) The top XX teams will advance to the playoffs.
+    - (a) The top 8 teams will advance to the playoffs.
   - (2) Minors League:
-    - (a) The top XX teams will advance to the playoffs.
+    - (a) The top 16 teams will advance to the playoffs.
   - (3) Novice League:
     - (a) Every team will advance to the playoffs.
   - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
