@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 28
+## Official Rules for North American League TagPro (NALTP) Season 29
 
 ### Table of Contents
 
@@ -24,8 +24,8 @@
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
-- [Article V - Positional and Scheduling Restrictions.](#article-v---positional-and-scheduling-restrictions)
-  * [Section A - Positional Restrictions](#section-a---positional-restrictions)
+- [Article V - Proper Position and Scheduling Restrictions.](#article-v---proper-position-and-scheduling-restrictions)
+  * [Section A - Proper Positions](#section-a---proper-positions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Nominations](#section-a---map-nominations)
@@ -65,7 +65,7 @@ ___
   - (1) NALTP signups and announcements will be facilitated via the NALTP Discord and subreddit.
     - (a) [Invite link](https://discord.com/invite/JCyQaZH)
     - (b) [Subreddit](https://www.reddit.com/r/MLTP/)
-    - (c) Sign up by messaging "!mltp" to the TToC_BOT.
+    - (c) Sign up by messaging "!naltp" to the TToC_BOT.
       
 #### Section B - Leagues
   - (1) NALTP will be comprised of three leagues, each with its own schedule, rule variations and set of teams.
@@ -121,7 +121,7 @@ ___
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
     - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be 13 Minors teams in the playoffs determined by regular season standings.
+    - (c) There will be 16 Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -153,7 +153,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (6) Members:
-    - (a) The Season 28 CRC will consist of Cheezedoodle, pk, flaccid trip, Megatron, and tinderfella
+    - (a) The Season 29 CRC will consist of Cheezedoodle, pk, bigbadball, kelvin, and Prime
  
 #### Section B - The League Manager (LM)
   - (1) League Manager structure overview:
@@ -164,7 +164,7 @@ ___
   - (3) Retirement:
     - (a) The League Manager is not permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Manager for Season 28 will be Poeticalto.
+    - (a) The League Manager for Season 29 will be Poeticalto.
    
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -319,7 +319,7 @@ ___
     - (a) Regular season:
       - (i) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
         - (1) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
-        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
+        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
@@ -356,7 +356,7 @@ ___
         - (1) There will be two add/drop periods during the regular season.
           - (aa) The first add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the following draft or the midnight before week 1 game days, whichever comes first.
           - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
-          - (cc) The second Minors add/drop period will begin at the conclusion of week 3 default games and conclude 72 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
+          - (cc) The second Minors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -401,7 +401,7 @@ ___
     - (b) Free agency period:
       - (i) Regular season:
         - (1) There will be a single, primary, free agency period followed by additional free agency periods as announced by the CRC.
-        - (2) The primary free agency period will begin at the conclusion of the second Minor league add/drop period.
+        - (2) The primary free agency period will begin following the third week of NLTP games.
       - (ii) Postseason:
         - (1) There will be no free agency periods in the postseason.
     - (c) Free agency process:
@@ -487,18 +487,18 @@ ___
   - (3) In order to accept a call-up to another league and not obtain DEP status, the player and the captain of the lower league team must both agree to release the player from the lower roster. 
   - (4) Players who are called up to a Majors league team AND play in Majors league games will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
 ___
-### Article V - Positional and Scheduling Restrictions.
+### Article V - Proper Position and Scheduling Restrictions.
 
-#### Section A - Positional Restrictions
-  - (1) In the Major and Minor leagues, positional restrictions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
-    - (a) A position restriction indicates the side of the map a player will default to when there are no external influences on their decision making. Players with position restrictions are not required to adhere to rigid guidelines and may often find themselves 'outside' their restriction when doing so is the best strategical play available to them.
-    - (b) At their discretion the CRC may deem individual players ineligible for position restrictions, in which case their signup will be locked as eligible for both positions. 
-	    - (i) Any player who is ruled ineligible for a position restriction may be removed from the draft entirely if the CRC determines that they are continuing to use positional preferences to manipulate their draft stock.
-  - (2) In Novice league, positional restrictions for offense or defense will only be enforced if the player's most recent season in the position opposite their current restriction resulted in a positional NISH of 70 or greater.
+#### Section A - Proper Positions
+  - (1) In the Major and Minor leagues, proper positions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
+    - (a) A proper position indicates the side of the map a player will default to when there are no external influences on their decision making. Players with a proper position are not required to adhere to rigid guidelines and may often find themselves 'outside' their position when doing so is the best strategical play available to them.
+    - (b) At their discretion the CRC may deem individual players ineligible for proper positions, in which case their signup will be locked as eligible for both positions. 
+	    - (i) Any player who is ruled ineligible for a proper position may be removed from the draft entirely if the CRC determines that they are continuing to use positional preferences to manipulate their draft stock.
+  - (2) In Novice league, proper positions for offense or defense will only be enforced if the player's most recent season in the position opposite their current signup resulted in a positional NISH of 70 or greater.
     - (a) Examples:
-      - (i) A defender earns the 70 DNISH in the previous season and signs up with an offense restriction. The restriction will be enforced.
-      - (ii) A defender earns the 70 DNISH in the previous season and signs up with a defense restriction. The restriction will not be enforced.
-    - (b) If the player has never played a season where their primary position was the opposite position from their current restriction, no restriction will be applied.
+      - (i) A defender earns the 70 DNISH in the previous season and signs up with an offensive proper position. The position will be enforced.
+      - (ii) A defender earns the 70 DNISH in the previous season and signs up with a defensive proper position. The position will not be enforced.
+    - (b) If the player has never played a season where their primary position was the opposite position from their current signup, no restriction will be applied.
     
 #### Section B - Scheduling Restrictions
   - (1) The CRC may enforce minute restrictions on a player commensurate with the availability they indicate in their signup comments.
@@ -519,10 +519,10 @@ ___
       - (i) Each captain will be asked to submit up to 5 map nominations to be voted into the map rotation.
       - (ii) Remixed maps, updated maps, and any other minor adjustments will be treated as separate nominations.
     - (c) Community maps:
-      - (i) There will be no community maps in Season 28.
+      - (i) There will be no community maps in Season 29.
       
 #### Section B - Map Voting and Selection
-  - (1) Majors, Minors, and Novice leagues:
+  - (1) Community selected maps:
     - (a) The first round of map voting will conclude no less than 48 hours before the draft.
       - (i) Captains will receive a ballot with every nomination and will vote yea or nay on each submission. All maps with 50% or less approval will be removed from the pool.
     - (b) The second round of map voting will conclude no later than the start of the draft.
@@ -538,8 +538,16 @@ ___
     - (d) The fourth round of map voting will conclude no later than 48 hours after the draft.
       - (i) Drafted players will receive a ballot to rank the remaining maps in order of preference.
       - (ii) Map votes will be counted via ranked choice vote with the top submissions being accepted.
+        - (1) The number of submissions accepteded will be equal to half of the maps to be played in each respective league rounded up.
     - (e) For Minors and Novice leagues, two slots may be filled via community maps during the season as announced by the CRC.
     - (f) The CRC will insert the winning maps into the regular season schedule at their discretion.
+  - (1) CRC selected maps
+    - (a) The CRC will fill in the remaining half of the map pool for each league following the community vote.
+    - (b) The CRC will select maps based on the following criteria:
+      - (1) Maps may only follow the traditional "CTF" format.
+      - (2) Maps must be considered viable for competitive play at CRC discretion.
+      - (3) Maps must have received prior testing in the form of pubs, tournaments, or league play.
+      - (4) One selection must not have been featured in the previous three seasons of the tier in question.
     
 #### Section C - Playoffs
   - (1) Major League:
@@ -584,7 +592,7 @@ ___
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Major league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: BBCCB;
             - (III) Week 3: CCDDC;
@@ -596,7 +604,7 @@ ___
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iii) Minor league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC; 
             - (III) Week 3: EEFFE;
@@ -607,7 +615,7 @@ ___
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iv) Novice league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 28, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC; 
             - (III) Week 3: EEFFE;
@@ -782,9 +790,9 @@ ___
 
 #### Section A - Team Eligibility
   - (1) Major League:
-    - (a) The top 6 teams will advance to the playoffs.
+    - (a) The top 8 teams will advance to the playoffs.
   - (2) Minors League:
-    - (a) The top 10 teams will advance to the playoffs.
+    - (a) The top 16 teams will advance to the playoffs.
   - (3) Novice League:
     - (a) Every team will advance to the playoffs.
   - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
@@ -833,7 +841,7 @@ ___
   - (4) Bots are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSe3i7hxCzPb86UBd4pNkh6VWiw0Ot3UPxMK_QxYT1w39QwBag/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSeuAvk_OuSWd3rT7JfHgu_RTTWPUi71fNCjdRmmFYuHcE6IEg/viewform) form. If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
   - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
