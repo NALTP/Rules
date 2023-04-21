@@ -20,7 +20,7 @@
   * [Section C - The Snake Draft](#section-c---the-snake-draft)
 - [Article IV - Roster Changes](#article-iv---roster-changes)
   * [Section A - Trades](#section-a---trades)
-  * [Section B - Drops, Call-ups, Free agency](#section-b---drops-call-ups-free-agency)
+  * [Section B - Drops, Call-ups, Free agency, Floaters](#section-b---drops-call-ups-free-agency-floaters)
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
@@ -96,18 +96,7 @@ ___
   - (5) League draft dates will stagger in one week increments with championships all occurring in the same week by default.
   
 #### Section E - Servers
-  - (1) Major league will be an “all-Dallas” league.
-  - (2) Minor league will be an “all-Dallas” league.
-  - (3) Novice league valid home servers will be:
-    - (a) New York,
-    - (b) Toronto,
-    - (c) Atlanta,
-    - (d) Chicago,
-    - (e) Los Angeles,
-    - (f) San Francisco,
-    - (g) Seattle and
-    - (h) Central.
-  - (4) Server splits will follow the [official server chart](https://i.imgur.com/nDpAZ0k.png).
+  - (1) All three leagues will be “all-Dallas” leagues.
   
 #### Section F - Games
   - (1) Regular season:
@@ -120,8 +109,8 @@ ___
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
-    - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be 16 Minors teams in the playoffs determined by regular season standings.
+    - (b) There will be ***** Majors teams in the playoffs determined by regular season standings.
+    - (c) There will be ***** Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -148,12 +137,12 @@ ___
         - (2) Players signed up for the current season’s draft at the time of ballot posting whose last season of play was within the last 5 seasons of NALTP.
       - (ii) The Vote will use a Single Transferable Vote (STV) with partial ranked ballots (voters rank as many candidates as they would like).
       - (iii) The winners of the IRV will fill the third, fourth, and fifth seats.
-  - (5) Vacancies:
+  - (3) Vacancies:
     - (a) In the event of an unexpected vacancy on the CRC midseason (due to a retirement, VONC, or other issue), the remaining CRC members will appoint a replacement for the remainder of the season.
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
-  - (6) Members:
-    - (a) The Season 29 CRC will consist of Cheezedoodle, pk, bigbadball, kelvin, and Prime
+  - (4) Members:
+    - (a) The Season 30 CRC will consist of Cheezedoodle, pk, bigbadball, Nebuchanezar, and Spheroid.
  
 #### Section B - The League Manager (LM)
   - (1) League Manager structure overview:
@@ -164,7 +153,7 @@ ___
   - (3) Retirement:
     - (a) The League Manager is not permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Manager for Season 29 will be Poeticalto.
+    - (a) The League Manager for Season 30 will be Poeticalto.
    
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -247,12 +236,15 @@ ___
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
     - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
-  - (2) Dual eligibility:
-    - (a) For all information on DEPs please see [Article IV, Section E](#section-e---dual-eligible-players--deps-).
+  - (2) Dual Eligibile Players (DEPs):
+    - (a) Players drafted to Majors may apply for DEP status no less than 24 hours before the Minors experienced deadline.
+      - (i) DEP status will be granted by a CRC majority vote.
+      - (ii) A player with DEP status is eligible for, and will be automatically enrolled in, the Minors draft.
+    - (b) For information on mid-season DEPs please see [Article IV, Section E](#section-e---dual-eligible-players--deps-).
   - (3) Gross Inactivity and misconduct drops:
     - (a) Players dropped in their previous season for Gross Inactivity or misconduct may be barred from NALTP at CRC discretion.
   - (4) Free agency eligibility and restrictions:
-    - (a) See [Article IV, Section B](#section-b---drops--call-ups--free-agency) for eligibility and restrictions.
+    - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency-floaters) for eligibility and restrictions.
 ___
 ### Article III - Drafting
 
@@ -264,7 +256,7 @@ ___
   - (5) The NLTP draft will continue until all remaining players are assigned to a team.
   
 #### Section B - The Auction Drafts
-  - (1) Leagues:
+  - (1) All leagues:
     - (a) TagCoins (TC):
       - (i) There will be three forms of TagCoins, TCM, TCN, and TCA.
         - (1) TCM = Major league TagCoin.
@@ -281,7 +273,7 @@ ___
             - (IV) The highest tier will be 100 TC.
       - (iii) Trades, including those involving TC, are allowed during each draft.
       - (iv) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
-      - (v) Remaining TC are destroyed at the conclusion of each draft and may not be carried forward in any way.
+      - (v) Remaining TCM and TCN are destroyed at the conclusion of each draft and may not be carried forward in any way. Remaining TCA are preserved as well as the value of TCA assigned to players drafted at auction.
       - (vi) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
       - (vii) TC may not be spent to remove a player from a roster and replace them on the draft board.
         - (1) In cases where a captain mistakenly drafts a player, the CRC may allow them to replace the player for a TC penalty.
@@ -293,7 +285,7 @@ ___
         - (1) Novice league will transition to a snake draft once each roster contains 3 players.
       - (v) If a team already has the maximum number of players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
       - (vi) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
-        - (1) With the exception of Majors, players who are nominated for 0 TC and do not receive bids from any other team will be added to the roster of the nominating team for 0 TC.
+        - (1) With the exception of Novice, players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
       - (vii) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
       
 #### Section C - The Snake Draft
@@ -308,9 +300,11 @@ ___
         - (4) Captain D begins with 80 TCA and ends with 0 TCA, or 0 pro-rated TCB.
         - (5) The draft order would be: C, A, B/D (coinflip).
     - (c) The team with the most prorated TCA will pick 1st in the 1st round.
-    - (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the big board being added to their roster.
+    - (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the draft packet being added to their roster.
+    	- (1) Captains may choose to opt-out of participation in the snake draft. Those who do will receive the top player from the draft packet when it is their turn to pick.
     - (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
     - (f) The snake draft will continue until every eligible signup has been drafted to a team.
+  - (2) All players drafted during the Snake draft will be assigned the tag "Floater". See [Article IV, Section B](#section-b---drops-call-ups-free-agency-floaters) for more information on Floater procedures.  
 ___
 ### Article IV - Roster changes
 
@@ -323,7 +317,7 @@ ___
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
-      - (v) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
+      - (v) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency--floaters) for more information on Gross Inactivity drops.
       - (vi) Trading draft picks for future seasons is prohibited.
       - (vii) Trades involving add/drop priority are prohibited.
       - (viii) Trades will take effect immediately after being approved by the CRC unless otherwise requested by the captains involved or announced by the CRC.
@@ -335,13 +329,13 @@ ___
   - (2) Novice league:
     - (a) Regular season:
       - (i) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
-        - (1) The trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time.
+        - (1) The trade period will begin at the conclusion of the primary free agency period and end no less than 24 hours before the first default week 5 game time.
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected.
       - (v) Trades involving inactive players will be permitted only with consideration for balancing roster sizes. Captains and GMs are expected to be aware of the activity of players involved in any trades.
       - (vi) Trading draft picks for future seasons is prohibited.
-      - (vii) Trades involving waiver wire position are prohibited.
+      - (vii) Trades involving TCA are prohibited.
       - (viii) Trades will take effect immediately after being approved by the CRC unless otherwise requested by the captains involved or announced by the CRC.
       - (ix) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
       - (x) Playing captains cannot be traded. See [Article IV, Section D](#section-d---captain-specific-roster-changes) for more information.
@@ -349,18 +343,18 @@ ___
     - (b) Postseason:
       - (i) There will be no trades permitted during the postseason.
      
-#### Section B - Drops, Call-ups, Free Agency
-  - (1) Major and Minor leagues:
+#### Section B - Drops, Call-ups, Free Agency, Floaters
+  - (1) Major league:
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the following draft or the midnight before week 1 game days, whichever comes first.
+          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
           - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
-          - (cc) The second Minors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
       - (i) An add/drop will consist of a player on a roster being dropped, followed by a player in a lower league or an unassigned player being called up.
+        - (1) Upon being called up, a player receives official DEP status equal to that awarded in preseason.
       - (ii) First add/drop period:
         - (1) Add/drops will be processed on a rolling, first come, first served basis.
           - (aa) Add/drops may be submitted to the CRC via direct messages or captains chat with an appropriate ping.
@@ -375,62 +369,128 @@ ___
     - (c) Add/drop player eligibility:
       - (i) First add/drop period:
         - (1) Add/drop pool:
-          - (aa) Any player who passed through the draft of the league with an open add/drop period unclaimed will be considered eligible. 
+          - (aa) Any player who passed through the Majors draft unclaimed will be considered eligible. 
         - (2) Dropped players:
-          - (aa) Any dropped player will be eligible for the upcoming draft unless called up by another team during the remainder of the first add/drop period.
+          - (aa) Any dropped player will be eligible for the Minors draft unless called up by another team during the remainder of the first add/drop period.
         - (3) Called up players:
-          - (aa) Any called up player will be removed from the upcoming draft unless dropped during the remainder of the first add/drop period.
+          - (aa) Any called up player will be removed from the Minors draft unless dropped during the remainder of the first add/drop period or awarded DEP status.
       - (ii) Second add/drop period:
         - (1) Add/drop pool:
-          - (aa) All rostered players in the league below who passed through the draft of the league with an open add/drop period will be considered eligible.
-          - (bb) Unclaimed players dropped in the add/drop period of the league above the league with the open add/drop period will be considered eligible after confirmation of interest.
-          - (cc) Any player who passed through the draft of the league with an open add/drop period unclaimed but declined to play in the next league down will be considered eligible after confirmation of interest.
+          - (aa) All rostered players in the leagues below who passed through the Majors draft will be considered eligible.
+          - (bb) Any player who passed through the Majors draft unclaimed but declined to play in Minors will be considered eligible after confirmation of interest.
         - (2) Dropped players:
-          - (aa) Any dropped player will be eligible to be called up to the same league by a team other than the one dropping them.
-          - (bb) Dropped players who are not called up will be entered into the add/drop pool or free agency of the next  league down after confirmation of interest.
+          - (aa) Any dropped player will be eligible to be called up to Majors by a team other than the one dropping them for the remainder of the open add/drop period.
+          - (bb) Dropped players who are not called up will be entered into the Minors add/drop pool after confirmation of interest so long as they do not posess DEP status.
             - (I) Players who decline to drop will remain eligible for loans, but not call-ups, for the remainder of the season.
-          - (cc) Players dropped from Majors league during the second add/drop period will not be eligible for Novice league free agency if they have played any minutes in Majors league that season.
+          - (cc) Players dropped from Majors during the second add/drop period will not be eligible for Novice free agency if they have played any minutes in Majors that season.
         - (3) Called up players:
           - (aa) Called up players may decline a call-up. In doing so they automatically decline any future call-ups or loans for the remainder of the season.
             - (I) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
     - (d) Free agency periods:
-      - (i) There will be no free agency periods in the Major or Minor leagues.
-  - (2) Novice league:
+      - (i) There will be no free agency periods in the Major league.
+  - (2) Minor league:
+    - (a) Add/drop periods:
+      - (i) Regular season:
+        - (1) There will be two add/drop periods during the regular season.
+          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Minors add/drop period will begin at the conclusion of week 2 default games and conclude 48 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
+      - (ii) Postseason:
+        - (1) There will be no add/drop periods in the postseason.
+    - (b) Add/drop process:
+      - (i) An add/drop will consist of a player on a roster being dropped, followed by a player in a lower league or an unassigned player being called up.
+      - (ii) First add/drop period:
+        - (1) Add/drops will be processed on a rolling, first come, first served basis.
+          - (aa) Add/drops may be submitted to the CRC via direct messages or captains chat with an appropriate ping.
+        - (2) The CRC will deny callups on the basis of availability restrictions, intentionally poor call-ups or anything else deemed relevant by the CRC.
+          - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
+        - (3) Players may not deny a call-up during the first add/drop period.
+      - (iii) Second add/drop period:
+        - (1) The second add/drop period will be comleted in two phases
+	  - (aa) Phase 1
+	    - (I) Minors captains with a rostered player posessing DEP status may claim a player from the pool of eligible Majors drops and replace a player on their roster with DEP status with the Majors drop.
+	    - (II) If a player is claimed by more than one team, the team lower in the official standings, is given priority.
+	    - (III) Any player with DEP status who is removed from a roster during phase 1 is ineligible for phase 2 of the add/drop process. 
+	  - (bb) Phase 2
+	    - (I) All add/drops will be processed at once at a predetermined time announced by the CRC.
+	    - (II) Add/drops may be submitted via form only unless otherwise noted by the CRC.
+	    - (III) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
+	    - (IV) In the event of one player being called up by more than one team, priority will go to the lowest ranked team in the absence of additional priority adjustments announced by the CRC.
+    - (c) Add/drop player eligibility:
+      - (i) First add/drop period:
+        - (1) Add/drop pool:
+          - (aa) Any player who passed through the Minors draft unclaimed will be considered eligible. 
+        - (2) Dropped players:
+          - (aa) Any dropped player will be eligible for the Novice draft unless called up by another team during the remainder of the first add/drop period.
+        - (3) Called up players:
+          - (aa) Any called up player will be removed from the Novice draft unless dropped during the remainder of the first add/drop period.
+      - (ii) Second add/drop period:
+        - (1) Add/drop pool:
+	  - (aa) Phase 1
+	    - (I) Any player dropped from Majors during the second add/drop period and not posessing DEP status will be considered eligible.
+	  - (bb) Phase 2
+            - (I) All rostered players in Novice who passed through the Minors draft will be considered eligible.
+            - (II) Players dropped in the Majors add/drop period who were not claimed during phase 1 will be considered eligible after confirmation of interest so long as they do not possess DEP status.
+            - (III) Any player who passed through the Minors draft unclaimed but declined to play in the next league down will be considered eligible after confirmation of interest.
+        - (2) Dropped players:
+          - (aa) Any dropped player will be eligible to be called up to Minors by a team other than the one dropping them for the remainder of the open add/drop period.
+          - (bb) Dropped players who are not called up will be entered into Novice free agency after confirmation of interest.
+            - (I) Players who decline to drop will remain eligible for loans, but not call-ups, for the remainder of the season.
+        - (3) Called up players:
+          - (aa) Called up players may decline a call-up. In doing so they automatically decline any future call-ups or loans for the remainder of the season.
+            - (I) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
+    - (d) Free agency periods:
+      - (i) There will be no free agency periods in the Minor league.      
+  - (3) Novice league:
     - (a) Add/drop periods:
       - (i) There will be no add/drop periods in Novice league.
-    - (b) Free agency period:
+    - (b) Floater drop period:
+      - (i) At the conclusion of the second week of games, captains select one player from their roster with the tag "Floater". All other players with the tag "Floater" are removed from their roster.
+      - (ii) Captains may nominate any unrostered player with the tag "Floater" to be added to the pool of eligible free agents. This must be done before bidding has opened on eligible free agents.
+      - (iii) Any floaters deemed inactive by the CRC will lose their tag "Floater" and removed from the free agency process.
+    - (c) Free agency period:
       - (i) Regular season:
         - (1) There will be a single, primary, free agency period followed by additional free agency periods as announced by the CRC.
-        - (2) The primary free agency period will begin following the third week of NLTP games.
+        - (2) The primary free agency period will begin following the second week of NLTP games and be completed in four stages.
+	  - (aa) The first stage of the primary free agency period will consist of eligible minors drops being bid on.
+	  - (bb) The second stage of the primary free agency period will consist of players used for bidding being bid on and repeat as needed.
+	  - (cc) The third stage of the primary free agency period will consist of nominated floaters being bid on.
+	  - (dd) The fourth stage of the primary free agency period will consist of all remaining free agents and all unrostered players with the tag "Floater" being drafted through a second snake draft.
       - (ii) Postseason:
-        - (1) There will be no free agency periods in the postseason.
-    - (c) Free agency process:
-        - (i) Free agency will consist of teams bidding on eligible free agents using waiver points to be added to Novice league rosters.
-        - (ii) Each NLTP team will receive 10 waiver points at the start of the season. These waiver points may be included in trades, including during the draft, until the conclusion of the primary free agency period.
-        - (iii) Teams will receive additional waiver points each week based on their standings at the end of each week's games, until free agency is over. The top two teams in the standings will receive 1 waiver point each, the next two teams will receive 3 waiver points each, and so on. Tie-breakers to determine mid-season weekly rank are determined in the same manner outlined in the playoff seeding section of the rules.
-        - (iv) The CRC may award additional waiver points to incentivize actions such as streaming games. Waiver points may be deducted as part of a Disciplinary Announcement.
-        - (v) All teams will have the opportunity to make a bid on any eligible free agent. When the free agency period expires, the player will be awarded to the team with the highest valid waiver point bid.
-        - (vi) If a team submits multiple bids, those bids will be processed in descending order of bid amount. If there are multiple bids on different players for the same amount, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered. It is the responsibility of the Captain to fill the form out properly. A captain should reach out to the CRC if they need help understanding the bidding process, and the CRC is obligated to help them with the process.
-        - (vii) If two teams have identical bids for a single player, the team with the worse season record will obtain the Free Agent, with tiebreaks being applied as necessary.
-        - (viii) Teams with the highest bid will be assigned the requested player and waiver points will be deducted from the team's total available waiver points. Teams will be deducted the amount they bid on a player, regardless of any other bids on the players.
-        - (ix) Bids will automatically be reduced to never exceed available waiver points. If a Team has 20 waiver points and submits a bid sheet: Player A-15; Player B-10; Player C-5 and wins Player A. Their bid for Player-B will reduce to 5 and have a priority over Player C which will remain at 5.
-        - (x) A bid of zero waiver points on a specific player is valid. Waiver points must be used in whole numbers.
-        - (xi) Free Agents that receive no bids will be auto assigned to a team.
-    - (d) Free agency player eligibility :
+        - (1) There will be no free agency periods in the postseason.	
+    - (d) Free agency process:
+      - (i) Each stage of free agency will consist of teams bidding on eligible free agents.
+        - (aa) A bid will be defined as a rostered player not posessing a "Floater" tag and any number of TCA.
+	- (bb) Starting TCA are equal to the number of TCA remaining at the conclusion of the auction draft.
+      - (ii) The value of a bid will be equal to the TCA value of the rostered player being bid added to the value of TCA included in the bid.
+      - (iii) All teams will have the opportunity to make a bid on any eligible free agent in each stage of free agency. When the stage is complete, the player will be awarded to the team with the highest value bid.
+      - (iv) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different free agents, those bids will be processed in order of submission. If multiple bids on a single free agent are received from a single team, only the most recent submission will be considered. 
+        - (aa) It is the responsibility of the captain to submit bids properly. A captain should reach out to the CRC if they need help understanding the bidding process, and the CRC is obligated to help them with the process. 
+      - (v) If two teams have bids of equal value for a single player, the team with the worse season record will obtain the free agent, with tiebreaks being applied as necessary. 	
+      - (vi) If a free agent should be awarded to a team, TCA will be deducted from the team's total TCA equal to the number of TCA included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of free agency.
+      - (vii) Bids will automatically be reduced to never exceed available TCA. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
+        - (aa) If a team has 20 TCA and submits the following bids: Player A-15; Player B-10; Player C-5 and wins Player A. Their bid for Player-B will reduce to 5 and have a priority over Player C which will remain at 5.
+      - (viii) A bid with a value of zero TCA on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCA must be used in whole numbers.
+      - (ix) Free agents who receive no bids will be progressed to the second snake draft.
+    - (e) Second Snake Draft:
+      - (i) The second snake draft order will be determined by the number of remaining TCA of each team following the third stage of the primary free agency period, without proration.
+        - (1) Ties will be resolved using a random generator
+      - (ii) The second snake draft will be completed asynchronously, with captains submitting bids to the CRC via direct messages.
+      - (iii) The second snake draft procedure will match that of the snake draft and continue until all eligible players have been assigned to a team.
+    - (f) Free agency player eligibility :
       - (i) Primary free agency period:
         - (1) Minor league drops in the second Minors add/drop period will be eligible for Novice free agency.
         - (2) True rookies will be eligible for free agency unless assessed above a Novice league level by the CRC.
           - (aa) A true rookie is defined as any player with fewer than 110 minutes played in any official North American Capture the Flag league. 
         - (3) Players whose last competitive season was more than 6 seasons prior in accordance with the NALTP calendar will be accepted case-by-case for those not assessed above a Novice league level by the CRC.
         - (4) Major league drops who also become Minor league drops will not be eligible for free agency unless they have a total of 0 minutes played in the Major league.
-        - (5) Players acquired in the primary free agency period will be eligible to begin playing in week 4 Novice league games.
+        - (5) Players acquired in the primary free agency period will be eligible to begin playing in week 3 Novice league games.
         - (6) Eligible co-captains seeking entry into Novice league must agree to enter into the free agency process, and are thus stripped of their title unless claimed by the team in which they are a co-captain. If a co-captain refuses to play for another team, they may face removal from the league on the grounds of collusion with their original team. Free agency results may also be adjusted accordingly.
-        - (7) Captains who were playing in, and are dropped from, Minor league are ineligible for Novice league unless their team is first in the wire at the time of the primary free agency period.
+        - (7) Captains who were playing in, and are dropped from, Minor league are ineligible for Novice league unless their team possesses a potential TCA bid large enough to guarantee their acquisition at the time of the primary free agency period.
       - (ii) Additional free agency periods:
         - (1) Only true rookies will be eligible for additional free agency periods.
         - (2) Signups may be denied for players assessed above a Novice league level by the CRC.
         - (3) Players acquired in additional free agency periods will be eligible to begin playing in any upcoming Novice league games regardless of turnaround.
-  - (3) Extra-league drops:
+  - (4) Extra-league drops:
     - (a) Gross Inactivity (GI):
       - (i) At any point in the regular season, captains may appeal to the CRC to have a player removed from their roster for Gross Inactivity.
         - (1) Gross inactivity is to be determined on a case by case basis by the CRC.
@@ -509,47 +569,35 @@ ___
 
 ### Article VI - Maps
 
-#### Section A - Map Nominations
-  - (1) Majors, Minors, and Novice leagues:
-    - (a) Automatically nominated maps:
-      - (i) All maps played in the past three seasons in any league will be added to the nomination pool.
-      - (ii) Duplicate maps will be combined into a single nomination.
-      - (iii) Remixed maps, updated maps, and any other minor adjustments will be treated as separate nominations.
-    - (b) Captain nominated maps:
-      - (i) Each captain will be asked to submit up to 5 map nominations to be voted into the map rotation.
-      - (ii) Remixed maps, updated maps, and any other minor adjustments will be treated as separate nominations.
-    - (c) Community maps:
-      - (i) There will be no community maps in Season 29.
+#### Section A - The Map Selection Panel
+  - (1) There will be one panel for all three tiers consisting of 8 members of the community.
+    - (a) Any current CRC member may opt-in to membership on the map selection panel.
+    - (b) The CRC appoints all remaining members, with a minimum of 1 Majors, 1 Minors, and 1 Novice player, defined as being on the roster of a team at that level at the end of the previous season.
       
 #### Section B - Map Voting and Selection
-  - (1) Community selected maps:
-    - (a) The first round of map voting will conclude no less than 48 hours before the draft.
-      - (i) Captains will receive a ballot with every nomination and will vote yea or nay on each submission. All maps with 50% or less approval will be removed from the pool.
-    - (b) The second round of map voting will conclude no later than the start of the draft.
-      - (i) Captains will receive a ballot with the remaining nominations and must vote to remove a specified number of maps from the pool.
-      - (ii) The specified number will be equal to the number of maps in the pool at the end of the first round of voting minus the number of rotation maps minus five.
-        - (1) Ex. If there are 20 maps in the pool at the end of the first round, and 7 will enter the rotation, captains will vote on 8 maps to remove from the pool (20-7-5=8).
-        - (2) Ex. If there are 25 maps in the pool at the end of the first round, and 10 will enter the rotation, captains will vote on 10 maps to remove from the pool (25-10-5=10). 
-      - (iii) Removal votes will be a simple aggregate. The specified number of maps with the most votes to remove will be removed.
-        - (1) In the event of a tie for removal, all tied maps will be retained for the third round of map voting.
-    - (c) The third round of map voting will conclude the night of the draft.
-      - (i) Captains will receive a ballot containing any similar nominations (remixes, edits, etc) and must vote for their version of preference.
-      - (ii) Votes will be counted by simple majority with the losing versions removed from the map pool.
-    - (d) The fourth round of map voting will conclude no later than 48 hours after the draft.
-      - (i) Drafted players will receive a ballot to rank the remaining maps in order of preference.
-      - (ii) Map votes will be counted via ranked choice vote with the top submissions being accepted.
-        - (1) The number of submissions accepteded will be equal to half of the maps to be played in each respective league rounded up.
-    - (e) For Minors and Novice leagues, two slots may be filled via community maps during the season as announced by the CRC.
-    - (f) The CRC will insert the winning maps into the regular season schedule at their discretion.
-  - (1) CRC selected maps
-    - (a) The CRC will fill in the remaining half of the map pool for each league following the community vote.
-    - (b) The CRC will select maps based on the following criteria:
-      - (1) Maps may only follow the traditional "CTF" format.
-      - (2) Maps must be considered viable for competitive play at CRC discretion.
-      - (3) Maps must have received prior testing in the form of pubs, tournaments, or league play.
-      - (4) One selection must not have been featured in the previous three seasons of the tier in question.
-    
-#### Section C - Playoffs
+  - (1) Panel selected maps
+    - (a) For each tier, the panel will be responsible for selecting 50% of the map rotation, rounded .
+    - (b) For each tier, the panel will be responsible for generating a map pool from which the remainder of maps will be decided.
+  - (1) Captain selected maps
+    - (a) Captains or GMs of each respective tier will vote, by borda count, on the maps in the map pool decided by the map selection panel. The maps with the highest score will be added to the rotation in an order determined by the map selection panel.
+
+#### Section C - Map distribution
+  - (1) Majors
+    - (a) There will be three tiers of maps selected.
+      - (i) High priority:
+        - (1) There will be 5 maps played 5 times each.
+	- (2) Maps must have been used in Majors in the previous season.
+      - (ii) Medium priority:
+        - (1) There will be 2 maps played 3 times each.
+	- (2) Maps must have been used in Majors in any past season except for the previous season.
+      - (iii) Low priority:
+        - (1) There will be 2 maps played 2 times each.
+	- (2) Maps must have never been played before in Majors.
+	  - (aa) Minor edits to previously used maps will not be accepted.
+  - (2) Minors and Novice
+    - (a) Two unique maps will be played each week.
+
+#### Section D - Playoffs
   - (1) Major League:
     - (a) All 7 maps from the regular season will be featured in playoffs.
   - (2) Minors and Novice Leagues:
