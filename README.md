@@ -187,24 +187,25 @@ ___
         - (2) They played at least half of total available regular-season minutes in the league of their DPC signup AND had a positional or total NISH of 90 or higher; or
         - (3) The player is deemed by the CRC to be beyond the skill level of the league of their DPC signup.
     - (c) Applicants who are likely to play in the league of their signup as determined by the CRC will be ineligible for NPC captaincy.
-    - (d) CRC members may only captain or GM as a last resort. They should not be considered an option unless they end up at a deficit for captains and have issued additional calls for more qualified captains or GMs.
+    - (d) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second add/drop period.
+    - (e) CRC members may only captain or GM as a last resort. They should not be considered an option unless they end up at a deficit for captains and have issued additional calls for more qualified captains or GMs.
       - (i) CRC captains or GMs automatically recuse themselves from:
         - (1) Any vote or discussion involving their team;
         - (2) Any vote or discussion on an action that would adjust league standings;
         - (3) Any vote or discussion for a disciplinary action that would suspend a player on an opponent they are scheduled to face in the suspension period; and
         - (4) Any trade, loan, or free agency/waiver approval.
-    - (e) Official Co-Captains are not permitted to be members of any team in their league other than the one they are co-captaining. If a Co-Captain should end up on any other league roster than the one they are co-captaining, they will be removed from their position as official Co-Captain.
-    - (f) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
-    - (g) CRC members are not permitted to be official co-captains under any circumstances.
-  - (3) Selection, voting, and announcements:
+    - (f) Official Co-Captains are not permitted to be members of any team in their league other than the one they are co-captaining. If a Co-Captain should end up on any other league roster than the one they are co-captaining, they will be removed from their position as official Co-Captain.
+    - (g) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
+    - (h) CRC members are not permitted to be official co-captains under any circumstances.
+  - (4) Selection, voting, and announcements:
     - (a) Captains and GMs will be approved by a majority vote from the CRC.
     - (b) Co-captains do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
     - (c) Voting will be done on a rolling basis with final decisions periodically announced via the r/MLTP subreddit.
     - (d) The final list of captains for each league will be announced at least 24 hours before the draft is scheduled to begin.
-  - (4) Retirement:
+  - (5) Retirement:
     - (a) Captains and GMs are considered retired from their position after the election of the following season’s CRC has concluded.
     - (b) Captaincy in one season does not carry to the next season. Players will need to re-apply each season if they wish to continue captaining.
-  - (5) Mid-season vacancy.
+  - (6) Mid-season vacancy.
     - (a) If a captain or GM must step down from their position due to a real life conflict or is removed by CRC ruling, a replacement will be nominated by either the outgoing captain or the CRC to then be approved by the CRC with a majority vote.
     - (b) Replacement captains or GMs may be rostered members of the team in question or non-players. Players currently on a different team in the same league may not be replacement captains or GMs.
     - (c) Replacement captains or GMs are not required to be former co-captains of the same team.
@@ -542,10 +543,9 @@ ___
   - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or granted a number of positions determined by the CRC in the waiver wire as compensation.
    
 #### Section E - Dual Eligible Players (DEPs)
-  - (1) DEPs will be allowed for players rostered in Minors or Novice league teams. Players rostered only in Majors league are not eligible to become DEPs.
-  - (2) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season. 
-  - (3) In order to accept a call-up to another league and not obtain DEP status, the player and the captain of the lower league team must both agree to release the player from the lower roster. 
-  - (4) Players who are called up to a Majors league team AND play in Majors league games will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
+  - (1) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season. 
+  - (2) In order to accept a call-up to another league and not obtain DEP status, the player and the captain of the lower league team must both agree to release the player from the lower roster. 
+  - (3) Players who are called up to a Majors league team AND play in Majors league games will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
 ___
 ### Article V - Proper Position and Scheduling Restrictions.
 
