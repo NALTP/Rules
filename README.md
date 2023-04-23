@@ -206,7 +206,7 @@ ___
     - (a) Captains and GMs are considered retired from their position after the election of the following season’s CRC has concluded.
     - (b) Captaincy in one season does not carry to the next season. Players will need to re-apply each season if they wish to continue captaining.
   - (6) Mid-season vacancy.
-    - (a) If a captain or GM must step down from their position due to a real life conflict or is removed by CRC ruling, a replacement will be nominated by either the outgoing captain or the CRC to then be approved by the CRC with a majority vote.
+    - (a) If a captain or GM must step down from their position due to a real life conflict or is removed by CRC ruling, a replacement will be nominated by either the outgoing captain or the CRC to then be approved by the CRC with a majority vote. This player is not required to be a rostered player in the league.
     - (b) Replacement captains or GMs may be rostered members of the team in question or non-players. Players currently on a different team in the same league may not be replacement captains or GMs.
     - (c) Replacement captains or GMs are not required to be former co-captains of the same team.
     - (d) Playing captains who step down or are removed from their position may not be traded.
@@ -214,7 +214,7 @@ ___
       - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
       - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
       - (iii) In extreme cases, if the final add/drop period has concluded, the CRC may initiate an extra add/drop window to accomodate.
-    - (f) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups.
+    - (f) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
     
      
 #### Section D - Players
@@ -501,11 +501,11 @@ ___
       - (iii) After conferring with both the captain and the player to be dropped, the CRC will determine whether the player is to be dropped, held, or forcibly traded.
       - (iv) A player dropped for gross inactivity will be ineligible to be added by any team in any league for the remainder of the season, with the exception of the team that dropped them.
         - (1) Minutes missed while GI dropped do not count towards minute restrictions.
-      - (v) Teams with an approved GI drop may be granted priority in free agency or add/drop periods or receive additional opportunities for call-ups as determined by the CRC.
+      - (v) Teams with an approved GI drop may be granted priority in free agency or add/drop periods or receive additional opportunities for call-ups or replacement players not rostered in any league as determined by the CRC.
     - (b) Conduct:
       - (i) At any point, captains or players may appeal to the CRC to have a player removed from their roster for conduct violations.
       - (ii) Evidence must be submitted and the CRC will investigate independently to determine if the player threatens the league environment or community as a whole.
-      - (iii) Teams with a player forcibly dropped due to conduct may be granted priority in free agency or add/drop periods or receive additional opportunities for call-ups as determined by the CRC.
+      - (iii) Teams with a player forcibly dropped due to conduct may be granted priority in free agency or add/drop periods or receive additional opportunities for call-ups or replacement players not rostered in any league as determined by the CRC.
  
 #### Section C - Loans
   - (1) Majors and Minors leagues:
