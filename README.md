@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 29
+## Official Rules for North American League TagPro (NALTP) Season 30
 
 ### Table of Contents
 
