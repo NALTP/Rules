@@ -642,12 +642,12 @@ ___
         - (1) Maps will follow the schedule posted by the CRC.
           - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
-            - (II) Week 2: BBCCB;
-            - (III) Week 3: CCDDC;
-            - (IV) Week 4: DDEED;
-            - (V) Week 5: EEFFE;
-            - (VI) Week 6: FFGGF;
-            - (VII) Week 7: GGAAG;
+            - (II) Week 2: CCDDC;
+            - (III) Week 3: EEFFE;
+            - (IV) Week 4: FFGGF;
+            - (V) Week 5: GGEEG;
+            - (VI) Week 6: HHIIH;
+            - (VII) Week 7: BBAAB;
         - (2) Team colors will alternate RBRBR for each match.
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iii) Minor league:
