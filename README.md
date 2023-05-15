@@ -109,8 +109,8 @@ ___
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
-    - (b) There will be ***** Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be ***** Minors teams in the playoffs determined by regular season standings.
+    - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
+    - (c) There will be 12 Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -640,7 +640,7 @@ ___
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Major league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 30, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC;
             - (III) Week 3: EEFFE;
@@ -652,7 +652,7 @@ ___
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iii) Minor league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 30, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC; 
             - (III) Week 3: EEFFE;
@@ -663,7 +663,7 @@ ___
           - (aa) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
       - (iv) Novice league:
         - (1) Maps will follow the schedule posted by the CRC.
-          - (aa) In Season 29, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) In Season 30, each match will have 2 maps in the following format. Each letter represents a unique map.
             - (I) Week 1: AABBA;
             - (II) Week 2: CCDDC; 
             - (III) Week 3: EEFFE;
@@ -840,7 +840,7 @@ ___
   - (1) Major League:
     - (a) The top 8 teams will advance to the playoffs.
   - (2) Minors League:
-    - (a) The top 16 teams will advance to the playoffs.
+    - (a) The top 12 teams will advance to the playoffs.
   - (3) Novice League:
     - (a) Every team will advance to the playoffs.
   - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
