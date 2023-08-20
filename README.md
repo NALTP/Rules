@@ -93,7 +93,7 @@ ___
     - (a) Majors on Sunday;
     - (b) Minors on Monday;
     - (c) Novice on Wednesday;
-  - (5) League draft dates will stagger in one week increments with championships all occurring in the same week by default.
+  - (5) League draft dates will be staggered with championships all occurring in the same week by default.
   
 #### Section E - Servers
   - (1) All three leagues will be “all-Dallas” leagues.
@@ -312,8 +312,8 @@ ___
   - (1) Major and Minor leagues:
     - (a) Regular season:
       - (i) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
-        - (1) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
-        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 3 game time.
+        - (1) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
+        - (2) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time.
       - (ii) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
       - (iii) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
       - (iv) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
@@ -348,8 +348,8 @@ ___
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
+          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Majors add/drop period will begin at the conclusion of week 3 default games and conclude 24 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -392,8 +392,8 @@ ___
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Minors add/drop period will begin at the conclusion of week 2 default games and conclude 48 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
+          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Minors add/drop period will begin at the conclusion of week 3 default games and conclude 24 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -405,7 +405,7 @@ ___
           - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
         - (3) Players may not deny a call-up during the first add/drop period.
       - (iii) Second add/drop period:
-        - (1) The second add/drop period will be comleted in two phases
+        - (1) The second add/drop period will be completed in two phases
 	  - (aa) Phase 1
 	    - (I) Minors captains with a rostered player posessing DEP status may claim a player from the pool of eligible Majors drops and replace a player on their roster with DEP status with the Majors drop.
 	    - (II) If a player is claimed by more than one team, the team lower in the official standings, is given priority.
@@ -448,7 +448,7 @@ ___
       - (ii) Any removed players deemed inactive by the CRC will be removed from the free agency process. The CRC may require select captains to remove an additional player from their roster in the event of an inactive player being selected.
     - (c) Free agency period:
       - (i) Regular season:
-        - (1) There will be a single, primary, free agency period followed by additional free agency periods as announced by the CRC.
+        - (1) There will be a single, primary, free agency period completed live followed by additional asynchronous free agency periods as announced by the CRC.
         - (2) The primary free agency period will begin following the third week of NLTP games and be completed in three stages.
 	  - (aa) The first stage of the primary free agency period will consist of eligible minors drops being bid on.
 	  - (bb) The second stage of the primary free agency period will consist of players used for bidding being bid on and repeat as needed.
@@ -607,27 +607,13 @@ ___
 ### Article VII - Matches
 
 #### Section A - Match Scheduling
-  - (1) Major league:
-    - (a) By default, Major league games will take place on Sunday nights.
-    - (b) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. The times must fall within boundaries to be determined by the CRC.
-    - (c) The default gametime will be the average of the two teams’ default game times.
-      - (i) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
-  - (2) Minor league:
-    - (a) By default, Minor league games will take place on Monday nights.
-    - (b) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. The time will fall within boundaries to be determined by the CRC.
-    - (c) The default gametime will be the average of the two teams’ default game times.
-      - (i) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
-  - (3) Novice league:
-    - (a) By default, Novice league games will take place on Wednesday nights.
-    - (b) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. The time will fall within boundaries to be determined by the CRC.
-    - (c) At the beginning of the season and after the draft, captains will be asked to submit their team’s home server.
-      - (i) Teams will be allowed to change their home servers at the beginning of the season if there are extenuating circumstances. Captains will need to discuss this with the CRC.
-        - (1) The CRC reserves the right to grant additional server changes throughout the season to teams with special circumstances.
-      - (ii) Teams that choose Central as their home server are permitted to opt-in to western style timing.
-    - (d) In matches played between two eastern teams or two western teams, the default gametime will be the average of the two teams’ default gametime.
-      - (i) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
-    - (e) The default time for all matches between western (LA, SF, SEA) teams and non-western teams will be 10 PM ET.
-      - (i) Central teams who have opted into western style timing will be considered western teams for this point.
+  - (1) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. The times must fall within boundaries to be determined by the CRC.
+  - (2) The default gametime will be the average of the two teams’ default game times.
+    - (a) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
+  - (3) Default days
+    - (a) Major league games will take place on Sunday nights. During accelerated game weeks, games will take place on Sunday and Tuesday nights.
+    - (b) Minor league games will take place on Monday nights. During accelerated game weeks, games will take place on Monday and Thursday nights.
+    - (c) Novice league games will take place on Wednesday nights. During accelerated game weeks, games will take place on Sunday and Wednesday nights.
   - (4) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
     - (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 72 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
     
