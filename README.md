@@ -507,20 +507,29 @@ ___
  
 #### Section C - Loans
   - (1) Majors and Minors leagues:
-    - (a) Any rostered player is eligible to be loaned to a team in any league above their highest rostered league if they passed through the draft of that league.
-      - (i) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
-      - (ii) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
-      - (iii) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
-    - (b) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams. 
-    - (c) Players may only be loaned for up to one week per team in the regular season for any number of minutes.
-    - (d) Players may only be loaned up for one week per team in the post-season for any number of minutes.
-    - (e) Players may only play in one match per league per week.
-    - (f) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
-    - (g) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
-      - (i) The CRC may approve conditional hot-sub waivers to players expected to play <40% of a match (less than 2 out of 5 games). If a predetermined minutes threshold is crossed, the waiver will be revoked and the gameplay will be considered as a loan.
-    - (h) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
-    - (h) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
-      - (i) Players who are loaned to a Major league team will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
+    - (a) Eligibility
+      - (i) Any rostered player is eligible to be loaned to a team in any league above their highest rostered league if they passed through the draft of that league.
+        - (1) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
+        - (2) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
+        - (3) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
+        - (4) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams.
+    - (b) Restrictions
+      - (i) Players may only play in one match per league per week.
+      - (ii) Players may only be loaned for up to two weeks per team in the regular season for any number of minutes.
+      - (iii) Players may be loaned any number of times in the post-season for any number of minutes.
+      - (iv) Players who are loaned to a Major league team will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
+      - (v) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
+      - (vi) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
+    - (c) Priority
+      - (i) Regular season
+        - (1) The first team to contact a player will have priority to loan them for the upcoming week.
+        - (2) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
+      - (ii) Post-season
+        - (1) The team which has loaned a player for the fewest total minutes (including the regular season) will have loan priority for the upcoming week.
+        - (2) If the scheduled game time is less than 24 hours away, the first team to contact a player will have priority to loan them for the upcoming week.
+    - (g) Hot-subs
+      - (i) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
+        - (1) The CRC may approve conditional hot-sub waivers to players expected to play <40% of a match (less than 2 out of 5 games). If a predetermined minutes threshold is crossed, the waiver will be revoked and the gameplay will be considered as a loan.
   - (2) Novice league:
     - (a) If a Novice league team cannot field a full team for a week’s game, they may elect to loan a player from another team.
       - (i) In extreme cases, if no player can be found, the CRC may approve a loan for a player not currently rostered to an NALTP team.
