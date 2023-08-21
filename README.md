@@ -509,7 +509,7 @@ ___
   - (1) Majors and Minors leagues:
     - (a) Eligibility
       - (i) Any rostered player is eligible to be loaned to a team in any league above their highest rostered league if they passed through the draft of that league.
-        - (1) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
+      - (1) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
         - (2) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
         - (3) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
         - (4) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams.
@@ -527,7 +527,7 @@ ___
       - (ii) Post-season
         - (1) The team which has loaned a player for the fewest total minutes (including the regular season) will have loan priority for the upcoming week.
         - (2) If the scheduled game time is less than 24 hours away, the first team to contact a player will have priority to loan them for the upcoming week.
-    - (g) Hot-subs
+    - (d) Hot-subs
       - (i) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
         - (1) The CRC may approve conditional hot-sub waivers to players expected to play <40% of a match (less than 2 out of 5 games). If a predetermined minutes threshold is crossed, the waiver will be revoked and the gameplay will be considered as a loan.
   - (2) Novice league:
