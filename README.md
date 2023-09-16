@@ -238,7 +238,7 @@ ___
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
     - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
   - (2) Dual Eligibile Players (DEPs):
-    - (a) Players drafted to Majors may apply for DEP status no less than 24 hours before the Minors experienced deadline.
+    - (a) Players drafted to Majors may apply for DEP status no more than 24 hours after the Majors draft.
       - (i) DEP status will be granted by a CRC majority vote.
       - (ii) A player with DEP status is eligible for, and will be automatically enrolled in, the Minors draft.
     - (b) For information on mid-season DEPs please see [Article IV, Section E](#section-e---dual-eligible-players--deps-).
