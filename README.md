@@ -236,13 +236,13 @@ ___
     - (b) Players with fewer than 110 minutes minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
     - (c) Players removed from the a league draft by the CRC are not eligible to enter the following lower-league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
-    - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
+    - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, Section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
     - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
   - (2) Dual Eligibile Players (DEPs):
     - (a) Players drafted to Majors may apply for DEP status no more than 24 hours after the Majors draft.
       - (i) DEP status will be granted by a CRC majority vote.
       - (ii) A player with DEP status is eligible for, and will be automatically enrolled in, the Minors draft.
-    - (b) For information on mid-season DEPs please see [Article IV, Section E](#section-e---dual-eligible-players--deps-).
+    - (b) For information on mid-season DEPs please see [Article IV, Section E](#section-e---dual-eligible-players-deps).
   - (3) Gross Inactivity and misconduct drops:
     - (a) Players dropped in their previous season for Gross Inactivity or misconduct may be barred from NALTP at CRC discretion.
   - (4) Free agency eligibility and restrictions:
@@ -317,7 +317,7 @@ ___
     - (b) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
     - (c) All trades must be approved by the captain or official co-captain of both teams, and can be vetoed by the CRC.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
-    - (e) Trades involving inactive players will not be permitted with the exception of Novice league for the expressed purpose of balancing roster sizes. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
+    - (e) Trades involving inactive players will not be permitted with the exception of Novice league for the expressed purpose of balancing roster sizes. Please see [Article IV Section B](#section-b---drops-call-ups-free-agency) for more information on Gross Inactivity drops.
     - (f) Trading draft picks for future seasons is prohibited.
     - (g) Trades involving add/drop priority or any form of TagCoin are prohibited.
     - (h) Trades will take effect immediately after being approved by the CRC unless otherwise requested by the captains involved or announced by the CRC.
@@ -929,7 +929,7 @@ ___
   - (1) At any point in the season, a captain will be allowed to formally request a vote of no-confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
     - (a) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, they will be removed from the CRC immediately. If the CRC members do not vote in favor, the member is not removed, but automatically retires at the conclusion of the season.
     - (b) In the event of this, the CRC member must wait at least 1 full season before running for re-election to the CRC.
-    - (c) See [Article II, Section A, Part 5](#section-a---the-committee-for-rules-and-coordination--crc-) for vacancy information.
+    - (c) See [Article II, Section A, Part 5](#section-a---the-committee-for-rules-and-coordination-crc) for vacancy information.
 ___
 ### Article XIII - Appendix
   - (1) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that breaks the NALTP rules.
