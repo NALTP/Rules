@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 31
+## Official Rules for North American League TagPro (NALTP) Season 32
 
 ### Table of Contents
 
@@ -11,7 +11,7 @@
   * [Section F - Games](#section-f---games)
 - [Article II - Leadership Roles, Member Roles & Eligibility](#article-ii---leadership-roles-member-roles--eligibility)
   * [Section A - The Committee for Rules and Coordination (CRC)](#section-a---the-committee-for-rules-and-coordination-crc)
-  * [Section B - The League Manager (LM)](#section-b---the-league-manager-lm)
+  * [Section B - The League Manager (LM)](#section-b---the-league-managers-lm)
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
 - [Article III - Drafting](#article-iii---drafting)
@@ -28,9 +28,10 @@
   * [Section A - Proper Positions](#section-a---proper-positions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
 - [Article VI - Maps](#article-vi---maps)
-  * [Section A - Map Nominations](#section-a---map-nominations)
-  * [Section B - Map Voting and Selection](#section-b---map-voting-and-selection)
-  * [Section C - Playoffs](#section-c---playoffs)
+  * [Section A - The Map Selection Panel](#section-a---the-map-selection-panel)
+  * [Section B - Map Selection](#section-b---map-selection)
+  * [Section C - Map Distribution](#section-c---map-distribution)
+  * [Section D - Playoffs](#section-d---playoffs)
 - [Article VII - Matches](#article-vii---matches)
   * [Section A - Match Scheduling](#section-a---match-scheduling)
   * [Section B - Settings](#section-b---settings)
@@ -96,7 +97,7 @@ ___
   - (5) League draft dates will be staggered with championships all occurring in the same week by default.
   
 #### Section E - Servers
-  - (1) All three leagues will be “all-Dallas” leagues.
+  - (1) All three leagues will be “all-___” leagues.
   
 #### Section F - Games
   - (1) Regular season:
@@ -646,7 +647,7 @@ ___
       - (xv) Single World Joiner disabled and set to default server.
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
-      - (ii) All games will be set to Dallas by default. In the event that multiple Dallas servers exist simultaneously, the Dallas server with the lowest associated number will be considered the default (e.g. Dallas1).
+      - (ii) All games will be set to ___ by default. In the event that multiple ___ servers exist simultaneously, the ___ server with the lowest associated number will be considered the default (e.g. ___1).
     - (e) If overtime is unable to be played for any reason including but not limited to incorrect settings, game crashes, or back to group callouts.
       - (i) The involved teams will play a single ‘golden cap’ half with the following settings:
         - (1) Time limit set to 20 minutes;
