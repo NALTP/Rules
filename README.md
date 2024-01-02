@@ -97,7 +97,7 @@ ___
   - (5) League draft dates will be staggered with championships all occurring in the same week by default.
   
 #### Section E - Servers
-  - (1) All three leagues will be “all-___” leagues.
+  - (1) All three leagues will be “all-Chicago” leagues.
   
 #### Section F - Games
   - (1) Regular season:
@@ -110,7 +110,7 @@ ___
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
-    - (b) There will be ___ Majors teams in the playoffs determined by regular season standings.
+    - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
     - (c) There will be ___ Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
@@ -647,7 +647,7 @@ ___
       - (xv) Single World Joiner disabled and set to default server.
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
-      - (ii) All games will be set to ___ by default. In the event that multiple ___ servers exist simultaneously, the ___ server with the lowest associated number will be considered the default (e.g. ___1).
+      - (ii) All games will be set to Chicago by default. If Chicago is the only server in the central region, games are to be launched with the regional selection "Central". In the event that multiple central locations existing simultaneously, the Chicago server with the lowest associated number will be considered the default (e.g. Chicago1).
     - (e) If overtime is unable to be played for any reason including but not limited to incorrect settings, game crashes, or back to group callouts.
       - (i) The involved teams will play a single ‘golden cap’ half with the following settings:
         - (1) Time limit set to 20 minutes;
@@ -787,7 +787,7 @@ ___
 
 #### Section A - Team Eligibility
   - (1) Major League:
-    - (a) The top ___ teams will advance to the playoffs.
+    - (a) The top 8 teams will advance to the playoffs.
   - (2) Minors League:
     - (a) The top ___ teams will advance to the playoffs.
   - (3) Novice League:
