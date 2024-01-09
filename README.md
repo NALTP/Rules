@@ -312,20 +312,20 @@ ___
   - (1) Regular season:
     - (a) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
       - (i) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
-      - (ii) The Minors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time.
-      - (iii) The Novice trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time. 
+      - (ii) The Minors and Novice trade periods will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time.
     - (b) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
-    - (c) All trades must be approved by the captain or official co-captain of both teams, and can be vetoed by the CRC.
+    - (c) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
-    - (e) Trades involving inactive players will not be permitted with the exception of Novice league for the expressed purpose of balancing roster sizes. Please see [Article IV Section B](#section-b---drops-call-ups-free-agency) for more information on Gross Inactivity drops.
+    - (e) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
+      - (i) Exceptions may be made at the Novice level, but will be permitted only with consideration for balancing roster sizes. Captains and GMs are expected to be aware of the activity of players involved in any trades
     - (f) Trading draft picks for future seasons is prohibited.
-    - (g) Trades involving add/drop priority or any form of TagCoin are prohibited.
+    - (g) Trades involving add/drop priority or TagCoins are prohibited.
     - (h) Trades will take effect immediately after being approved by the CRC unless otherwise requested by the captains involved or announced by the CRC.
     - (i) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
     - (j) Playing captains cannot be traded. See [Article IV, Section D](#section-d---captain-specific-roster-changes) for more information.
     - (k) Trades between leagues are not permitted.
   - (2) Postseason:
-    - (i) There will be no trades permitted during the postseason.
+    - (a) There will be no trades permitted during the postseason.
      
 #### Section B - Drops, Call-ups, Free Agency
   - (1) Major league:
