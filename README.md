@@ -111,7 +111,7 @@ ___
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
     - (b) There will be 8 Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be ___ Minors teams in the playoffs determined by regular season standings.
+    - (c) There will be 15 Minors teams in the playoffs determined by intra-pod standings and regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -286,7 +286,7 @@ ___
         - (1) Novice league will transition to a snake draft once each roster contains 3 players.
       - (v) If a team already has the maximum number of players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
       - (vi) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
-        - (1) With the exception of Novice, players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
+        - (1) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
       - (vii) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
       
 #### Section C - The Snake Draft
@@ -571,7 +571,7 @@ ___
     - (a) For each tier, the Map Selection Panel will be responsible for selecting 9 predetermined maps by a method of their own choosing.
     - (b) Predetermined maps will be announced as early as possible and before signups for any tier have been closed.
   - (1) Team home maps
-    - (a) Following week 1 games, each team will have 72 hours to submit one home map.
+    - (a) Following week 1 games, each team will have 72 hours to submit one home map in the absense of additional deadlines announced by the CRC.
     - (b) Each home map will be subject to approval by the Map Selection Panel.
       - (i) Approved maps may be rejected by a successful captains veto of 70% or greater of the relevant tier.
     - (c) Home maps may only be submitted for approval when they adhere to the following guidelines:
@@ -579,7 +579,7 @@ ___
       - (ii) Must not be the same or similar to any other approved home map for that tier.
         - (1) Disputes will be resolved with the home map being granted to the team which finished the auction draft with the most remaining TagCoins or random generator if not applicable.
       - (iii) "Same or similar" will be recognized as lacking meaningful game-flow changing edits.
-      - (iv) [INSERT OTHER RULES HERE]
+      - (iv) Must maintain competitive integrity as determined by the Map Selection panel.
     - (d) Home maps may not be re-submitted or altered at any point during the season.
       - (i) Exceptions may be approved by the Map Selection Panel to fix unforseen map mechanisms.
 
@@ -593,7 +593,7 @@ ___
       - (i) There will be 1 map per team played 3 times by that team and a maximum of 1 time by any other team (for a total of 6 times played on any home map).
 
 #### Section D - Playoffs
-  - (1) All 9 Predetermined maps from the regular season will be eligible in playoffs.
+  - (1) All predetermined maps from the regular season will be eligible in playoffs.
   - (2) The home map of the higher seed will be eligible in each matchup of the playoffs
   - (3) The home map of the lower seed will be eligible only in the final round of the playoffs.
 
@@ -617,7 +617,7 @@ ___
     - (b) Maps and starting color:
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 32, each match will have 2 maps in the following format with each week 2-7 also including a home map. Each letter represents a unique map with the letter H representing a home map.
+        - (1) In Season 32, each match will have 2 maps in the following format with each week 2-7 also including a home map, Minors will skip the below week 1. Each letter represents a unique map with the letter H representing a home map.
           - (aa) Week 1: AABBA;
           - (bb) Week 2: HBBCC;
           - (cc) Week 3: HDDEE;
@@ -789,7 +789,7 @@ ___
   - (1) Major League:
     - (a) The top 8 teams will advance to the playoffs.
   - (2) Minors League:
-    - (a) The top ___ teams will advance to the playoffs.
+    - (a) The top 15 teams will advance to the playoffs.
   - (3) Novice League:
     - (a) Every team will advance to the playoffs.
   - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
