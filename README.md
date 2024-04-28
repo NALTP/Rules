@@ -189,7 +189,7 @@ ___
         - (2) They played at least half of total available regular-season minutes in the league of their DPC signup AND had a positional or total NISH of 90 or higher; or
         - (3) The player is deemed by the CRC to be beyond the skill level of the league of their DPC signup.
     - (c) Applicants who are likely to play in the league of their signup as determined by the CRC will be ineligible for NPC captaincy.
-    - (d) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second add/drop period.
+    - (d) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second  period.
     - (e) CRC members may only captain or GM as a last resort. They should not be considered an option unless they end up at a deficit for captains and have issued additional calls for more qualified captains or GMs.
       - (i) CRC captains or GMs automatically recuse themselves from:
         - (1) Any vote or discussion involving their team;
@@ -212,10 +212,10 @@ ___
     - (b) Replacement captains or GMs may be rostered members of the team in question or non-players. Players currently on a different team in the same league may not be replacement captains or GMs.
     - (c) Replacement captains or GMs are not required to be former co-captains of the same team.
     - (d) Playing captains who step down or are removed from their position may not be traded.
-    - (e) Former playing captains may activate an option to be dropped in the next add/drop period.
+    - (e) Former playing captains may activate an option to be dropped in the next  period.
       - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
       - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-      - (iii) In extreme cases, if the final add/drop period has concluded, the CRC may initiate an extra add/drop window to accomodate.
+      - (iii) In extreme cases, if the final  period has concluded, the CRC may initiate an extra  window to accomodate.
     - (f) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
 
 #### Section D - Players
@@ -311,7 +311,7 @@ ___
 #### Section A - Trades
   - (1) Regular season:
     - (a) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
-      - (i) The trade period for all tiers will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
+      - (i) The trade period for all tiers will begin at the conclusion of their respective draft and end no less than 48 hours before the first default week 4 game time.
     - (b) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
     - (c) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
@@ -331,8 +331,8 @@ ___
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
+          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 24 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -375,8 +375,8 @@ ___
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Minors add/drop period will begin at the conclusion of week 2 default games and conclude 72 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
+          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Minors add/drop period will begin at the conclusion of the Major league add/drop 2 process and conclude 24 hours after it begins unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -441,7 +441,7 @@ ___
     - (c) Free agency period:
       - (i) Regular season:
         - (1) There will be a single, primary, free agency period completed live followed by additional asynchronous free agency periods as announced by the CRC.
-        - (2) The primary free agency period will begin following the third week of NLTP games and be completed in three stages.
+        - (2) The primary free agency period will begin following the second week of NLTP games and be completed in three stages.
 	  - (aa) The first stage of the primary free agency period will consist of eligible minors drops being bid on.
 	  - (bb) The second stage of the primary free agency period will consist of players used for bidding being bid on and repeat as needed.
 	  - (cc) The third stage of the primary free agency period will consist of all remaining free agents being drafted through a second snake draft.
@@ -580,8 +580,9 @@ ___
     - (b) Predetermined maps will be announced as early as possible and before signups for any tier have been closed.
   - (1) Team home maps
     - (a) Following week 1 games, each team will have 24 hours to submit one home map in the absense of additional deadlines announced by the CRC.
+    - (b) A home map submission will require a fortunatemaps ID as well as a designation of "Kiss" or "No-kiss".
     - (b) Each home map will be subject to approval by the Map Selection Panel.
-      - (i) Approved maps may be rejected by a successful captains veto of 70% or greater of the relevant tier.
+      - (i) Approved maps may be rejected by a successful captains veto of 70% or greater of the relevant tier. "No-kiss" designations are not available for veto.
     - (c) Home maps may only be submitted for approval when they adhere to the following guidelines:
       - (i) Must not be the same or similar to any predetermined map for that tier.
       - (ii) Must not be the same or similar to any other approved home map for that tier.
@@ -589,7 +590,7 @@ ___
         - (2) Maps submitted after the 24 hour deadline will be awarded on a first-come first-served basis.
       - (iii) "Same or similar" will be recognized as lacking meaningful game-flow changing edits.
       - (iv) Must maintain competitive integrity as determined by the Map Selection panel.
-    - (d) Home maps may not be re-submitted or altered at any point during the season.
+    - (d) Home maps may not be re-submitted or altered at any point during the season, including "Kiss" or "No-kiss" designations.
       - (i) Exceptions may be approved by the Map Selection Panel to fix unforseen map mechanisms.
 
 #### Section C - Map distribution
@@ -617,7 +618,11 @@ ___
     - (a) Major league games will take place on Sunday nights.
     - (b) Minor league games will take place on Monday nights.
     - (c) Novice league games will take place on Wednesday nights.
-  - (4) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
+  - (4) Asynchronous games
+    - (a) Weeks 6 and 7 of the regular season will have no default game day or time, captains must schedule games in accordance with the following:
+      - (i) Week 6 must have an officially submitted date and time before the default date of week 2 games. The official date must be no later than the default date of week 3 games.
+      - (ii) Week 7 must have an officially submitted date and time before the default date of week 4 games. The official date must be no later than 72 hours following the default date of week 5 games.
+  - (5) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
     - (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 72 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
     
 #### Section B - Settings
@@ -626,16 +631,17 @@ ___
     - (b) Maps and starting color:
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 33, each match will have 2 maps in the following format with each week 2-7 also including a home map, Minors will skip the below week 1. Each letter represents a unique map with the letter H representing a home map.
-          - (aa) Week 1: AABBA;
+        - (1) In Season 33, each match will have 2 maps in the following format with each week 1-5 and 7 also including a home map. Each letter represents a unique map with the letter H representing a home map.
+          - (aa) Week 1: HAABB;
           - (bb) Week 2: HBBCC;
           - (cc) Week 3: HDDEE;
           - (dd) Week 4: HEEFF;
           - (ee) Week 5: HFFGG;
-          - (ff) Week 6: HGGII;
+          - (ff) Week 6: IIGGI;
           - (gg) Week 7: HJJAA;
       - (iii) Team colors will alternate RBRBR for each match.
         - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
+      - (iv) Home maps with a "No-kiss" designation will be played with the additional setting FlagCarrier Kissing: Disabled.
     - (c) Game settings:
       - (i) Capture limit set to none;
       - (ii) Time limit set to 10 minutes;
@@ -651,10 +657,9 @@ ___
       - (x) Bomb respawn time set to 30 seconds;
       - (xi) Powerup respawn time set to 1 minute;
       - (xii) Powerup delay set to 60 seconds;
-      - (xiii) FlagCarrier Kissing: Disabled;
-      - (xiv) Userscripts: Disabled;
-      - (xv) Respawn Warnings: Disabled; and
-      - (xvi) Single World Joiner disabled and set to default server.
+      - (xiii) Userscripts: Disabled;
+      - (xiv) Respawn Warnings: Disabled; and
+      - (xv) Single World Joiner disabled and set to default server.
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
       - (ii) All games will be set to Chicago by default. If Chicago is the only server in the central region, games are to be launched with the regional selection "Central". In the event that multiple central locations existing simultaneously, the Chicago server with the lowest associated number will be considered the default (e.g. Chicago1).
@@ -672,10 +677,9 @@ ___
         - (10) Bomb respawn time set to 30 seconds;
         - (11) Powerup respawn time set to 1 minute;
         - (12) Powerup delay set to 60 seconds;
-        - (13) FlagCarrier Kissing: Disabled;
-        - (14) Userscripts: Disabled;
-        - (15) Respawn Warnings: Disabled; and
-        - (16) Server set to the server used for the previous game.
+        - (13) Userscripts: Disabled;
+        - (14) Respawn Warnings: Disabled; and
+        - (15) Server set to the server used for the previous game.
       - (ii) The CRC may award the overtime point(s) to either team in a follow up review based on at-fault status, player positioning before an abrupt ending, or anything else deemed relevant.
       - (iii) No substitutions may be made out of game.
   - (2) Playoffs:
@@ -709,10 +713,9 @@ ___
         - (10) Bomb respawn time set to 30 seconds;
         - (11) Powerup respawn time set to 1 minute;
         - (12) Powerup delay set to 60 seconds;
-        - (13) FlagCarrier Kissing: Disabled;
-        - (14) Userscripts: Disabled;
-        - (15) Respawn Warnings: Disabled; and
-        - (16) Single World Joiner disabled and set to default server.
+        - (13) Userscripts: Disabled;
+        - (14) Respawn Warnings: Disabled; and
+        - (15) Single World Joiner disabled and set to default server.
     - (c) Server settings:
       - (i) Identical to regular season settings.
         
@@ -790,7 +793,7 @@ ___
     - (b) Players who are not actively playing are considered “Non-Players” for the half.
     - (c) Mid-game substitutes are permitted to begin using a voice channel once they have joined the game. The player being replaced must stop using the voice channel at the same time.
   - (2) Non-Players:
-    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in add/drop priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
+    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in  priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
     - (b) Screen sharing via discord will also not be permitted for non-players.
     - (c) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
     - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. This does not continue into the playoffs.
@@ -897,10 +900,12 @@ ___
     - (b) Each captain will be given access to the "Captain's Hub" of TPL where they will be able to submit stats for each match.
     - (c) CRC members will have basic access to TPL to help with stats and rosters, but the owner of TPL may be contacted about issues via the "Submit and Issue or Feature" button at the bottom of the page.
   - (3) Saving CSVs is the responsibility of both participating teams, and any match with incomplete or late submissions are subject to penalties from the commissioners.
-  - (4) Teams are required to submit scores and tagpro eu's for all regular season and postseason games.
-  - (5) If teams are not able to get tagpro eu's for any reason, then a csv or screenshot of the scoreboard will be acceptable, if there are no timeouts. Keep in mind this is not ideal.
+  - (4) Teams are required to submit scores and tagpro eu's for all regular season and postseason games on request.
+  - (5) If teams are not able to get tagpro eu's for any reason, then a direct link to the TagPro replay will be acceptable. Keep in mind this is not ideal.
   - (6) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically at the discretion of the CRC.
-  - (7) If a player should receive more than 40 minutes for any reason, excluding overtime, their stats will be pro-rated to 40 minutes.
+  - (7) Player stats from games played on home maps will not be displayed in TagPro League totals for Major and Minor leagues.
+  - (8) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
+
 ___
 ### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
 
