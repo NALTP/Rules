@@ -212,10 +212,10 @@ ___
     - (b) Replacement captains or GMs may be rostered members of the team in question or non-players. Players currently on a different team in the same league may not be replacement captains or GMs.
     - (c) Replacement captains or GMs are not required to be former co-captains of the same team.
     - (d) Playing captains who step down or are removed from their position may not be traded.
-    - (e) Former playing captains may activate an option to be dropped in the next  period.
+    - (e) Former playing captains may activate an option to be dropped in the next period.
       - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
       - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-      - (iii) In extreme cases, if the final  period has concluded, the CRC may initiate an extra  window to accomodate.
+      - (iii) In extreme cases, if the final period has concluded, the CRC may initiate an extra window to accomodate.
     - (f) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
 
 #### Section D - Players
@@ -431,7 +431,7 @@ ___
           - (aa) Called up players may decline a call-up. In doing so they automatically decline any future call-ups or loans for the remainder of the season.
             - (I) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
     - (d) Free agency periods:
-      - (i) There will be no free agency periods in the Minor league.      
+      - (i) There will be no free agency periods in the Minor league.
   - (3) Novice league:
     - (a) Add/drop periods:
       - (i) There will be no add/drop periods in Novice league.
@@ -793,7 +793,7 @@ ___
     - (b) Players who are not actively playing are considered “Non-Players” for the half.
     - (c) Mid-game substitutes are permitted to begin using a voice channel once they have joined the game. The player being replaced must stop using the voice channel at the same time.
   - (2) Non-Players:
-    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in  priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
+    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
     - (b) Screen sharing via discord will also not be permitted for non-players.
     - (c) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
     - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. This does not continue into the playoffs.
