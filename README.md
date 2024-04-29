@@ -464,7 +464,7 @@ ___
     - (e) Second Snake Draft:
       - (i) The second snake draft order will be determined by the number of remaining TCA of each team following the second stage of the primary free agency period, without proration.
         - (1) Ties will be resolved using a random generator
-      - (ii) The second snake draft will be completed asynchronously, with captains submitting bids to the CRC via direct messages.
+      - (ii) The second snake draft will be completed chronously, with captains submitting bids to the CRC via direct messages.
       - (iii) The second snake draft procedure will match that of the snake draft and continue until all eligible players have been assigned to a team.
     - (f) Free agency player eligibility:
       - (i) Primary free agency period:
@@ -619,9 +619,7 @@ ___
     - (b) Minor league games will take place on Monday nights.
     - (c) Novice league games will take place on Wednesday nights.
   - (4) Asynchronous games
-    - (a) Weeks 6 and 7 of the regular season will have no default game day or time, captains must schedule games in accordance with the following:
-      - (i) Week 6 must have an officially submitted date and time before the default date of week 2 games. The official date must be no later than the default date of week 3 games.
-      - (ii) Week 7 must have an officially submitted date and time before the default date of week 4 games. The official date must be no later than 72 hours following the default date of week 5 games.
+    - (a) Weeks 6 and 7 of the regular season will have no default game day or time, captains must schedule and play their games no later than 72 hours following the default date of week 5 games.
   - (5) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
     - (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 72 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
     
@@ -786,6 +784,7 @@ ___
     - (b) A team may only have one break per match, this break may only last up to 5 minutes.
   - (6) Any team delaying a game by breaking these rules may receive a forfeit or deduction in standing points as penalty.
   - (7) If a game must be delayed for a CRC decision there will be no forfeiture due to delays.
+  - (8) Teams that do not play their asynchronous match by the deadline will receive zero standings points, without additional opportunity to play the match. Teams which submit evidence that they made a good faith attempt to schedule the match and were unable to due to egregious actions from the other team will instead be treated as the beneficiaries of a match forfeit.
 
 #### Section H - Voice Channels
   - (1) Players:
