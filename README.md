@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 32
+## Official Rules for North American League TagPro (NALTP) Season 33
 
 ### Table of Contents
 
@@ -143,8 +143,8 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 32 CRC will consist of Cheezedoodle, pk, bigbadball, Spheroid, and beastmode.
- 
+    - (a) The Season 33 CRC will consist of Cheezedoodle, pk, SmallyBigs, NameLEss, anti-re.
+
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
     - (a) The League Managers will consist of at least two members as decided by the CRC and/or current League Managers.
@@ -154,8 +154,9 @@ ___
   - (3) Retirement:
     - (a) No League Manager is permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Managers for Season 32 will be Poeticalto and Cheezedoodle.
-   
+    - (a) The League Managers for Season 33 will be Poeticalto and Cheezedoodle.
+    - (b) The League Manager Assistants for Season 33 will be Phreek and JJIIZGOD.
+
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
     - (a) For each team in NALTP there will be a Captain, or General Manager (GM).
@@ -188,7 +189,7 @@ ___
         - (2) They played at least half of total available regular-season minutes in the league of their DPC signup AND had a positional or total NISH of 90 or higher; or
         - (3) The player is deemed by the CRC to be beyond the skill level of the league of their DPC signup.
     - (c) Applicants who are likely to play in the league of their signup as determined by the CRC will be ineligible for NPC captaincy.
-    - (d) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second add/drop period.
+    - (d) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second  period.
     - (e) CRC members may only captain or GM as a last resort. They should not be considered an option unless they end up at a deficit for captains and have issued additional calls for more qualified captains or GMs.
       - (i) CRC captains or GMs automatically recuse themselves from:
         - (1) Any vote or discussion involving their team;
@@ -211,13 +212,12 @@ ___
     - (b) Replacement captains or GMs may be rostered members of the team in question or non-players. Players currently on a different team in the same league may not be replacement captains or GMs.
     - (c) Replacement captains or GMs are not required to be former co-captains of the same team.
     - (d) Playing captains who step down or are removed from their position may not be traded.
-    - (e) Former playing captains may activate an option to be dropped in the next add/drop period.
+    - (e) Former playing captains may activate an option to be dropped in the next period.
       - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
       - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-      - (iii) In extreme cases, if the final add/drop period has concluded, the CRC may initiate an extra add/drop window to accomodate.
+      - (iii) In extreme cases, if the final period has concluded, the CRC may initiate an extra window to accomodate.
     - (f) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
-    
-     
+
 #### Section D - Players
   - (1) Signup eligibility:
     - (a) Players who have signed up for the Major league draft and are not on a Major league roster at the end of the draft will be eligible, and automatically entered into, the Minor league draft. Similarly, players who have signed up for the Minor league draft and are not on a Minor league roster at the end of the draft will be eligible, and automatically entered into, the Novice league draft.
@@ -275,7 +275,7 @@ ___
             - (IV) The highest tier will be 100 TC.
       - (iii) Trades, including those involving TC, are allowed during each draft.
       - (iv) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
-      - (v) Remaining TCM and TCN are recorded at the conclusion of each draft for determining home map priority and may not be carried forward, exchanged, or otherwise utilized in any other way. Remaining TCA are preserved as well as the value of TCA assigned to players drafted at auction.
+      - (v) Remaining TCM are recorded at the conclusion of each draft for determining home map priority and may not be carried forward, exchanged, or otherwise utilized in any other way. Remaining TCN and TCA are preserved as well as the value of the coins assigned to players drafted at auction.
       - (vi) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
       - (vii) TC may not be spent to remove a player from a roster and replace them on the draft board.
     - (b) Nominations:
@@ -311,8 +311,7 @@ ___
 #### Section A - Trades
   - (1) Regular season:
     - (a) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
-      - (i) The Majors trade period will begin at the conclusion of the draft and end no less than 24 hours before the first default week 4 game time.
-      - (ii) The Minors and Novice trade periods will begin at the conclusion of the draft and end no less than 24 hours before the first default week 5 game time.
+      - (i) The trade period for all tiers will begin at the conclusion of their respective draft and end no less than 48 hours before the first default week 4 game time.
     - (b) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
     - (c) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
@@ -332,8 +331,8 @@ ___
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Majors add/drop period will begin at the conclusion of week 3 default games and conclude 72 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
+          - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Majors add/drop period will begin at the conclusion of week 2 default games and conclude 24 hours after the midnight following week 2 default games unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -376,8 +375,8 @@ ___
     - (a) Add/drop periods:
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
-          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Minors add/drop period will begin at the conclusion of week 3 default games and conclude 48 hours after the midnight following week 3 default games unless otherwise announced by the CRC.
+          - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
+          - (bb) The second Minors add/drop period will begin at the conclusion of the Major league add/drop 2 process and conclude 24 hours after it begins unless otherwise announced by the CRC.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -391,14 +390,23 @@ ___
       - (iii) Second add/drop period:
         - (1) The second add/drop period will be completed in two phases
 	  - (aa) Phase 1
-	    - (I) Minors captains with a rostered player posessing DEP status may claim a player from the pool of eligible Majors drops and replace a player on their roster with DEP status with the Majors drop.
-	    - (II) If a player is claimed by more than one team, the team lower in the official standings, is given priority.
-	    - (III) Any player with DEP status who is removed from a roster during phase 1 is ineligible for phase 2 of the add/drop process. 
+	    - (I) Minors captains with a rostered player posessing Majors to Minors DEP status may claim a player from the pool of eligible Majors drops and replace a player on their roster with DEP status with the Majors drop.
+            - (II) The Majors drop will be awarded to the team with the highest bid, calculated by the value of the DEP being released added with any additional TCN from their budget they choose to spend.
+	    - (III) Any player with DEP status who is removed from a roster during phase 1 is ineligible for phase 2 of the add/drop process.
+   
 	  - (bb) Phase 2
-	    - (I) All add/drops will be processed at once at a predetermined time announced by the CRC.
-	    - (II) Add/drops may be submitted via form only unless otherwise noted by the CRC.
+    	    - (I) Minors captains may claim any eligible player.
+            - (II) Claims will be made in the form of bids and will be processed in stages.
+              - (1) A bid will be defined as a rostered player who was obtained at auction and any number of TCN.
+              - (2) Starting TCN are equal to the number of TCN remaining at the conclusion of the auction draft.
+                - (AA) The value of a bid will be equal to the TCN value of the rostered player being bid added to the value of TCN included in the bid.
+                - (BB) All teams will have the opportunity to make a bid on any eligible players in each stage of the present phase. When a stage is complete, the players will be awarded to the team with the highest value bid.
+                - (CC) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
+                - (DD) If two teams have bids of equal value for a single player, the team with the worse season record will obtain the desired player, with tiebreaks being applied as necessary.
+                - (EE) If a player should be awarded to a team, TCN will be deducted from the team's total TCN equal to the number of TCN included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of phase 2.
+                - (FF) Bids will automatically be reduced to never exceed available TCN. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
+                - (GG) A bid with a value of zero TCN on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCN must be used in whole numbers.
 	    - (III) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
-	    - (IV) In the event of one player being called up by more than one team, priority will go to the lowest ranked team in the absence of additional priority adjustments announced by the CRC.
     - (c) Add/drop player eligibility:
       - (i) First add/drop period:
         - (1) Add/drop pool:
@@ -423,7 +431,7 @@ ___
           - (aa) Called up players may decline a call-up. In doing so they automatically decline any future call-ups or loans for the remainder of the season.
             - (I) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
     - (d) Free agency periods:
-      - (i) There will be no free agency periods in the Minor league.      
+      - (i) There will be no free agency periods in the Minor league.
   - (3) Novice league:
     - (a) Add/drop periods:
       - (i) There will be no add/drop periods in Novice league.
@@ -433,7 +441,7 @@ ___
     - (c) Free agency period:
       - (i) Regular season:
         - (1) There will be a single, primary, free agency period completed live followed by additional asynchronous free agency periods as announced by the CRC.
-        - (2) The primary free agency period will begin following the third week of NLTP games and be completed in three stages.
+        - (2) The primary free agency period will begin following the second week of NLTP games and be completed in three stages.
 	  - (aa) The first stage of the primary free agency period will consist of eligible minors drops being bid on.
 	  - (bb) The second stage of the primary free agency period will consist of players used for bidding being bid on and repeat as needed.
 	  - (cc) The third stage of the primary free agency period will consist of all remaining free agents being drafted through a second snake draft.
@@ -456,7 +464,7 @@ ___
     - (e) Second Snake Draft:
       - (i) The second snake draft order will be determined by the number of remaining TCA of each team following the second stage of the primary free agency period, without proration.
         - (1) Ties will be resolved using a random generator
-      - (ii) The second snake draft will be completed asynchronously, with captains submitting bids to the CRC via direct messages.
+      - (ii) The second snake draft will be completed chronously, with captains submitting bids to the CRC via direct messages.
       - (iii) The second snake draft procedure will match that of the snake draft and continue until all eligible players have been assigned to a team.
     - (f) Free agency player eligibility:
       - (i) Primary free agency period:
@@ -571,16 +579,18 @@ ___
     - (a) For each tier, the Map Selection Panel will be responsible for selecting 9 predetermined maps by a method of their own choosing.
     - (b) Predetermined maps will be announced as early as possible and before signups for any tier have been closed.
   - (1) Team home maps
-    - (a) Following week 1 games, each team will have 72 hours to submit one home map in the absense of additional deadlines announced by the CRC.
+    - (a) Following week 1 games, each team will have 24 hours to submit one home map in the absense of additional deadlines announced by the CRC.
+    - (b) A home map submission will require a fortunatemaps ID as well as a designation of "Kiss" or "No-kiss".
     - (b) Each home map will be subject to approval by the Map Selection Panel.
-      - (i) Approved maps may be rejected by a successful captains veto of 70% or greater of the relevant tier.
+      - (i) Approved maps may be rejected by a successful captains veto of 70% or greater of the relevant tier. "No-kiss" designations are not available for veto.
     - (c) Home maps may only be submitted for approval when they adhere to the following guidelines:
       - (i) Must not be the same or similar to any predetermined map for that tier.
       - (ii) Must not be the same or similar to any other approved home map for that tier.
         - (1) Disputes will be resolved with the home map being granted to the team which finished the auction draft with the most remaining TagCoins or random generator if not applicable.
+        - (2) Maps submitted after the 24 hour deadline will be awarded on a first-come first-served basis.
       - (iii) "Same or similar" will be recognized as lacking meaningful game-flow changing edits.
       - (iv) Must maintain competitive integrity as determined by the Map Selection panel.
-    - (d) Home maps may not be re-submitted or altered at any point during the season.
+    - (d) Home maps may not be re-submitted or altered at any point during the season, including "Kiss" or "No-kiss" designations.
       - (i) Exceptions may be approved by the Map Selection Panel to fix unforseen map mechanisms.
 
 #### Section C - Map distribution
@@ -608,7 +618,9 @@ ___
     - (a) Major league games will take place on Sunday nights.
     - (b) Minor league games will take place on Monday nights.
     - (c) Novice league games will take place on Wednesday nights.
-  - (4) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
+  - (4) Asynchronous games
+    - (a) Weeks 6 and 7 of the regular season will have no default game day or time, captains must schedule and play their games no later than 72 hours following the default date of week 5 games.
+  - (5) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
     - (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 72 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
     
 #### Section B - Settings
@@ -617,16 +629,17 @@ ___
     - (b) Maps and starting color:
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 32, each match will have 2 maps in the following format with each week 2-7 also including a home map, Minors will skip the below week 1. Each letter represents a unique map with the letter H representing a home map.
-          - (aa) Week 1: AABBA;
+        - (1) In Season 33, each match will have 2 maps in the following format with each week 1-5 and 7 also including a home map. Each letter represents a unique map with the letter H representing a home map.
+          - (aa) Week 1: HAABB;
           - (bb) Week 2: HBBCC;
           - (cc) Week 3: HDDEE;
           - (dd) Week 4: HEEFF;
           - (ee) Week 5: HFFGG;
-          - (ff) Week 6: HGGII;
+          - (ff) Week 6: IIGGI;
           - (gg) Week 7: HJJAA;
       - (iii) Team colors will alternate RBRBR for each match.
         - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
+      - (iv) Home maps with a "No-kiss" designation will be played with the additional setting FlagCarrier Kissing: Disabled.
     - (c) Game settings:
       - (i) Capture limit set to none;
       - (ii) Time limit set to 10 minutes;
@@ -771,6 +784,7 @@ ___
     - (b) A team may only have one break per match, this break may only last up to 5 minutes.
   - (6) Any team delaying a game by breaking these rules may receive a forfeit or deduction in standing points as penalty.
   - (7) If a game must be delayed for a CRC decision there will be no forfeiture due to delays.
+  - (8) Teams that do not play their asynchronous match by the deadline will receive zero standings points, without additional opportunity to play the match. Teams which submit evidence that they made a good faith attempt to schedule the match and were unable to due to egregious actions from the other team will instead be treated as the beneficiaries of a match forfeit.
 
 #### Section H - Voice Channels
   - (1) Players:
@@ -778,7 +792,7 @@ ___
     - (b) Players who are not actively playing are considered “Non-Players” for the half.
     - (c) Mid-game substitutes are permitted to begin using a voice channel once they have joined the game. The player being replaced must stop using the voice channel at the same time.
   - (2) Non-Players:
-    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in add/drop priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
+    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
     - (b) Screen sharing via discord will also not be permitted for non-players.
     - (c) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
     - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. This does not continue into the playoffs.
@@ -885,11 +899,12 @@ ___
     - (b) Each captain will be given access to the "Captain's Hub" of TPL where they will be able to submit stats for each match.
     - (c) CRC members will have basic access to TPL to help with stats and rosters, but the owner of TPL may be contacted about issues via the "Submit and Issue or Feature" button at the bottom of the page.
   - (3) Saving CSVs is the responsibility of both participating teams, and any match with incomplete or late submissions are subject to penalties from the commissioners.
-  - (4) Teams are required to submit scores and tagpro eu's for all regular season and postseason games.
-  - (5) If teams are not able to get tagpro eu's for any reason, then a csv or screenshot of the scoreboard will be acceptable, if there are no timeouts. Keep in mind this is not ideal.
+  - (4) Teams are required to submit scores and tagpro eu's for all regular season and postseason games on request.
+  - (5) If teams are not able to get tagpro eu's for any reason, then a direct link to the TagPro replay will be acceptable. Keep in mind this is not ideal.
   - (6) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically at the discretion of the CRC.
-  - (7) If a player should receive more than 40 minutes for any reason, excluding overtime, their stats will be pro-rated to 40 minutes.
-  - (8) Player stats from games played on home maps will not be displayed in TagPro League totals. 
+  - (7) Player stats from games played on home maps will not be displayed in TagPro League totals for Major and Minor leagues.
+  - (8) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
+
 ___
 ### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
 
@@ -916,7 +931,8 @@ ___
 
 #### Section C - Vetoes
   - (1) If the captains wish to overrule a rule change or decision made by the CRC it must be done through an official veto.
-    - (a) Captains' vetos may only be used to undo new rules and/or rulings made by the CRC.
+    - (a) Captains' vetos may be used to undo new rules and/or rulings made by the CRC.
+    - (b) Captain's vetos may be used to enforce prior CRC rule changes which have been undone by a CRC vote.
     - (b) New rules and/or rulings may not be generated by captains' veto.
     - (c) Trades accepted by the CRC are not eligible for captains' veto.
   - (2) To submit a request for an official veto there must be a ping to the CRC in the captains chat or a direct message to a CRC member with the specific decision to be vetoed and clarification that the request is not in jest. In both cases the CRC will notify the rest of the captains for someone to second the motion unless a second has already come forward.
@@ -927,9 +943,8 @@ ___
   
 #### Section D - Vote of No Confidence (VONC)
   - (1) At any point in the season, a captain will be allowed to formally request a vote of no-confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
-    - (a) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, they will be removed from the CRC immediately. If the CRC members do not vote in favor, the member is not removed, but automatically retires at the conclusion of the season.
-    - (b) In the event of this, the CRC member must wait at least 1 full season before running for re-election to the CRC.
-    - (c) See [Article II, Section A, Part 5](#section-a---the-committee-for-rules-and-coordination-crc) for vacancy information.
+    - (a) If at least 75% of captains across all tiers vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, they will be removed from the CRC immediately. If the CRC members do not vote in favor, the member is not removed.
+    - (b) See [Article II, Section A, Part 5](#section-a---the-committee-for-rules-and-coordination-crc) for vacancy information.
 ___
 ### Article XIII - Appendix
   - (1) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that breaks the NALTP rules.
