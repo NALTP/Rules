@@ -159,11 +159,13 @@ ___
 
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
-    - (a) For each team in NALTP there will be a Captain, or General Manager (GM).
+    - (a) For each team in NALTP there will be a Captain, Duo Captaincy, or General Manager (GM).
     - (b) The number of captains or GMs will be decided by the CRC prior to the draft of each individual league.
     - (c) Captaincy types:
       - (i) Direct Playing Captain (DPC): DPCs are playing members of their rosters. DPCs start on their own roster during the auction draft, and receive TagCoins relative to their perceived skill.
+        - (1) Duo Direct Playing Captains (Duo DPC): Duo DPCs consist of two playing members of a roster. Duo DPCs start on their own roster during the auction draft, and receive TagCoins relative to their combined skill.
       - (ii) Non-Playing Captain (NPC): NPCs are not playing members of their rosters. Prior to the draft, NPCs will select another player from the draft board who agrees to be their preliminary pick. Preliminary picks start on their captain's roster during the auction draft, and the captain will receive TagCoins relative to the perceived skill of their preliminary pick.
+        - (1) With CRC approval an NPC may, but is not required to, select two preliminary picks to be evaluated against Duo DPCs.
       - (iii) Indirect Playing Captain (IPC): IPCs are captains that wish to be a DPC but are determined by the CRC to be too skilled to skip the draft of the league above their captaincy signup. If an IPC is drafted to a league above their captaincy signup they may elect to become a NPC or forfeit their captaincy role. If an IPC is not drafted to a league above their captaincy signup then they will be accepted as a DPC.
       - (iv) General Manager (GM): GMs are not playing members of their roster. GMs do not receive preliminary picks and each GM receives the same number of TagCoins for the draft.
     - (d) For each team in NALTP there will be a single official Co-Captain and any number of unofficial Co-Captains to be finalized after the draft. The official co-captain may be changed at any point during the season with the notification of the CRC.
@@ -271,7 +273,7 @@ ___
           - (dd) The highest tier will be 100 TC.
     - (c) Trades, including those involving TC, are allowed during each draft.
     - (d) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
-    - (e) Remaining TCM are recorded at the conclusion of each draft for determining home map priority and may not be carried forward, exchanged, or otherwise utilized in any other way. Remaining TCN and TCA are preserved as well as the value of the coins assigned to players drafted at auction.
+    - (e) Remaining TCM, TCN, and TCA recorded at the conclusion of each draft as well as the value of the coins assigned to players drafted at auction.
     - (f) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
     - (g) TC may not be spent to remove a player from a roster and replace them on the draft board.
   - (2) Nominations:
@@ -319,6 +321,7 @@ ___
     - (i) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
     - (j) Playing captains cannot be traded. See [Article IV, Section D](#section-d---captain-specific-roster-changes) for more information.
     - (k) Trades between leagues are not permitted.
+    - (l) Trades involving members of a Duo DPC or double preliminary picks selected by an NPC are not permitted.
   - (2) Postseason:
     - (a) There will be no trades permitted during the postseason.
      
@@ -341,10 +344,18 @@ ___
           - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
         - (3) Players may not deny a call-up during the first add/drop period.
       - (iii) Second add/drop period:
-        - (1) All add/drops will be processed at once at a predetermined time announced by the CRC.
-          - (aa) Add/drops may be submitted via form only unless otherwise noted by the CRC.
-        - (2) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
-        - (3) In the event of one player being called up by more than one team, priority will go to the lowest ranked team in the absence of additional priority adjustments announced by the CRC.
+        - (1) Majors captains may claim any eligible player.
+        - (2) Claims will be made in the form of bids and will be processed in stages.
+          - (aa) A bid will be defined as a rostered player who was obtained at auction and any number of TCM.
+          - (bb) Starting TCM are equal to the number of TCM remaining at the conclusion of the auction draft.
+            - (I) The value of a bid will be equal to the TCM value of the rostered player being bid added to the value of TCM included in the bid.
+            - (II) All teams will have the opportunity to make a bid on any eligible players in each stage of the the add/drop period. When a stage is complete, the players will be awarded to the team with the highest value bid.
+            - (III) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
+            - (IV) If two teams have bids of equal value for a single player, the team with the worse season record will obtain the desired player, with tiebreaks being applied as necessary.
+            - (V) If a player should be awarded to a team, TCM will be deducted from the team's total TCM equal to the number of TCM included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of the add/drop period.
+            - (VI) Bids will automatically be reduced to never exceed available TCM. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
+            - (VII) A bid with a value of zero TCM on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCM must be used in whole numbers.
+	- (3) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
     - (c) Add/drop player eligibility:
       - (i) First add/drop period:
         - (1) Add/drop pool:
@@ -389,7 +400,6 @@ ___
 	    - (I) Minors captains with a rostered player posessing Majors to Minors DEP status may claim a player from the pool of eligible Majors drops and replace a player on their roster with DEP status with the Majors drop.
             - (II) The Majors drop will be awarded to the team with the highest bid, calculated by the value of the DEP being released added with any additional TCN from their budget they choose to spend.
 	    - (III) Any player with DEP status who is removed from a roster during phase 1 is ineligible for phase 2 of the add/drop process.
-   
 	  - (bb) Phase 2
     	    - (I) Minors captains may claim any eligible player.
             - (II) Claims will be made in the form of bids and will be processed in stages.
@@ -536,6 +546,7 @@ ___
     - (a) In the case of captains who step down, this option will require mutual agreement by the former and the newly instated captain.
     - (b) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
   - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or granted a number of positions determined by the CRC in the waiver wire as compensation.
+  - (4) Members of a Duo DPC or double preliminary picks selected by an NPC may not be dropped or traded from their initial roster.
    
 #### Section E - Dual Eligible Players (DEPs)
   - (1) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season. 
@@ -565,27 +576,21 @@ ___
 ___
 ### Article VI - Maps
 
-#### Section A - The Map Selection Panel
-  - (1) There will be one panel for all three tiers consisting of 8 members of the community.
-    - (a) Any current CRC member may opt-in to membership on the map selection panel.
-    - (b) The CRC appoints all remaining members, with the final panel containing a minimum of 1 Majors, 1 Minors, and 1 Novice player, defined as being on the roster of a team at that level at the end of the previous season.
-      
-#### Section B - Map Selection
-  - (1) Predetermined maps
-    - (a) For each tier, the CRC will be responsible for selecting (TBA number of) predetermined maps by a method of their own choosing.
-    - (b) Predetermined maps will be announced as early as possible and before signups for any tier have been closed.
+#### Section A - Map Selection
+  - (1) For each tier, the CRC will be responsible for selecting 15 predetermined maps by a method of their own choosing.
+  - (2) Map rotations will be standardized across all tiers of NALTP.
 
-#### Section C - Map distribution
+#### Section B - Map distribution
   - (1) There will be three tiers of maps selected.
     - (a) High priority:
       - (i) There will be 4 maps played 4 times each and 1 additional map played 5 times.
-    - (b) Low priority:
+    - (b) Medium priority:
       - (i) There will be 4 maps played 2 times each.
-    - (c) Home maps:
-      - (i) There will be 1 map per team played 3 times by that team and a maximum of 1 time by any other team (for a total of 6 times played on any home map).
+    - (c) Low priority:
+      - (i) There will be 6 maps played 1 time each.
 
-#### Section D - Playoffs
-  - (1) All predetermined maps from the regular season will be eligible in playoffs.
+#### Section C - Playoffs
+  - (1) All predetermined maps from the regular season will be eligible in playoffs. ***Under construction***
 
 ___
 ### Article VII - Matches
@@ -607,8 +612,8 @@ ___
     - (b) Maps and starting color:
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 33, each match will have 2 maps in the following format with each week 1-5 and 7 also including a home map. Each letter represents a unique map with the letter H representing a home map.
-          - (aa) Week 1: HAABB; ***
+        - (1) In Season 34, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) Week 1: AABBC; ***Under construction***
           - (bb) Week 2: HBBCC;
           - (cc) Week 3: HDDEE;
           - (dd) Week 4: HEEFF;
@@ -617,7 +622,6 @@ ___
           - (gg) Week 7: HJJAA;
       - (iii) Team colors will alternate RBRBR for each match.
         - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
-      - (iv) Home maps with a "No-kiss" designation will be played with the additional setting FlagCarrier Kissing: Disabled.
     - (c) Game settings:
       - (i) Capture limit set to none;
       - (ii) Time limit set to 10 minutes;
@@ -668,7 +672,6 @@ ___
           - (bb) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
             - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This option may only be chosen one time per team.
-              - (1) Teams will forfeit their next turn in the Pick/ban upon banning a home map.
         - (2) Majors:
           - (aa) Pick/bans will be completed 10 minutes before the matchup.
         - (3) Minors and Novice:
@@ -882,8 +885,7 @@ ___
   - (4) Teams are required to submit scores and tagpro eu's for all regular season and postseason games on request.
   - (5) If teams are not able to get tagpro eu's for any reason, then a direct link to the TagPro replay will be acceptable. Keep in mind this is not ideal.
   - (6) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically at the discretion of the CRC.
-  - (7) Player stats from games played on home maps will not be displayed in TagPro League totals for Major and Minor leagues.
-  - (8) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
+  - (7) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
 
 ___
 ### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
