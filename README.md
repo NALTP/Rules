@@ -590,7 +590,7 @@ ___
       - (i) There will be 6 maps played 1 time each.
 
 #### Section C - Playoffs
-  - (1) All predetermined maps from the regular season will be eligible in playoffs. ***Under construction***
+  - (1) All predetermined maps from the regular season will be eligible for pick/ban in playoffs.
 
 ___
 ### Article VII - Matches
@@ -613,13 +613,13 @@ ___
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
         - (1) In Season 34, each match will have 2 maps in the following format. Each letter represents a unique map.
-          - (aa) Week 1: AABBC; ***Under construction***
-          - (bb) Week 2: HBBCC;
-          - (cc) Week 3: HDDEE;
-          - (dd) Week 4: HEEFF;
-          - (ee) Week 5: HFFGG;
-          - (ff) Week 6: IIGGI;
-          - (gg) Week 7: HJJAA;
+          - (aa) Week 1: AAABB;
+          - (bb) Week 2: CAADD;
+          - (cc) Week 3: EFFGG;
+          - (dd) Week 4: HGGII;
+          - (ee) Week 5: JIIKK;
+          - (ff) Week 6: LKKMM;
+          - (gg) Week 7: NMMOO;
       - (iii) Team colors will alternate RBRBR for each match.
         - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
     - (c) Game settings:
@@ -835,7 +835,7 @@ ___
   - (4) Bots are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out this form (under construction). If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScVztCo9mnCCRCaOzR2nsIM0so6i64axZJPxQIxvde7U1PcAQ/viewform). If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
   - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
