@@ -767,7 +767,6 @@ ___
     - (b) A team may only have one break per match, this break may only last up to 5 minutes.
   - (6) Any team delaying a game by breaking these rules may receive a forfeit or deduction in standing points as penalty.
   - (7) If a game must be delayed for a CRC decision there will be no forfeiture due to delays.
-  - (8) Teams that do not play their asynchronous match by the deadline will receive zero standings points, without additional opportunity to play the match. Teams which submit evidence that they made a good faith attempt to schedule the match and were unable to due to egregious actions from the other team will instead be treated as the beneficiaries of a match forfeit.
 
 #### Section H - Voice Channels
   - (1) Players:
