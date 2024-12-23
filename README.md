@@ -291,10 +291,10 @@ ___
       - (ii) Values of winning bids are subtracted from the total remaining TagCoins budget of the winning team.
       - (iii) Round formats:
         - (1) Blind:
-          - (aa) Captains may submit bids on individual players from a list provided by the CRC.
-            - (I) The number of players on the provided list will match the number of teams in that tier.
+          - (aa) Captains may submit bids on individual players from an ordered list provided by the CRC.
+            - (I) The number of players on the ordered list will match the number of teams in that tier.
           - (bb) All bids are submitted asynchronously and privately before the bidding deadline and processed at the bidding deadline.
-          - (cc) Bids are processed in descending order of bid value.
+          - (cc) Bids are processed from top to bottom of the ordered list.
             - (I) In the event of a tie, teams who submitted a tying bid will be given the chance to privately increase their bid or pass on additional bidding.
               - (1) This process repeats until there is no tie or no additional bids.
               - (2) If all teams decline to increase their bid, the winner will be decided by a random choice generator.
@@ -333,12 +333,13 @@ ___
     - (e) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
       - (i) Exceptions may be made at the Novice level, but will be permitted only with consideration for balancing roster sizes. Captains and GMs are expected to be aware of the activity of players involved in any trades
     - (f) Trading draft picks for future seasons is prohibited.
-    - (g) Trades involving add/drop priority or TagCoins are prohibited.
-    - (h) Trades will take effect immediately after being approved by the CRC unless otherwise requested by the captains involved or announced by the CRC.
-    - (i) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
-    - (j) Playing captains cannot be traded. See [Article IV, Section D](#section-d---captain-specific-roster-changes) for more information.
-    - (k) Trades between leagues are not permitted.
-    - (l) Trades involving members of a Duo DPC or double preliminary picks selected by an NPC are not permitted.
+    - (g) Trades involving add/drop priority are prohibited.
+    - (h) Trades involving TagCoins are permitted.
+    - (i) Trades will take effect immediately after being approved by the CRC unless otherwise requested by the captains involved or announced by the CRC.
+    - (j) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
+    - (k) Playing captains cannot be traded. See [Article IV, Section D](#section-d---captain-specific-roster-changes) for more information.
+    - (l) Trades between leagues are not permitted.
+    - (m) Trades involving members of a Duo DPC or double preliminary picks selected by an NPC are not permitted.
   - (2) Postseason:
     - (a) There will be no trades permitted during the postseason.
 
