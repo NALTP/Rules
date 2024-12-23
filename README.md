@@ -598,14 +598,8 @@ ___
   - (1) For each tier, the CRC will be responsible for selecting 11 predetermined maps by a method of their own choosing.
   - (2) Map rotations will be standardized across all tiers of NALTP.
 
-#### Section B - Map distribution ***
-  - (1) There will be three tiers of maps selected.
-    - (a) High priority:
-      - (i) There will be 4 maps played 4 times each and 1 additional map played 5 times.
-    - (b) Medium priority:
-      - (i) There will be 4 maps played 2 times each.
-    - (c) Low priority:
-      - (i) There will be 6 maps played 1 time each.
+#### Section B - Map distribution
+  - (1) Each map will be played in a total of 3 games, with one map selected to be played in 5 games.
 
 #### Section C - Playoffs
   - (1) All predetermined maps from the regular season will be eligible for pick/ban in playoffs.
@@ -631,14 +625,14 @@ ___
     - (b) Maps and starting color:
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 35, each match will have 2 maps in the following format. Each letter represents a unique map. ***
-          - (aa) Week 1: AAABB;
-          - (bb) Week 2: CAADD;
-          - (cc) Week 3: EFFGG;
-          - (dd) Week 4: HGGII;
-          - (ee) Week 5: JIIKK;
-          - (ff) Week 6: LKKMM;
-          - (gg) Week 7: NMMOO;
+        - (1) In Season 35, each match will have 2 maps in the following format. Each letter represents a unique map.
+          - (aa) Week 1: AABBB;
+          - (bb) Week 2: CCCDD;
+          - (cc) Week 3: DEEEF;
+          - (dd) Week 4: FFGGG;
+          - (ee) Week 5: HHHII;
+          - (ff) Week 6: IJJJK;
+          - (gg) Week 7: KKAAA;
       - (iii) Team colors will alternate RBRBR for each match.
         - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
     - (c) Game settings:
