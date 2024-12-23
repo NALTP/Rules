@@ -626,13 +626,13 @@ ___
       - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
       - (ii) Maps will follow the schedule posted by the CRC.
         - (1) In Season 35, each match will have 2 maps in the following format. Each letter represents a unique map.
-          - (aa) Week 1: AABBB;
-          - (bb) Week 2: CCCDD;
-          - (cc) Week 3: DEEEF;
-          - (dd) Week 4: FFGGG;
-          - (ee) Week 5: HHHII;
-          - (ff) Week 6: IJJJK;
-          - (gg) Week 7: KKAAA;
+          - (aa) Week 1: AAABB;
+          - (bb) Week 2: BCCCD;
+          - (cc) Week 3: DDEEE;
+          - (dd) Week 4: FFFGG;
+          - (ee) Week 5: GHHHI;
+          - (ff) Week 6: IIJJJ;
+          - (gg) Week 7: KKꓘAA;
       - (iii) Team colors will alternate RBRBR for each match.
         - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
     - (c) Game settings:
