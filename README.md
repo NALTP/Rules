@@ -159,13 +159,11 @@ ___
 
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
-    - (a) For each team in NALTP there will be a Captain, Duo Captaincy, or General Manager (GM).
+    - (a) For each team in NALTP there will be a Captain, or General Manager (GM).
     - (b) The number of captains or GMs will be decided by the CRC prior to the draft of each individual league.
     - (c) Captaincy types:
       - (i) Direct Playing Captain (DPC): DPCs are playing members of their rosters. DPCs start on their own roster during the auction draft, and receive TagCoins relative to their perceived skill.
-        - (1) Duo Direct Playing Captains (Duo DPC): Duo DPCs consist of two playing members of a roster. Duo DPCs start on their own roster during the auction draft, and receive TagCoins relative to their combined skill.
       - (ii) Non-Playing Captain (NPC): NPCs are not playing members of their rosters. Prior to the draft, NPCs will select another player from the draft board who agrees to be their preliminary pick. Preliminary picks start on their captain's roster during the auction draft, and the captain will receive TagCoins relative to the perceived skill of their preliminary pick.
-        - (1) With CRC approval an NPC may, but is not required to, select two preliminary picks to be evaluated against Duo DPCs.
       - (iii) Indirect Playing Captain (IPC): IPCs are captains that wish to be a DPC but are determined by the CRC to be too skilled to skip the draft of the league above their captaincy signup. If an IPC is drafted to a league above their captaincy signup they may elect to become a NPC or forfeit their captaincy role. If an IPC is not drafted to a league above their captaincy signup then they will be accepted as a DPC.
       - (iv) General Manager (GM): GMs are not playing members of their roster. GMs do not receive preliminary picks and each GM receives the same number of TagCoins for the draft.
     - (d) For each team in NALTP there will be a single official Co-Captain and any number of unofficial Co-Captains to be finalized after the draft. The official co-captain may be changed at any point during the season with the notification of the CRC.
@@ -339,7 +337,6 @@ ___
     - (j) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
     - (k) Playing captains cannot be traded. See [Article IV, Section D](#section-d---captain-specific-roster-changes) for more information.
     - (l) Trades between leagues are not permitted.
-    - (m) Trades involving members of a Duo DPC or double preliminary picks selected by an NPC are not permitted.
   - (2) Postseason:
     - (a) There will be no trades permitted during the postseason.
 
@@ -564,7 +561,6 @@ ___
     - (a) In the case of captains who step down, this option will require mutual agreement by the former and the newly instated captain.
     - (b) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
   - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or granted a number of positions determined by the CRC in the waiver wire as compensation.
-  - (4) Members of a Duo DPC or double preliminary picks selected by an NPC may not be dropped or traded from their initial roster.
 
 #### Section E - Dual Eligible Players (DEPs)
   - (1) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season.
