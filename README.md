@@ -279,28 +279,14 @@ ___
     - (g) TC may not be spent to remove a player from a roster and replace them on the draft board.
   - (2) Nominations:
     - (a) Captains will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting nominations at their discretion, but will work with captains if they have difficulty finding a replacement.
-    - (b) Nomination order will be randomly assigned and repeated in the same order upon completion of each round.
+    - (b) Nomination order will be randomly assigned and snake in reverse order upon completion of each round.
     - (c) Nomination spots may not be traded.
     - (d) Nominations will continue until each team has exactly 4 players.
       - (i) Novice league will transition to a snake draft once each roster contains 3 players.
     - (e) If a team already has the maximum number of players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
-    - (f) Bidding:
-      - (i) A bid will consist of a number of TagCoins from the available budget of that team.
-      - (ii) Values of winning bids are subtracted from the total remaining TagCoins budget of the winning team.
-      - (iii) Round formats:
-        - (1) Blind:
-          - (aa) Captains may submit bids on individual players from an ordered list provided by the CRC.
-            - (I) The number of players on the ordered list will match the number of teams in that tier.
-          - (bb) All bids are submitted asynchronously and privately before the bidding deadline and processed at the bidding deadline.
-          - (cc) Bids are processed from top to bottom of the ordered list.
-            - (I) In the event of a tie, teams who submitted a tying bid will be given the chance to privately increase their bid or pass on additional bidding.
-              - (1) This process repeats until there is no tie or no additional bids.
-              - (2) If all teams decline to increase their bid, the winner will be decided by a random choice generator.
-          - (dd) If a team bid exceeds their remaining TagCoin budget due to winning an earlier bid, that bid will be discarded.
-        - (2) Open:
-          - (aa) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
-            - (I) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
-          - (bb) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
+    - (f) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
+      - (i) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
+    - (g) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
 
 #### Section C - The Snake Draft
   - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons in Novice league.
