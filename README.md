@@ -752,23 +752,18 @@ ___
   - (1) Players:
     - (a) Microphone restrictions will not be enforced.
     - (b) Players who are not actively playing are considered “Non-Players” for the half.
-    - (c) Mid-game substitutes are permitted to begin using a voice channel once they have joined the game. The player being replaced must stop using the voice channel at the same time.
+    - (c) Mid-game substitutes are permitted to begin talking in a voice channel once they have joined the game. The player being replaced must stop talking in the voice channel at the same time.
   - (2) Non-Players:
     - (a) For the duration of the game all microphones must be muted. Failure to mute may result in priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
     - (b) Screen sharing via discord will also not be permitted for non-players.
     - (c) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
-    - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. This does not continue into the playoffs.
+    - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. They may not communicate information such as powerup timers. This does not continue into the playoffs.
 ___
 ### Article VIII - Playoffs
 
 #### Section A - Team Eligibility
-  - (1) Major League:
-    - (a) The top (TBA) teams will advance to the playoffs.
-  - (2) Minors League:
-    - (a) The top (TBA) teams will advance to the playoffs.
-  - (3) Novice League:
-    - (a) Every team will advance to the playoffs.
-  - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
+  - (1) The CRC will determine the number of playoff teams in each league.
+  - (2) Teams may not decline or otherwise remove themselves from playoffs.
 
 #### Section B - Seeding
   - (1) Seeding will be determined by the number of points earned during a season after penalties as outlined in [Article VII Section C](#section-c---points-and-scoring).
@@ -787,12 +782,6 @@ ___
     - (e) Total caps scored;
     - (f) A 5-minute OFM round-robin tournament with one player from each team. The player must be rostered on the team, and the captain will be allowed to choose the player.
   - (4) If the seeding of one team is determined in a three-or-more team tiebreaker but other seeds aren't, tiebreak rules continue as they are and do not reset for the remaining teams.
-
-#### Section C - Rounds
-  - (1) Initial round of any number of teams announced by the CRC - “Play-in round.”
-  - (2) First round of 8 teams (quarterfinals) - "Equidistant Eight."
-  - (3) Second round of 4 teams (semifinals) - "Foci Four."
-  - (4) Final round of 2 teams (finals) - “Superball”, “Muperball”, and “Nuperball.”
 ___
 ### Article IX - Cheating
 
@@ -810,14 +799,12 @@ ___
 #### Section B - Scripts
   - (1) Games are played with the "no scripts" option in groups and therefore no tagpro scripts are allowed.
   - (2) All scripts not found in the "no scripts" group option are prohibited.
-  - (3) Bomb/boost/powerup timers are strictly prohibited.
-  - (4) Bots are strictly prohibited.
+  - (3) Bots and Bomb/boost/powerup timers are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this form](***). If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, or message an individual CRC member. If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
-  - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
 
 #### Section D - Stock Manipulation
   - (1) Draft stock:
