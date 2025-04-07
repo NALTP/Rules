@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 35
+## Official Rules for North American League TagPro (NALTP) Season 36
 
 ### Table of Contents
 
@@ -139,7 +139,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 35 CRC will consist of pk, timmysumball, button, Nebuchanezar, and Phreek.
+    - (a) The Season 35 CRC will consist of pk, timmysumball, Bamboozler, bbb, and Tinderfella.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
@@ -461,7 +461,7 @@ ___
       - (i) Primary free agency period:
         - (1) Minor league drops in the second Minors add/drop period will be eligible for Novice free agency.
         - (2) True rookies will be eligible for free agency unless assessed above a Novice league level by the CRC.
-          - (aa) A true rookie is defined as any player with fewer than 110 minutes played in any official North American Capture the Flag league.
+          - (aa) A true rookie is defined as any player with fewer than 119 minutes played in any official North American Capture the Flag league.
         - (3) Players whose last competitive season was more than 6 seasons prior in accordance with the NALTP calendar will be accepted case-by-case for those not assessed above a Novice league level by the CRC.
         - (4) Major league drops who also become Minor league drops will not be eligible for free agency unless they have a total of 0 minutes played in the Major league.
         - (5) Players acquired in the primary free agency period will be eligible to begin playing in week 4 Novice league games.
@@ -492,10 +492,9 @@ ___
   - (1) Majors and Minors leagues:
     - (a) Eligibility
       - (i) Any rostered player is eligible to be loaned to a team in any league above their highest rostered league if they passed through the draft of that league.
-      - (ii) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
-      - (iii) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
-      - (iv) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
-      - (v) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams.
+      - (ii) A player who passed through a league's draft with gameday availability is also eligible to be loaned for that league's games even if they are not currently on a lower league's roster.
+      - (iii) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
+      - (iv) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams.
     - (b) Restrictions
       - (i) Players may only play in one match per league per week.
       - (ii) Players may only be loaned for up to two weeks per team in the regular season for any number of minutes.
@@ -518,12 +517,6 @@ ___
       - (i) In extreme cases, if no player can be found, the CRC may approve a loan for a player not currently rostered to an NALTP team.
     - (b) All loans must be approved by the CRC before the player plays.
       - (i) Failure to acquire approval may result in punishments such as--but not limited to: forfeiture, forced replay, and waiver point penalties.
-    - (c) Loans within Novice league will only be approved in cases where a team would otherwise forfeit.
-    - (d) Players with significant Minor league minutes will not be allowed to be loaned within Novice league.
-      - (i) Significant Minor league minutes will be defined as averaging more than 15 minutes of Minor league play per week.
-        - (1) Example: If a player has played 40 total Minor league minutes through week 2, they may not be loaned within Novice league in week 3 (20 minutes per week average).
-    - (e) A loaned player may not play for 2 different teams in a single week unless approved by the CRC.
-      - (i) Reasons for approval may include (but are not limited to) lack of minutes or perceived impact to league balance.
 
 #### Section D - Captain Specific Roster Changes
   - (1) Playing captains who step down or are removed from their position may not be traded.
@@ -561,14 +554,10 @@ ___
 ### Article VI - Maps
 
 #### Section A - Map Selection
-  - (1) For each tier, the CRC will be responsible for selecting 11 predetermined maps by a method of their own choosing.
-  - (2) Map rotations will be standardized across all tiers of NALTP.
-
-#### Section B - Map distribution
-  - (1) Each map will be played in a total of 3 games, with one map selected to be played in 5 games.
-
-#### Section C - Playoffs
-  - (1) All predetermined maps from the regular season will be eligible for pick/ban in playoffs.
+  - (1) For each tier, the CRC will be responsible for selecting maps by a method of their own choosing.
+  
+#### Section B - Playoffs
+  - (1) All maps from the regular season will be eligible for pick/ban in playoffs.
 
 ___
 ### Article VII - Matches
@@ -588,19 +577,7 @@ ___
 #### Section B - Settings
   - (1) Regular Season:
     - (a) For each week there will be one match consisting of five games.
-    - (b) Maps and starting color:
-      - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
-      - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 35, each match will have 2 maps in the following format. Each letter represents a unique map.
-          - (aa) Week 1: AAABB;
-          - (bb) Week 2: BCCCD;
-          - (cc) Week 3: DDEEE;
-          - (dd) Week 4: FFFGG;
-          - (ee) Week 5: GHHHI;
-          - (ff) Week 6: IIJJJ;
-          - (gg) Week 7: KKꓘAA;
-      - (iii) Team colors will alternate RBRBR for each match.
-        - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
+    - (b) Maps and team colors will follow the schedule posted by the CRC
     - (c) Game settings:
       - (i) Capture limit set to none;
       - (ii) Time limit set to 10 minutes;
@@ -627,20 +604,11 @@ ___
     - (e) If overtime is unable to be played for any reason including but not limited to incorrect settings, game crashes, or back to group callouts.
       - (i) The involved teams will play a single ‘golden cap’ half with the following settings:
         - (1) Time limit set to 20 minutes;
-        - (2) Overtime set to off;
+        - (2) Overtime set to on;
         - (3) Capture limit set to 1;
         - (4) Mercy rule disabled;
-        - (5) Acceleration set to 100%;
-        - (6) Top speed set to 100%;
-        - (7) Bounciness set to 100%;
-        - (8) Player respawn time set to 3 seconds;
-        - (9) Boost respawn time set to 10 seconds;
-        - (10) Bomb respawn time set to 30 seconds;
-        - (11) Powerup respawn time set to 1 minute;
-        - (12) Powerup delay set to 60 seconds;
-        - (13) Userscripts: Disabled;
-        - (14) Respawn Warnings: Disabled; and
-        - (15) Server set to the server used for the previous game.
+        - (5) Server set to the server used for the previous game;
+        - (6) All other game settings like normal.
       - (ii) The CRC may award the overtime point(s) to either team in a follow up review based on at-fault status, player positioning before an abrupt ending, or anything else deemed relevant.
       - (iii) No substitutions may be made out of game.
   - (2) Playoffs:
@@ -651,12 +619,9 @@ ___
           - (aa) The team with the higher seed will pick what team they would like to be for the Pick/Ban (Team 1 or Team 2)
           - (bb) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
-            - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This option may only be chosen one time per team.
-        - (2) Majors:
-          - (aa) Pick/bans will be completed 10 minutes before the matchup.
-        - (3) Minors and Novice:
-          - (aa) Pick/bans must be completed no later than 48 hours before the matchup.
-          - (bb) All playoff matches require pick/bans.
+            - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This can be done as many times as mathematically possible until there are 7 eligible maps.
+        - (2) Pick/bans must be completed no later than 48 hours before the matchup.
+        - (3) All playoff matches require pick/bans.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
@@ -690,8 +655,7 @@ ___
 
 #### Section D - Minute Minimums and Maximums
   - (1) Majors and Minors leagues:
-    - (a) There is no minute minimum.
-    - (b) There is no minute maximum.
+    - (a) There are no rules for player minute minimums or maximums.
   - (2) Novice league:
     - (a) There is a 20 minute playing minimum for any players present on game night.
       - (i) Exceptions will require CRC approval and will be restricted to availability issues, lagouts, or anything else deemed relevant by the CRC. Due to the time sensitive nature of some decisions, if only one CRC member is online at the time of the conflict they will be given the deciding say on this matter.
