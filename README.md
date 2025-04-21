@@ -179,10 +179,9 @@ ___
   - (3) Eligibility and restrictions:
     - (a) Any player not banned from NALTP is eligible to apply for captaincy or co-captaincy unless otherwise announced by the CRC.
     - (b) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second period.
-    - (c) CRC members may not serve as captain or GM in any circumstances.
+    - (c) CRC members may not serve as captain, official co-captain, or GM in any circumstances.
     - (d) Official Co-Captains are not permitted to be members of any team in their league other than the one they are co-captaining. If a Co-Captain should end up on any other league roster than the one they are co-captaining, they will be removed from their position as official Co-Captain.
     - (e) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
-    - (f) CRC members are not permitted to be official co-captains under any circumstances.
   - (4) Selection, voting, and announcements:
     - (a) Captains and GMs will be approved by a majority vote from the CRC.
     - (b) Co-captains do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
