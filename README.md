@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 35
+## Official Rules for North American League TagPro (NALTP) Season 36
 
 ### Table of Contents
 
@@ -76,7 +76,7 @@ ___
   - (2) No team will have a recognized affiliation with any other team in any league.
 
 #### Section C - Teams
-  - (1) Each team will have a single official captain and a single official co-captain.
+  - (1) Each team will have a single official captain and up to one single official co-captain.
     - (a) Each team may have any number of unofficial co-captains.
   - (2) The roster limit for teams in each league will be;
     - (a) Majors and Minors: 4 player limit.
@@ -86,15 +86,11 @@ ___
   - (1) Each league will begin its season with a draft, in which players are assigned to teams.
   - (2) Each league will have weekly matches for the duration of its season.
     - (a) Any exceptions such as holiday breaks will be listed in the league schedule.
-  - (3) Each league will be split into three schedule periods
-    - (a) Pre-Season: The period between signups opening and the draft.
-    - (b) Regular Season: The period of time between the draft and playoffs.
-    - (c) Post-Season: The entirety of playoffs, ending with the championship match.
-  - (4) The default game days for each league will be:
+  - (3) The default game days for each league will be:
     - (a) Majors on Sunday;
     - (b) Minors on Monday;
     - (c) Novice on Wednesday;
-  - (5) League draft dates will be staggered with championships all occurring in the same week by default.
+  - (4) League draft dates will be staggered with championships all occurring in the same week by default.
 
 #### Section E - Servers
   - (1) All three leagues will be “all-Chicago” leagues.
@@ -110,8 +106,8 @@ ___
   - (2) Playoffs:
     - (a) There will be one elimination series per week or more for each team in the playoffs which has not received a bye.
       - (i) Series = Best of 7 ten minute games.
-    - (b) There will be (TBA) Majors teams in the playoffs determined by regular season standings.
-    - (c) There will be (TBA) Minors teams in the playoffs determined by regular season standings.
+    - (b) There will be a CRC-chosen number of Majors teams in the playoffs determined by regular season standings.
+    - (c) There will be a CRC-chosen number of Minors teams in the playoffs determined by regular season standings.
     - (d) All Novice teams will make the playoffs.
     - (e) Game settings:
       - (i) See [Article VII, Section B, Part c](#section-b---settings) for game settings and other match information.
@@ -143,7 +139,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 35 CRC will consist of pk, timmysumball, button, Nebuchanezar, and Phreek.
+    - (a) The Season 35 CRC will consist of pk, timmysumball, Bamboozler, bbb, and Tinderfella.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
@@ -182,41 +178,23 @@ ___
     - (c) Captains may change who their co-captain is at any time by notifying the CRC.
   - (3) Eligibility and restrictions:
     - (a) Any player not banned from NALTP is eligible to apply for captaincy or co-captaincy unless otherwise announced by the CRC.
-    - (b) Players who wish to DPC may be restricted to NPC/IPC or DPC roles respectively by the CRC based on skill level and strength of signups.
-      - (i) The CRC will communicate any such restrictions with the applicant and attempt to reach an agreement.
-      - (ii) A DPC signup will be considered overqualified if they meet any of the following criteria for their most recent season of NALTP:
-        - (1) They played at least half of total available regular-season minutes in the league above their DPC signup AND had a positional or total NISH of 70 or higher;
-        - (2) They played at least half of total available regular-season minutes in the league of their DPC signup AND had a positional or total NISH of 90 or higher; or
-        - (3) The player is deemed by the CRC to be beyond the skill level of the league of their DPC signup.
-    - (c) Applicants who are likely to play in the league of their signup as determined by the CRC will be ineligible for NPC captaincy.
-    - (d) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second period.
-    - (e) CRC members may only captain or GM as a last resort. They should not be considered an option unless they end up at a deficit for captains and have issued additional calls for more qualified captains or GMs.
-      - (i) CRC captains or GMs automatically recuse themselves from:
-        - (1) Any vote or discussion involving their team;
-        - (2) Any vote or discussion on an action that would adjust league standings;
-        - (3) Any vote or discussion for a disciplinary action that would suspend a player on an opponent they are scheduled to face in the suspension period; and
-        - (4) Any trade, loan, or free agency/waiver approval.
-    - (f) Official Co-Captains are not permitted to be members of any team in their league other than the one they are co-captaining. If a Co-Captain should end up on any other league roster than the one they are co-captaining, they will be removed from their position as official Co-Captain.
-    - (g) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
-    - (h) CRC members are not permitted to be official co-captains under any circumstances.
+    - (b) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped in the second period.
+    - (c) CRC members may not serve as captain, official co-captain, or GM in any circumstances.
+    - (d) Official Co-Captains are not permitted to be members of any team in their league other than the one they are co-captaining. If a Co-Captain should end up on any other league roster than the one they are co-captaining, they will be removed from their position as official Co-Captain.
+    - (e) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
   - (4) Selection, voting, and announcements:
     - (a) Captains and GMs will be approved by a majority vote from the CRC.
     - (b) Co-captains do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
-    - (c) Voting will be done on a rolling basis with final decisions periodically announced via the r/MLTP subreddit.
-    - (d) The final list of captains for each league will be announced at least 24 hours before the draft is scheduled to begin.
-  - (5) Retirement:
-    - (a) Captains and GMs are considered retired from their position after the election of the following season’s CRC has concluded.
-    - (b) Captaincy in one season does not carry to the next season. Players will need to re-apply each season if they wish to continue captaining.
+  - (5) Terms:
+    - (a) All forms of captaincy are for a single season only.
   - (6) Mid-season vacancy.
-    - (a) If a captain or GM must step down from their position due to a real life conflict or is removed by CRC ruling, a replacement will be nominated by either the outgoing captain or the CRC to then be approved by the CRC with a majority vote. This player is not required to be a rostered player in the league.
-    - (b) Replacement captains or GMs may be rostered members of the team in question or non-players. Players currently on a different team in the same league may not be replacement captains or GMs.
-    - (c) Replacement captains or GMs are not required to be former co-captains of the same team.
-    - (d) Playing captains who step down or are removed from their position may not be traded.
-    - (e) Former playing captains may activate an option to be dropped in the next period.
+    - (a) If a captain or GM must step down from their position, or is removed by CRC ruling, a replacement will be determined by the CRC.
+    - (b) Playing captains who step down or are removed from their position may not be traded.
+    - (c) Former playing captains may activate an option to be dropped in the next period.
       - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
       - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
       - (iii) In extreme cases, if the final period has concluded, the CRC may initiate an extra window to accomodate.
-    - (f) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
+    - (d) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
 
 #### Section D - Players
   - (1) Signup eligibility:
@@ -477,7 +455,7 @@ ___
       - (i) Primary free agency period:
         - (1) Minor league drops in the second Minors add/drop period will be eligible for Novice free agency.
         - (2) True rookies will be eligible for free agency unless assessed above a Novice league level by the CRC.
-          - (aa) A true rookie is defined as any player with fewer than 110 minutes played in any official North American Capture the Flag league.
+          - (aa) A true rookie is defined as any player with fewer than 119 minutes played in any official North American Capture the Flag league.
         - (3) Players whose last competitive season was more than 6 seasons prior in accordance with the NALTP calendar will be accepted case-by-case for those not assessed above a Novice league level by the CRC.
         - (4) Major league drops who also become Minor league drops will not be eligible for free agency unless they have a total of 0 minutes played in the Major league.
         - (5) Players acquired in the primary free agency period will be eligible to begin playing in week 4 Novice league games.
@@ -508,10 +486,9 @@ ___
   - (1) Majors and Minors leagues:
     - (a) Eligibility
       - (i) Any rostered player is eligible to be loaned to a team in any league above their highest rostered league if they passed through the draft of that league.
-      - (ii) A player who passed through the Major league draft with Sunday availability is also eligible to be loaned for Major league games even if they are not currently on a Minor or Novice league roster.
-      - (iii) A player who passed through the Minor league draft with Monday availability is also eligible to be loaned for Minor league games even if they are not currently on a Novice league roster.
-      - (iv) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
-      - (v) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams.
+      - (ii) A player who passed through a league's draft with gameday availability is also eligible to be loaned for that league's games even if they are not currently on a lower league's roster.
+      - (iii) A player who has been dropped in an add/drop period but has not yet been called up to any roster may be loaned, so long as they do not play for two teams in the same league in the same week of the regular season.
+      - (iv) Players added to a Novice roster via Free Agency will be eligible to be loaned to Minors teams.
     - (b) Restrictions
       - (i) Players may only play in one match per league per week.
       - (ii) Players may only be loaned for up to two weeks per team in the regular season for any number of minutes.
@@ -534,12 +511,6 @@ ___
       - (i) In extreme cases, if no player can be found, the CRC may approve a loan for a player not currently rostered to an NALTP team.
     - (b) All loans must be approved by the CRC before the player plays.
       - (i) Failure to acquire approval may result in punishments such as--but not limited to: forfeiture, forced replay, and waiver point penalties.
-    - (c) Loans within Novice league will only be approved in cases where a team would otherwise forfeit.
-    - (d) Players with significant Minor league minutes will not be allowed to be loaned within Novice league.
-      - (i) Significant Minor league minutes will be defined as averaging more than 15 minutes of Minor league play per week.
-        - (1) Example: If a player has played 40 total Minor league minutes through week 2, they may not be loaned within Novice league in week 3 (20 minutes per week average).
-    - (e) A loaned player may not play for 2 different teams in a single week unless approved by the CRC.
-      - (i) Reasons for approval may include (but are not limited to) lack of minutes or perceived impact to league balance.
 
 #### Section D - Captain Specific Roster Changes
   - (1) Playing captains who step down or are removed from their position may not be traded.
@@ -577,14 +548,10 @@ ___
 ### Article VI - Maps
 
 #### Section A - Map Selection
-  - (1) For each tier, the CRC will be responsible for selecting 11 predetermined maps by a method of their own choosing.
-  - (2) Map rotations will be standardized across all tiers of NALTP.
-
-#### Section B - Map distribution
-  - (1) Each map will be played in a total of 3 games, with one map selected to be played in 5 games.
-
-#### Section C - Playoffs
-  - (1) All predetermined maps from the regular season will be eligible for pick/ban in playoffs.
+  - (1) For each tier, the CRC will be responsible for selecting maps by a method of their own choosing.
+  
+#### Section B - Playoffs
+  - (1) All maps from the regular season will be eligible for pick/ban in playoffs.
 
 ___
 ### Article VII - Matches
@@ -604,19 +571,7 @@ ___
 #### Section B - Settings
   - (1) Regular Season:
     - (a) For each week there will be one match consisting of five games.
-    - (b) Maps and starting color:
-      - (i) Maps may be played in any order so long as the correct maps and colors are played that week. Changes in map order require captains agreement.
-      - (ii) Maps will follow the schedule posted by the CRC.
-        - (1) In Season 35, each match will have 2 maps in the following format. Each letter represents a unique map.
-          - (aa) Week 1: AAABB;
-          - (bb) Week 2: BCCCD;
-          - (cc) Week 3: DDEEE;
-          - (dd) Week 4: FFFGG;
-          - (ee) Week 5: GHHHI;
-          - (ff) Week 6: IIJJJ;
-          - (gg) Week 7: KKꓘAA;
-      - (iii) Team colors will alternate RBRBR for each match.
-        - (1) The CRC will balance colors as much as possible and publish assignments with the full schedule for the season.
+    - (b) Maps and team colors will follow the schedule posted by the CRC
     - (c) Game settings:
       - (i) Capture limit set to none;
       - (ii) Time limit set to 10 minutes;
@@ -643,20 +598,11 @@ ___
     - (e) If overtime is unable to be played for any reason including but not limited to incorrect settings, game crashes, or back to group callouts.
       - (i) The involved teams will play a single ‘golden cap’ half with the following settings:
         - (1) Time limit set to 20 minutes;
-        - (2) Overtime set to off;
+        - (2) Overtime set to on;
         - (3) Capture limit set to 1;
         - (4) Mercy rule disabled;
-        - (5) Acceleration set to 100%;
-        - (6) Top speed set to 100%;
-        - (7) Bounciness set to 100%;
-        - (8) Player respawn time set to 3 seconds;
-        - (9) Boost respawn time set to 10 seconds;
-        - (10) Bomb respawn time set to 30 seconds;
-        - (11) Powerup respawn time set to 1 minute;
-        - (12) Powerup delay set to 60 seconds;
-        - (13) Userscripts: Disabled;
-        - (14) Respawn Warnings: Disabled; and
-        - (15) Server set to the server used for the previous game.
+        - (5) Server set to the server used for the previous game;
+        - (6) All other game settings like normal.
       - (ii) The CRC may award the overtime point(s) to either team in a follow up review based on at-fault status, player positioning before an abrupt ending, or anything else deemed relevant.
       - (iii) No substitutions may be made out of game.
   - (2) Playoffs:
@@ -667,12 +613,9 @@ ___
           - (aa) The team with the higher seed will pick what team they would like to be for the Pick/Ban (Team 1 or Team 2)
           - (bb) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
-            - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This option may only be chosen one time per team.
-        - (2) Majors:
-          - (aa) Pick/bans will be completed 10 minutes before the matchup.
-        - (3) Minors and Novice:
-          - (aa) Pick/bans must be completed no later than 48 hours before the matchup.
-          - (bb) All playoff matches require pick/bans.
+            - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This can be done as many times as mathematically possible until there are 7 eligible maps.
+        - (2) Pick/bans must be completed no later than 48 hours before the matchup.
+        - (3) All playoff matches require pick/bans.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
@@ -706,8 +649,7 @@ ___
 
 #### Section D - Minute Minimums and Maximums
   - (1) Majors and Minors leagues:
-    - (a) There is no minute minimum.
-    - (b) There is no minute maximum.
+    - (a) There are no rules for player minute minimums or maximums.
   - (2) Novice league:
     - (a) There is a 20 minute playing minimum for any players present on game night.
       - (i) Exceptions will require CRC approval and will be restricted to availability issues, lagouts, or anything else deemed relevant by the CRC. Due to the time sensitive nature of some decisions, if only one CRC member is online at the time of the conflict they will be given the deciding say on this matter.
@@ -768,23 +710,18 @@ ___
   - (1) Players:
     - (a) Microphone restrictions will not be enforced.
     - (b) Players who are not actively playing are considered “Non-Players” for the half.
-    - (c) Mid-game substitutes are permitted to begin using a voice channel once they have joined the game. The player being replaced must stop using the voice channel at the same time.
+    - (c) Mid-game substitutes are permitted to begin talking in a voice channel once they have joined the game. The player being replaced must stop talking in the voice channel at the same time.
   - (2) Non-Players:
     - (a) For the duration of the game all microphones must be muted. Failure to mute may result in priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
     - (b) Screen sharing via discord will also not be permitted for non-players.
     - (c) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
-    - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. This does not continue into the playoffs.
+    - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. They may not communicate information such as powerup timers. This does not continue into the playoffs.
 ___
 ### Article VIII - Playoffs
 
 #### Section A - Team Eligibility
-  - (1) Major League:
-    - (a) The top (TBA) teams will advance to the playoffs.
-  - (2) Minors League:
-    - (a) The top (TBA) teams will advance to the playoffs.
-  - (3) Novice League:
-    - (a) Every team will advance to the playoffs.
-  - (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
+  - (1) The CRC will determine the number of playoff teams in each league.
+  - (2) Teams may not decline or otherwise remove themselves from playoffs.
 
 #### Section B - Seeding
   - (1) Seeding will be determined by the number of points earned during a season after penalties as outlined in [Article VII Section C](#section-c---points-and-scoring).
@@ -803,12 +740,6 @@ ___
     - (e) Total caps scored;
     - (f) A 5-minute OFM round-robin tournament with one player from each team. The player must be rostered on the team, and the captain will be allowed to choose the player.
   - (4) If the seeding of one team is determined in a three-or-more team tiebreaker but other seeds aren't, tiebreak rules continue as they are and do not reset for the remaining teams.
-
-#### Section C - Rounds
-  - (1) Initial round of any number of teams announced by the CRC - “Play-in round.”
-  - (2) First round of 8 teams (quarterfinals) - "Equidistant Eight."
-  - (3) Second round of 4 teams (semifinals) - "Foci Four."
-  - (4) Final round of 2 teams (finals) - “Superball”, “Muperball”, and “Nuperball.”
 ___
 ### Article IX - Cheating
 
@@ -826,14 +757,12 @@ ___
 #### Section B - Scripts
   - (1) Games are played with the "no scripts" option in groups and therefore no tagpro scripts are allowed.
   - (2) All scripts not found in the "no scripts" group option are prohibited.
-  - (3) Bomb/boost/powerup timers are strictly prohibited.
-  - (4) Bots are strictly prohibited.
+  - (3) Bots and Bomb/boost/powerup timers are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, message an individual CRC member or fill out [this form](***). If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, or message an individual CRC member. If requested, commissioners will not disclose the name of the whistleblower.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
-  - (4) All whistleblowing posts on reddit made from throwaway accounts will be deleted without consideration for source material.
 
 #### Section D - Stock Manipulation
   - (1) Draft stock:
