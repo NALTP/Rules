@@ -14,7 +14,6 @@
   * [Section B - The League Managers (LM)](#section-b---the-league-managers-lm)
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
-  * [Section E - Referees](#section-e---referees)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
   * [Section B - The Auction Drafts](#section-b---the-auction-drafts)
@@ -25,12 +24,11 @@
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
-  * [Section F - Out of League Substitutions (OOLs)](#section-f---Out-of-League-Substitutions-OOLs)
+  * [Section F - Out of League Substitutions (OOLs)](#section-f---out-of-league-substitutions-ools)
 - [Article V - Player Restrictions.](#article-v---player-restrictions)
   * [Section A - Proper Position Restrictions](#section-a---proper-position-restrictions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
   * [Section C - Microphone Restrictions](#section-c---microphone-restrictions)
-  * [Section D - Scrimmage Restrictions](#section-d---scrimmage-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Selection](#section-a---map-selection)
   * [Section B - Playoffs](#section-b---playoffs)
@@ -67,7 +65,7 @@ ___
   - (1) NALTP signups and announcements will be facilitated via the NALTP Discord and subreddit.
     - (a) [Invite link](https://discord.com/invite/JCyQaZH)
     - (b) [Subreddit](https://www.reddit.com/r/MLTP/)
-    - (c) Sign up by messaging "!naltp" to the TToC_BOT.
+    - (c) Sign up by messaging `!naltp` to the TToC_BOT.
 
 #### Section B - Leagues
   - (1) NALTP will be comprised of three leagues, each with its own schedule, rule variations and set of teams.
@@ -228,36 +226,6 @@ ___
   - (4) Free agency eligibility and restrictions:
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
   - (5) All players are limited to one (1) name for the season, which they are required to play under in all tiers.
-   
-#### Section E - Referees
-  - (1) Referee Structure Overview:
-    - (a) For each league in NALTP, there will be one referee.
-    - (b) At the conclusion of every regular season, the existing league referees will be retired and eligible to apply for the following season.
-    - (c) The CRC can retire any referee at any time and appoint a replacement from the list of applicants at their discretion, by majority vote.
-  - (2) Selection:
-    - (a) The CRC will host applications during the preseason to create a list of potential referees.
-    - (b) Following each league draft, the league referee will be chosen by the CRC by majority vote at least 48 hours before Week 1 matchups begin.
-  - (3) Eligibility:
-    - (a) All players are eligible to become a referee, with the following exceptions:
-      - (i) CRC and LM are ineligible to also become referees, for obvious reasons.
-      - (ii) GMs, captains, official co-captains and un-official co-captains are ineligible to referee for any league in which they are affiliated.
-      - (iii) Players are ineligible to referee for the league(s) in which they are playing.
-      - (iv) Any player who has served or is currently serving an NALTP ban/suspension is ineligible to become a referee.
-      - (v) Any player who is currently serving a TagPro ban is ineligible to become a referee.
-  - (4) Duties:
-    - (a) Referees shall by online for their league's default game night for 100% of the regular season matchups.
-      - (i) There will be a "Referee" voice channel that referees are expected to be connected to during matchups, so captains and/or GMs can quickly access the referee.
-      - (ii) Other persons may be in the voice channel, but will be expected to disconnect or deafen when the referee is needed for a ruling.
-      - (iii) Referees are not expected to be online for games rescheduled to non-default days for their respective league.
-    - (b) Referees will have the power to enforce the rules as written, as an extension of the CRC.
-    - (c) Referees will not make decisions that require any rule interpretation and shall instead escalate the issue to the CRC immediately.
-    - (d) Referees that need to miss a game night will inform the CRC no later than 24 hours prior to the first default game time.
-  - (5) Vacancies:
-    - (a) Should a referee retire mid-season, be promoted to playing in the league that they referee in, or otherwise leave a vacancy, the CRC will appoint a replacement from the list of applicants by majority vote.
-  - (6) S37 Referees:
-    - (a) MLTP - 
-    - (b) mLTP - 
-    - (c) NLTP -
 
 ___
 ### Article III - Drafting
@@ -316,7 +284,10 @@ ___
     - (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the draft packet being added to their roster.
     	- (i) Captains may choose to opt-out of participation in the snake draft. Those who do will receive the top player from the draft packet when it is their turn to pick.
     - (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
+      - (i) The final round of the snake will always follow the order of the first round, regardless of the previous round's order.
     - (f) The snake draft will continue until every eligible signup has been drafted to a team.
+    - (g) The final snake round will introduce an option to pass on selecting a player, where teams will be allowed to skip their selection until there are mathematically enough picks left to finish the draft.
+      - (i) Example: There are 8 teams and the final round has 5 players remaining. At maximum, 3 teams may pass on selecting a player.
 ___
 ### Article IV - Roster changes
 
@@ -593,7 +564,7 @@ ___
 #### Section B - Scheduling Restrictions
   - (1) The CRC may enforce schedule restrictions on a player commensurate with the availability they indicate in their signup comments.
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
-    - (b) (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
+    - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
       - (i) Ex: If a player is missing 1 week in a 6 week season, they will be given a 250 minute restriction (300-(1x50)).
       - (ii) Minute restrictions are not linked to the specific week(s) a player is missing. If the player's conflict is resolved the restriction will still apply, but their captain may choose to play them and fulfill the restriction by sitting them a different week.
 
@@ -602,14 +573,6 @@ ___
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
     - (b) These players must remained muted in their team's voice chat during all league games. 
   - (2) In Novice league, microphone restrictions are not enforced.
-
-#### Section D - Scrimmage Restrictions
-  - (1) In the Major and Minors leagues, scrimmage (aka scrim) restrictions may be enforced on players that sign up indicating that they are unwilling to scrim during the season and/or postseason.
-    - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
-    - (b) A scrim is defined as any private group with 2 or more players from the same roster in the group.
-      - (i) This applies even if the players from the same roster are playing on different teams, in an OFM, etc.
-      - (ii) Example: Players A, B, C and D are rostered on Team 1. If player A has a scrim restriction, they cannot play in any private group with players B, C or D at any point.
-      - (iii) This does not apply to ranked or casual public matches, if a scrim restricted player is paired with one or more of their teammates by TagPro's matchmaking system.
 
 ___
 ### Article VI - Maps
@@ -788,7 +751,7 @@ ___
   - (5) Once a match has started the group leader will launch each game after a captain or majority of both teams indicates they are ready.
     - (a) A team must indicate they are ready within 3 minutes of the previous game, unless a break is requested.
     - (b) A team may only have one break per match, this break may only last up to 5 minutes and the break may be used before any game, including game 1.
-    - (c) If the pick/ban has become the default start of the match, a team must indicate that they are ready to play game 1 withing 3 minutes of the end of the pick/ban.
+    - (c) If the pick/ban has become the default start of the match, a team must indicate that they are ready to play game 1 within 3 minutes of the end of the pick/ban.
   - (6) Any team delaying a game by breaking these rules may receive a forfeit, deduction in standing points or capture penalty at the CRC's discretion.
   - (7) If a game must be delayed for a CRC decision there will be no forfeiture due to delays.
 
