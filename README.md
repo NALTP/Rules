@@ -506,7 +506,8 @@ ___
       - (ii) Players may only be loaned for up to two weeks per team in the regular season for any number of minutes.
       - (iii) Players may be loaned any number of times in the post-season for any number of minutes.
       - (iv) Players who are loaned to a Major league team will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
-      - (v) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
+      - (v) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
+      - (vi) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
     - (c) Priority
       - (i) Regular season
         - (1) The first team to contact a player will have priority to loan them for the upcoming week.
