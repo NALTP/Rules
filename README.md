@@ -597,11 +597,7 @@ ___
 ### Article VI - Maps
 
 #### Section A - Map Selection
-  - (1) The regular season map pool will consist of 10 maps, shared by all three leagues.
-    - (a) 5 of these maps will be new maps, which have never been played in a previous season of NALTP.
-    - (b) 5 of these maps will be returning maps, which have been played in a previous season of NALTP.
-  - (2) Each week of the regular season will feature 5 different maps from the pool, one for each game of the match.
-  - (3) Over the course of the regular season, each new map will be played 3 times and each returning map will be played 4 times.
+  - (1) For each tier, the CRC will be responsible for selecting maps by a method of their own choosing.
 
 #### Section B - Playoffs
   - (1) All maps from the regular season will be eligible for pick/ban in playoffs.
