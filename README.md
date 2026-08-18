@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 38
+## Official Rules for North American League TagPro (NALTP) Season 39
 
 ### Table of Contents
 
@@ -17,7 +17,7 @@
   * [Section E - Rookie Integration Officer](#section-e---rookie-integration-officer)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
-  * [Section B - The Auction Drafts](#section-b---the-auction-drafts)
+  * [Section B - The Snauction Drafts](#section-b---the-snauction-drafts)
   * [Section C - The Snake Draft](#section-c---the-snake-draft)
 - [Article IV - Roster Changes](#article-iv---roster-changes)
   * [Section A - Trades](#section-a---trades)
@@ -117,30 +117,30 @@ ___
 
 #### Section A - The Committee for Rules and Coordination (CRC)
   - (1) CRC Structure Overview:
-    - (a) The CRC will consist of 3 members with equal voting power and rights.
+    - (a) The CRC will consist of 5 members with equal voting power and rights.
     - (b) At the conclusion of every season, the existing members of the CRC will be retired and eligible for re-election.
   - (2) Elections:
-    - (a) At the conclusion of the season, elections will be held to fill the three vacancies on the CRC.
+    - (a) At the conclusion of the season, elections will be held to fill the five vacancies on the CRC.
     - (b) The election will be conducted by the League Managers.
     - (c) The LM will call for election applications and allow reasonable time for people to submit them.
       - (i) Applicants will be made public to allow reasonable time for interpretation prior to the election.
       - (ii) The same list of applicants will be used for all seats.
-    - (d) The first seat will be filled by a combined vote of the previous season’s Captains from all three tiers.
+    - (d) The first two seats will be filled by a combined vote of the previous season’s Captains from all three tiers.
       - (i) The election will be a linear scoring borda count, n=1 (last place is 1 point, 2nd to last is 2, etc.) with full ranked ballots (must rank all candidates).
-      - (ii) The candidate with the highest Borda Count will fill the seat.
+      - (ii) The candidates with the two highest Borda Counts will fill the seats.
       - (iii) Captains with a team in more than one league will still receive a single vote towards the final results.
     - (e) The remaining seats will be filled by a vote of the NALTP Community.
       - (i) The NALTP Community is defined as:
         - (1) Players, Non-Playing Captains and General Managers from the previous season of NALTP and
         - (2) Players signed up for the current season’s draft at the time of ballot posting whose last season of play was within the last 5 seasons of NALTP.
       - (ii) The Vote will use a Single Transferable Vote (STV) with partial ranked ballots (voters rank as many candidates as they would like). The counting method will be the Weighted Inclusive Gregory Method.
-      - (iii) The winners of the IRV will fill the second and third seats.
+      - (iii) The winners of the IRV will fill the third, fourth, and fifth seats.
   - (3) Vacancies:
     - (a) In the event of an unexpected vacancy on the CRC midseason (due to a retirement, VONC, or other issue), the remaining CRC members will appoint a replacement for the remainder of the season.
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 38 CRC will consist of Bam, fender, Russ, timmysumball and Tinderfella.
+    - (a) The Season 39 CRC will consist of FLY, button, and Bam.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
@@ -152,8 +152,8 @@ ___
   - (3) Retirement:
     - (a) No League Manager is permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Managers for Season 38 will be Poeticalto and Cheezedoodle.
-    - (b) The League Manager Assistant for Season 38 will be Wraith (aka Phreek).
+    - (a) The League Managers for Season 39 will be Poeticalto and Cheezedoodle.
+    - (b) The League Manager Assistant for Season 39 will be Wraith (aka Phreek).
 
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -213,7 +213,7 @@ ___
         - (4) The player is deemed by the CRC to be beyond the skill level of Novice league.
       - (iii) Players will not be permitted to switch positions to circumvent these rules.
       - (iv) It is the responsibility of the player to confirm their eligibility for the draft.
-    - (b) Players with fewer than 110 minutes minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
+    - (b) Players with fewer than 110 minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
     - (c) Players removed from a league draft by the CRC are not eligible to enter the following lower-league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, Section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
@@ -253,7 +253,7 @@ ___
   - (4) The MLTP and mLTP drafts will continue until every team's roster is filled.
   - (5) The NLTP draft will continue until all remaining players are assigned to a team.
 
-#### Section B - The Auction Drafts
+#### Section B - The Snauction Drafts
   - (1) TagCoins (TC):
     - (a) There will be three forms of TagCoins, TCM, TCN, and TCA.
       - (i) TCM = Major league TagCoin.
@@ -269,25 +269,32 @@ ___
           - (cc) Each tier may have any number of teams assigned to it including zero teams.
     - (c) Trades, including those involving TC, are allowed during each draft.
     - (d) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
-    - (e) Remaining TCM, TCN, and TCA are kept by the team for use in add/drop and free agency periods at the conclusion of each draft, while the value of the coins assigned to players drafted at auction is also kept.
+    - (e) Remaining TCM, TCN, and TCA are kept by the team for use in add/drop and free agency periods at the conclusion of each draft, while the value of the coins assigned to players drafted at snauction is also kept.
     - (f) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
     - (g) TC may not be spent to remove a player from a roster and replace them on the draft board.
-  - (2) Nominations:
-    - (a) Captains will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting nominations at their discretion, but will work with captains if they have difficulty finding a replacement.
-    - (b) Nomination order:
-      - (i) For leagues with only GMs, the order will be randomly assigned and snake in reverse order upon completion of each round.
-      - (ii) For leagues with non-equal TC budgets, the order will be determined by the TC budget of each team, where the team with the least amount of TC will go first and will snake in reverse order upon completion of each round. Teams with a tied budget will have the order randomly assigned.
-    - (c) Nomination spots may not be traded.
-    - (d) Nominations will continue until each team has exactly 4 players.
+  - (2) The Snauction:
+    - (a) All leagues will conduct their draft as a snauction, with teams bidding on draft picks.
+      - (i) The team that wins a pick will select any eligible player from the draft packet to add to their roster, at which point bidding will begin on the next pick.
+    - (b) Captains will be responsible for submitting bids and selections for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting bids or selections at their discretion, but will work with captains if they have difficulty finding a replacement.
+    - (c) Bidding:
+      - (i) Bidding on a pick will open at 0 TC and any eligible team may raise the current bid at any time.
+      - (ii) A pick will be awarded to the team with the highest bid once the bidding timer expires without a new bid being submitted.
+      - (iii) Bids must be submitted in whole numbers of TC and may not exceed a team’s remaining TagCoins.
+      - (iv) A team whose roster is full is no longer eligible to bid.
+      - (v) If no bid is submitted on a pick before the timer expires, the pick will be awarded to the eligible team with the fewest players on their roster. Ties will be broken by a random generator.
+    - (d) Selection:
+      - (i) Teams will have 30 seconds to submit a selection. Failure to select a player before the timer expires will result in the top player on the draft packet being added to their roster.
+      - (ii) TC equal to the winning bid will be deducted from the team's total upon selection.
+    - (e) The snauction will continue until each team has exactly 4 players.
       - (i) Novice league will transition to a snake draft once each roster contains 4 players.
-    - (e) If a team already has the maximum number of players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
-    - (f) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
-      - (i) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
-    - (g) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
+  - (3) The Co-Captain Round:
+    - (a) The Major league draft will include a co-captain round, held one or more days in advance of the remainder of the draft as announced by the CRC.
+    - (b) The co-captain round will follow the snauction procedure and will conclude once each team has exactly 1 player.
+    - (c) Trades, including those involving TC, are permitted between the conclusion of the co-captain round and the start of the remainder of the draft.
 
 #### Section C - The Snake Draft
   - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons in Novice league.
-    - (a) The snake draft will begin shortly after the conclusion of the Novice league auction draft unless otherwise announced by the League Manager or CRC. Usually after a 10-15 minute break.
+    - (a) The snake draft will begin shortly after the conclusion of the Novice league snauction unless otherwise announced by the League Manager or CRC. Usually after a 10-15 minute break.
     - (b) The snake draft order will be determined by the number of remaining TCA of each team, prorated by their initial balance.
       - (i) Ties will be resolved using a random generator.
       - (ii) Proration example:
@@ -300,7 +307,7 @@ ___
     - (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the draft packet being added to their roster.
     	- (i) Captains may choose to opt-out of participation in the snake draft. Those who do will receive the top player from the draft packet when it is their turn to pick.
     - (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
-      - (i) The final round of the snake will always follow the order of the first round, regardless of the previous round's order.
+      - (i) In the event of 3+ snake rounds, the final round will always follow the order of the first round, regardless of the previous round's order.
     - (f) The snake draft will continue until every eligible signup has been drafted to a team.
     - (g) The final snake round will introduce an option to pass on selecting a player, where teams will be allowed to skip their selection until there are mathematically enough picks left to finish the draft.
       - (i) Example: There are 8 teams and the final round has 5 players remaining. At maximum, 3 teams may pass on selecting a player.
@@ -332,7 +339,7 @@ ___
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
           - (aa) The first Majors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Minors draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second Majors add/drop period will begin at the conclusion of week 3 games. This period will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes. 
+          - (bb) The second Majors add/drop period will begin at the conclusion of week 3 games. This period will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -349,7 +356,7 @@ ___
         - (1) Majors captains may claim any eligible player.
         - (2) Claims will be made in the form of bids and will be processed in stages.
           - (aa) A bid will be defined as a rostered player who was obtained at auction and any number of TCM.
-          - (bb) Starting TCM are equal to the number of TCM remaining at the conclusion of the auction draft.
+          - (bb) Starting TCM are equal to the number of TCM remaining at the conclusion of the snauction draft.
           - (cc) Bidding Process:
             - (I) The value of a bid will be equal to the TCM value of the rostered player being bid added to the value of TCM included in the bid.
             - (II) All teams will have the opportunity to make a bid on any eligible players in each stage of the the add/drop period. When a stage is complete, the players will be awarded to the team with the highest value bid.
@@ -375,7 +382,7 @@ ___
           - (aa) Any dropped player will be eligible to be called up to Majors by a team other than the one dropping them for the remainder of the open add/drop period.
           - (bb) Dropped players who are not called up will be entered into the Minors add/drop pool after confirmation of interest so long as they do not possess DEP status.
             - (I) Players who decline to drop will remain eligible for loans, but not call-ups, for the remainder of the season.
-          - (cc) Players dropped from Majors during the second, third or fourth add/drop period will not be eligible for Novice free agency if they have played any minutes in Majors that season.
+          - (cc) Players dropped from Majors during the second add/drop period will not be eligible for Novice free agency if they have played any minutes in Majors that season.
         - (3) Called up players:
           - (aa) Called up players may decline a call-up. In doing so they automatically decline any future call-ups or loans for the remainder of the season.
             - (I) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
@@ -386,7 +393,7 @@ ___
       - (i) Regular season:
         - (1) There will be two add/drop periods during the regular season.
           - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) The second add/drop period will begin at the conclusion of the corresponding Majors add/drop period or end of week 3 games, whichever happens later. This period will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes. 
+          - (bb) The second add/drop period will begin at the conclusion of the corresponding Majors add/drop period or end of week 3 games, whichever happens later. This period will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes.
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -409,7 +416,7 @@ ___
             - (I) Minors captains may claim any eligible player.
             - (II) Claims will be made in the form of bids and will be processed in stages.
               - (1) A bid will be defined as a rostered player who was obtained at auction and any number of TCN.
-              - (2) Starting TCN are equal to the number of TCN remaining at the conclusion of the auction draft.
+              - (2) Starting TCN are equal to the number of TCN remaining at the conclusion of the snauction draft.
               - (3) Bidding Process:
                 - (AA) The value of a bid will be equal to the TCN value of the rostered player being bid added to the value of TCN included in the bid.
                 - (BB) All teams will have the opportunity to make a bid on any eligible players in each stage of the present phase. When a stage is complete, the players will be awarded to the team with the highest value bid.
@@ -450,20 +457,20 @@ ___
     - (b) Player drop period:
       - (i) At the conclusion of the third week of games, captains will select between zero and one players from their roster as decided by the CRC. Selected players will be removed from their roster at that time and entered into the free agency process.
       - (ii) Any removed players deemed inactive by the CRC will be removed from the free agency process. The CRC may require select captains to remove an additional player from their roster in the event of an inactive player being selected.
-    - (d) Free agency period:
+    - (c) Free agency period:
       - (i) Regular season:
         - (1) There will be a single, primary, free agency period completed live followed by additional asynchronous free agency periods as announced by the CRC.
         - (2) The primary free agency period will begin following the second Minor league add/drop period, or third week of NLTP games, whichever happens later, and be completed in three stages.
           - (aa) The first stage of the primary free agency period will consist of eligible minors drops being bid on.
           - (bb) The second stage of the primary free agency period will consist of players used for bidding being bid on and repeat as needed.
           - (cc) The third stage of the primary free agency period will consist of all remaining free agents being drafted through a second snake draft.
-        - (3) The free agency period will consist of all free agents being drafted through a second snake draft.
+        - (3) Any additional free agency periods will consist of all free agents being drafted through a snake draft, or assigned directly to a roster as decided by the CRC.
       - (ii) Postseason:
         -  (1) There will be no free agency periods in the postseason.
     - (d) Free agency process
       - (i) Each stage of free agency will consist of teams bidding on eligible free agents.
         - (1) A bid will be defined as a rostered player who was obtained at auction and any number of TCA.
-        - (2) Starting TCA are equal to the number of TCA remaining at the conclusion of the auction draft.
+        - (2) Starting TCA are equal to the number of TCA remaining at the conclusion of the snauction draft.
       - (ii) The value of a bid will be equal to the TCA value of the rostered player being bid added to the value of TCA included in the bid.
       - (iii) All teams will have the opportunity to make a bid on any eligible free agent in each stage of free agency. When the stage is complete, the player will be awarded to the team with the highest value bid.
       - (iv) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different free agents, those bids will be processed in order of submission. If multiple bids on a single free agent are received from a single team, only the most recent submission will be considered.
@@ -483,7 +490,7 @@ ___
       - (i) Primary free agency period:
        - (1) Minor league drops in the second Minors add/drop period will be eligible for Novice free agency.
        - (2) True rookies will be eligible for free agency unless assessed above a Novice league level by the CRC.
-        - (aa) A true rookie is defined as any player with fewer than 119 minutes played in any official North American Capture the Flag league.
+        - (aa) A true rookie is defined as any player with fewer than 110 minutes played in any official North American Capture the Flag league.
        - (3) Players whose last competitive season was more than 6 seasons prior in accordance with the NALTP calendar will be accepted case-by-case for those not assessed above a Novice league level by the CRC.
        - (4) Major league drops who also become Minor league drops will not be eligible for free agency unless they have a total of 0 minutes played in the Major league.
        - (5) Players acquired in the primary free agency period will be eligible to begin playing in week 4 Novice league games.
@@ -583,7 +590,7 @@ ___
 #### Section C - Microphone Restrictions
   - (1) In the Major and Minor leagues, microphone restrictions will be enforced on all players who list that they will not use a microphone to communicate during the season.
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
-    - (b) These players must remained muted in their team's voice chat during all league games. 
+    - (b) These players must remained muted in their team's voice chat during all league games.
   - (2) In Novice league, microphone restrictions are not enforced.
 
 ___
@@ -591,7 +598,7 @@ ___
 
 #### Section A - Map Selection
   - (1) For each tier, the CRC will be responsible for selecting maps by a method of their own choosing.
-  
+
 #### Section B - Playoffs
   - (1) All maps from the regular season will be eligible for pick/ban in playoffs.
 
@@ -731,20 +738,20 @@ ___
       - (iii) Captains, official co-captains (or an approved stand-in) and players in-game are the only group members permitted to call timeout.
     - (b) Mid-late game:
       - (i) Timeout may be called if two or more players from the same team exit the game at the same time. The timeout may only be called by the team missing two players.
-      - (i) Captains, official co-captains (or an approved stand-in) and players in-game are the only group members permitted to call timeout.
-      - (ii) Once timeout is called, the following must happen:
+      - (ii) Captains, official co-captains (or an approved stand-in) and players in-game are the only group members permitted to call timeout.
+      - (iii) Once timeout is called, the following must happen:
         - (1) The team calling the timeout must return their flag to their base before the timeout takes effect. This does not require a full reset; the timeout will begin upon the return even if the flag is immediately transferred to regrab.
         - (2) If the team calling the timeout is winning when the timeout is called, the time will be rounded up to the nearest whole minute.
         - (3) If the team calling the timeout is losing when the timeout is called, the time will be rounded down to the nearest whole minute.
         - (4) Game settings will remain the same, except remaining time as outlined above.
         - (5) Remember to save .eus from before and after the timeout, as TagPro League can handle timeouts.
-      - (iii) The CRC may assess caps, standings points, or game penalties in matches where a timeout is believed to have given either team an advantage.
+      - (iv) The CRC may assess caps, standings points, or game penalties in matches where a timeout is believed to have given either team an advantage.
         - (1) A team returning to a 4v4 match is not considered gaining an advantage.
     - (c) Inappropriate timeouts:
       - (i) If a team calls for a time out when they are not eligible to, the CRC may enforce forfeits, standings point deductions, or waiver wire penalties at their discretion.
 
 #### Section F - Substitutions
-  - (1) Any eligible players may be substituted between halves so long as they will not otherwise conflict with the rulebook at the conclusion of the upcoming or in-progress half. Please see [Article IV Section C](#section-c---loans) for more information on loans and hot-subs.
+  - (1) Any eligible players may be substituted between games so long as they will not otherwise conflict with the rulebook at the conclusion of the upcoming or in-progress game. Please see [Article IV Section C](#section-c---loans) for more information on loans and hot-subs.
   - (2) Live substitutions, or “hot-subs”, are permitted during league games.
     - (a) Teams can make as many substitutions as they like.
     - (b) If players are having trouble with lag, they will be permitted up to two refreshes before their captain may demand they substitute out.
@@ -791,20 +798,20 @@ ___
     - (c) Cap differential against common opponents;
     - (d) Total cap differential;
     - (e) Total caps scored;
-    - (f) A 5-minute OFM with one player from each team. The player must be eligible for that team’s league (i.e., an A-teamer cannot OFM for a B-team matchup), and the captain will be allowed to choose the player.
+    - (f) A 5-minute OFM with one player from each team selected by the captain of that team.
   - (3) Tiebreakers between three or more teams with an equal number of points will be determined by the following:
     - (a) Points acquired in head-to-head matches; if all tied teams have not played each other, then this rule is skipped;
     - (b) Points acquired vs. common opponents;
     - (c) Cap differential against common opponents;
     - (d) Total cap differential;
     - (e) Total caps scored;
-    - (f) A 5-minute OFM round-robin tournament with one player from each team. The player must be rostered on the team, and the captain will be allowed to choose the player.
+    - (f) A 5-minute OFM round-robin tournament with one player from each team selected by the captain of that team.
   - (4) If the seeding of one team is determined in a three-or-more team tiebreaker but other seeds aren't, tiebreak rules continue as they are and do not reset for the remaining teams.
   - (5) Opponent Selection:
     - (a) Teams will have the opportunity to select their opponents for each round of the playoffs that contains more than 2 teams.
     - (b) The CRC will announce the deadline to submit selections, with submissions typically due within 24 hours of the conclusion of the previous week's games.
     - (c) Selections are submitted directly to a CRC member.
-      - (i) Selections should have multiple options, should higher seeds fail to make their selection. For example: Seed 4 submits "Select 8th seed. If not, then 7th seed. If not, then 5th seed." 
+      - (i) Selections should have multiple options, should higher seeds fail to make their selection. For example: Seed 4 submits "Select 8th seed. If not, then 7th seed. If not, then 5th seed."
     - (d) Selections are processed in order of highest seed to lowest seed.
     - (e) If a team fails to submit a selection, their selection is skipped and the next highest seeded team's selection is used instead.
     - (f) If multiple or all teams fail to submit a selection, the matchups will be determined by highest available seed playing against lowest available seed, until all matchups are determined.
@@ -851,7 +858,7 @@ ___
   - (6) There is a catch-all "Don't Be a Dick" rule, which can encompass any number of things. Violations of the "DBAD" rule will be dealt with on a case-by-case basis as determined by the CRC.
   - (7) Excessive or targeted group chat during league games will result in a warning and may result in a ban or team forfeiture if the problem persists or is deemed unruly by the CRC.
   - (8) At any point during regular season or playoff games, either captain may request to trim a group and can expect full compliance from both teams. A trimmed group requires all non-essential members to leave. Players who may stay include:
-    - (a) The eight players scheduled to play in the upcoming half;
+    - (a) The eight players scheduled to play in the upcoming game;
     - (b) Up to two legal substitutes per team for playoff games;
     - (c) Any member of either roster for regular season games;
     - (d) The official captain;
@@ -872,7 +879,7 @@ ___
   - (5) The owner of TPL may be contacted about issues via the "Submit and Issue or Feature" button at the bottom of the page.
 
 #### Section B - Stat Normalization for Forfeits or Noncompetitive Games
-  - (1) If at any point a half is played 3v4, a game is forfeited or a game is determined noncompetitive by the CRC, the statistics may be thrown out or normalized at the discretion of the CRC.
+  - (1) If at any point a game is played 3v4, is forfeited or is determined noncompetitive by the CRC, the statistics may be thrown out or normalized at the discretion of the CRC.
     - (a) Any determinations made will be by CRC majority vote.
     - (b) CRC members playing in games under consideration will be forced to recuse themselves from the discussion and vote.
     - (c) CRC determinations for stat normalization will not be available for captains veto.
@@ -913,8 +920,8 @@ ___
   - (1) If the captains wish to overrule a rule change or decision made by the CRC it must be done through an official veto.
     - (a) Captains' vetos may be used to undo new rules and/or rulings made by the CRC.
     - (b) Captain's vetos may be used to enforce prior CRC rule changes which have been undone by a CRC vote.
-    - (b) New rules and/or rulings may not be generated by captains' veto.
-    - (c) Trades accepted by the CRC are not eligible for captains' veto.
+    - (c) New rules and/or rulings may not be generated by captains' veto.
+    - (d) Trades accepted by the CRC are not eligible for captains' veto.
   - (2) To submit a request for an official veto there must be a ping to the CRC in the captains chat or a direct message to a CRC member with the specific decision to be vetoed and clarification that the request is not in jest. In both cases the CRC will notify the rest of the captains for someone to second the motion unless a second has already come forward.
   - (3) Upon receipt of an official veto, the CRC will organize a vote amongst the captains in private through a form with a deadline for voting. The results will be announced at the stated deadline or when the final vote is cast, whichever occurs first.
   - (4) There may be more than one veto requested at one time. Timelines will be entirely at the discretion of the CRC.
@@ -924,7 +931,7 @@ ___
 #### Section D - Vote of No Confidence (VONC)
   - (1) At any point in the season, a captain will be allowed to formally request a vote of no-confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
     - (a) If at least 75% of captains across all tiers vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, they will be removed from the CRC immediately. If the CRC members do not vote in favor, the member is not removed.
-    - (b) See [Article II, Section A, Part 5](#section-a---the-committee-for-rules-and-coordination-crc) for vacancy information.
+    - (b) See [Article II, Section A, Part 3](#section-a---the-committee-for-rules-and-coordination-crc) for vacancy information.
 ___
 ### Article XIII - Appendix
   - (1) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that breaks the NALTP rules.
