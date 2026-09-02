@@ -15,10 +15,12 @@
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
   * [Section E - Rookie Integration Officer](#section-e---rookie-integration-officer)
+  * [Section F - Talent Evaluation Committee](#section-f---talent-evaluation-committee)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
-  * [Section B - The Snauction Drafts](#section-b---the-snauction-drafts)
-  * [Section C - The Snake Draft](#section-c---the-snake-draft)
+  * [Section B - The Auction Draft](#section-b---the-auction-draft)
+  * [Section C - The Snauction Draft](#section-c---the-snauction-draft)
+  * [Section D - The Snake Draft](#section-d---the-snake-draft)
 - [Article IV - Roster Changes](#article-iv---roster-changes)
   * [Section A - Trades](#section-a---trades)
   * [Section B - Drops, Call-ups, Free agency](#section-b---drops-call-ups-free-agency)
@@ -28,7 +30,7 @@
   * [Section F - Out of League Substitutions (OOLs)](#section-f---Out-of-League-Substitutions-OOLs)
 - [Article V - Player Restrictions.](#article-v---player-restrictions)
   * [Section A - Proper Position Restrictions](#section-a---proper-position-restrictions)
-  * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
+  * [Section B - Availability Restrictions](#section-b---availability-restrictions)
   * [Section C - Microphone Restrictions](#section-c---microphone-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Selection](#section-a---map-selection)
@@ -148,7 +150,7 @@ ___
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
     - (a) The League Managers will consist of at least two members as decided by the CRC and/or current League Managers.
-    - (b) The League Managers are responsible for maintaining league structure including, but not limited to, signups, the big board, statistics collection, awards voting, and TagProLeague in addition to maintaining the information hub, schedule, competitive discord, logos and jerseys, and rulebook in conjunction with the CRC.
+    - (b) The League Managers are responsible for maintaining league structure including, but not limited to, mltp.gg, awards voting, TagProLeague, information hub, schedule, competitive discord, logos and jerseys, and rulebook in conjunction with the CRC.
       - (i) The NALTP CRC may demand full access to any league administrative tools as noted above, as well as the TToC_Bot and any other tool deemed appropriate, to ensure smooth facilitation of the league.
   - (2) Elections:
     - (a) The League Manager role is not an elected position.
@@ -183,24 +185,20 @@ ___
       - (vii) Electing two members of the CRC for the following season and
       - (viii) Anything else required or requested of them by both the CRC and their team
   - (3) Eligibility and restrictions:
-    - (a) Any player not banned from NALTP or TagPro is eligible to apply for captaincy or co-captaincy unless otherwise announced by the CRC.
+    - (a) Any player not banned from NALTP or TagPro is eligible to apply for captaincy or CCGM unless otherwise announced by the CRC.
     - (b) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped.
-    - (c) CRC members may not serve as captain, official co-captain, or GM in any circumstances.
+    - (c) CRC members may not serve as captain or CCGM in any circumstances.
     - (d) Official CCGMs are not permitted to be members of any team in their league other than the one they are CCGMing. If a CCGM should end up on any other league roster than the one they are CCGMing, they will be removed from their position as official CCGM.
     - (e) Official CCGMs may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
   - (4) Selection, voting, and announcements:
     - (a) Captains and GMs will be approved by a majority vote from the CRC.
     - (b) CCGMs do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
+      - (i) The CRC reserves the right to deny a CCGM appointment at their discretion.
   - (5) Terms:
     - (a) All forms of captaincy are for a single season only.
   - (6) Mid-season vacancy.
     - (a) If a captain or GM must step down from their position, or is removed by CRC ruling, a replacement will be determined by the CRC.
     - (b) Playing captains who step down or are removed from their position may not be traded.
-    - (c) Former playing captains may activate an option to be dropped in the next period.
-      - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
-      - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-      - (iii) In extreme cases, if the final period has concluded, the CRC may initiate an extra window to accomodate.
-    - (d) If a former playing captain is dropped, their old team may be rewarded with priority in the add/drop periods or call-ups or replacement players not rostered in any league.
 
 #### Section D - Players
   - (1) Signup eligibility:
@@ -212,7 +210,8 @@ ___
     - (c) Players removed from a league draft by the CRC are not eligible to enter the following lower-league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, Section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
-    - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
+    - (f) Players who are banned from joining the Competitive TagPro Discord Server will not be eligible to sign up for NALTP.
+    - (g) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
   - (2) Dual Eligibile Players (DEPs):
     - (a) Players drafted to Majors or Minors may apply for DEP status during a DEP application window as determined and publicly announced by the CRC.
       - (i) DEP status will be granted by a CRC majority vote.
@@ -223,12 +222,14 @@ ___
   - (4) Free agency eligibility and restrictions:
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
   - (5) All players are limited to one (1) name for the season, which they are required to play under in all tiers.
+    - (a) Players are not allowed to impersonate or play under another player's exact name (including a historical name from past seasons), whether or not they own the reserved name.
+  - (6) All players must disclose their TagPro ranked account name, if it differs from their signup name, to the CRC for ranked ELO display purposes. Ranked account names will not be disclosed to the public. Players who refuse will be removed from the draft.
 
 #### Section E - Rookie Integration Officer
   - (1) RIO Structure Overview:
     - (a) The RIO will consist of 1 member.
   - (2) Elections:
-    - (a) The RIO is not an elected position.
+    - (a) The RIO is not an elected position, it is appointed by the CRC.
   - (3) Vacancies:
     - (a) If the RIO retires or steps down, the CRC will fill the position by majority vote.
       - (i) The RIO position may be forcibly removed by following VONC rules as detailed in [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes-vetoes-voncs--rule-changes)
@@ -238,17 +239,80 @@ ___
     - (a) Direct reach out to all rookie signups each season to ensure they understand the league structure, rules and playing expectations.
     - (b) Helping maintain the Competitive Rookies discord server and inviting rookies to the server.
     - (c) Working with the LM and CRC on smurf checks and ways to improve rookie retention rates.
+   
+#### Section F - Talent Evaluation Committee
+  - (1) TEC Structure Overview:
+    - (a) The TEC will consist of an unlimited amount of members.
+    - (b) TEC members will persist through seasons until they decide to step down or are removed by majority CRC vote.
+  - (2) Elections:
+    - (a) A TEC position is not an elected position, it is chosen by the CRC by majority vote.
+    - (b) Applications will be published at the beginning of each off season by the CRC.
+    - (c) Positions may be added or removed at any time during the preseason, regular season or postseason, as needed.
+  - (3) Eligibility
+    - (a) All community members (CRC, LM, GM, Player, etc) are eligible to apply for a TEC position.
+    - (b) Persons banned from TagPro and/or NALTP are not eligible to apply for a TEC position, unless otherwise given an exception by the CRC.
+  - (4) Vacancies:
+    - (a) Vacancies do not require replacement. Therefore, any member stepping down or being removed will not need to be immediately replaced.
+  - (5) Duties:
+    - (a) TEC members will provide an assessment for:
+      - (i) Dual Eligible Player (DEP) applications
+      - (ii) TagCoin Adjusted Captain (TCAC) evaluations
+      - (iii) Trades
+      - (iv) Out Of League Substitutions (OOL)
+      - (v) Rookie free agency eligibility
+      - (vi) Draft tier skipping due to game-day availability issues
+      - (vii) Any other player talent related decision as directed by the CRC
+    - (b) Assessments will be made privately by each member, without discussion with other members.
+    - (c) Assessments will be submitted via a CRC supplied Google Form. 
+    - (d) Discretion is expected of each member.
+      - (i) Members shall not discuss any assessment with any other person with the exception of current CRC members.
+      - (ii) Members caught or suspected of leaking potential decisions will be removed.
+      - (iii) Members will not announce themselves as members of the TEC, unless explicitly told to do so by the CRC.
 ___
 ### Article III - Drafting
 
 #### Section A - General Draft Information
-  - (1) Specific draft dates and times will be announced by the CRC prior to the draft.
+  - (1) Specific draft styles, dates and times will be announced by the CRC prior to the drafts.
   - (2) Each league's draft will take place on a different day.
   - (3) Drafts will occur in order from the highest level league (MLTP) to the lowest (NLTP).
   - (4) The MLTP and mLTP drafts will continue until every team's roster is filled.
   - (5) The NLTP draft will continue until all remaining players are assigned to a team.
+  - (6) The CRC has full discretion on which draft style is used for each league, with descriptions of each draft style explained below.
 
-#### Section B - The Snauction Drafts
+#### Section B - The Auction Draft
+  - (1) TagCoins (TC):
+    - (a) There will be three forms of TagCoins, TCM, TCN, and TCA.
+      - (i) TCM = Major league TagCoin.
+      - (ii) TCN = Minor league TagCoin.
+      - (iii) TCA = Novice league TagCoin.
+    - (b) Each team will receive a budget of TC determined by the CRC on the following criteria.
+      - (i) Leagues with GMs and no playing captains or prelim picks:
+        - (1) Each team will receive an equal number of TC no less than 50 and no greater than 200.
+      - (ii) Leagues with playing captains and/or prelim picks:
+        - (1) Each team will receive a budget of TC determined by the CRC on a case-by-case basis.
+          - (aa) Potential budgets will be separated into tiers that each team can be assigned to.
+          - (bb) The tier a team is placed into will be determined by the strength of the first player on the roster (i.e. DPC or prelim pick).
+          - (cc) Each tier may have any number of teams assigned to it including zero teams.
+    - (c) Trades, including those involving TC, are allowed during each draft.
+      - (i) Trades may not be completed that will put a team over their starting budget when considering their roster and remaining TC.
+    - (d) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
+    - (e) Remaining TCM, TCN, and TCA are kept by the team for use in add/drop and free agency periods at the conclusion of each draft, while the value of the coins assigned to players drafted at snauction is also kept.
+    - (f) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
+    - (g) TC may not be spent to remove a player from a roster and replace them on the draft board.
+  - (2) Nominations:
+    - (a) Captains will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting nominations at their discretion, but will work with captains if they have difficulty finding a replacement.
+    - (b) Nomination order:
+      - (i) For leagues with only GMs, the order will be randomly assigned and snake in reverse order upon completion of each round.
+      - (ii) For leagues with non-equal TC budgets, the order will be determined by the TC budget of each team, where the team with the least amount of TC will go first and will snake in reverse order upon completion of each round. Teams with a tied budget will have the order randomly assigned.
+    - (c) Nomination spots may not be traded.
+    - (d) Nominations will continue until each team has exactly 4 players.
+      - (i) Novice league will transition to a snake draft once each roster contains 4 players.
+    - (e) If a team already has the maximum number of players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
+    - (f) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
+      - (i) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
+    - (g) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft board.
+
+#### Section C - The Snauction Draft
   - (1) TagCoins (TC):
     - (a) There will be three forms of TagCoins, TCM, TCN, and TCA.
       - (i) TCM = Major league TagCoin.
@@ -288,7 +352,7 @@ ___
     - (b) The co-captain round will follow the snauction procedure and will conclude once each team has exactly 1 player.
     - (c) Trades, including those involving TC, are permitted between the conclusion of the co-captain round and the start of the remainder of the draft.
 
-#### Section C - The Snake Draft
+#### Section D - The Snake Draft
   - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons in Novice league.
     - (a) The snake draft will begin shortly after the conclusion of the Novice league snauction unless otherwise announced by the League Manager or CRC. Usually after a 10-15 minute break.
     - (b) The snake draft order will be determined by the number of remaining TCA of each team, prorated by their initial balance.
@@ -319,7 +383,7 @@ ___
       - (i) CCGMs can approved trades in the absence of the Captain or GM.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
       - (i) The TEC will provide recommendations for each trade.
-    - (e) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
+    - (e) Trades involving inactive players will not be permitted. Please see [Article IV, Section B, Part 4](#section-b---drops-call-ups-free-agency) for more information on Gross Inactivity drops.
       - (i) Exceptions may be made at the Novice level, but will be permitted only with consideration for balancing roster sizes. Captains and GMs are expected to be aware of the activity of players involved in any trades
     - (f) Trading draft picks for future seasons is prohibited.
     - (g) Trades involving add/drop priority are prohibited.
@@ -550,10 +614,6 @@ ___
 
 #### Section D - Captain Specific Roster Changes
   - (1) Playing captains who step down or are removed from their position may not be traded.
-  - (2) Former captains may activate an option to be released in an add/drop period or into free agency within their rostered league.
-    - (a) In the case of captains who step down, this option will require mutual agreement by the former and the newly instated captain.
-    - (b) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-  - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or other compensation at the CRC's discretion.
 
 #### Section E - Dual Eligible Players (DEPs)
   - (1) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season.
@@ -573,7 +633,7 @@ ___
 #### Section A - Proper Position Restrictions
   - (1) There will be no proper positions or positional restrictions in NALTP.
 
-#### Section B - Scheduling Restrictions
+#### Section B - Availability Restrictions
   - (1) The CRC may enforce schedule restrictions on a player commensurate with the availability they indicate in their signup comments.
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
     - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
@@ -595,7 +655,7 @@ ___
   - (1) For each tier, the CRC will be responsible for selecting maps by a method of their own choosing.
 
 #### Section B - Playoffs
-  - (1) All maps from the regular season will be eligible for pick/ban in playoffs.
+  - (1) All maps from the regular season will be eligible for pick/ban in playoffs, unless otherwise specified by the CRC.
 
 ___
 ### Article VII - Matches
@@ -603,7 +663,7 @@ ___
 #### Section A - Match Scheduling
   - (1) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time.
     - (a) Submitted times must fall between 8:30 PM and 10:30 PM Eastern Time or they will be adjusted to match these boundaries.
-    - (b) Submitted times are also limited to half hour intervals between the earliest and latest times in (a).
+    - (b) Submitted times are limited to half hour intervals between the earliest and latest times in (a).
   - (2) The default gametime will be the average of the two teams’ default game times.
     - (a) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
   - (3) Default days
@@ -663,15 +723,7 @@ ___
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
             - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This can be done as many times as mathematically possible until there are 7 eligible maps.
         - (2) All playoff matches require pick/bans.
-        - (3) Pick/bans must be completed prior to the matchup, at an agreed upon time by captains.
-        - (4) Captains may agree to do their pick/ban "on stream" or "in group". These have the same meaning.
-          - (aa) The CRC must be notified at least 24 hours in advance so that they may provide someone to oversee the pick/ban process.
-          - (bb) The pick/ban is now subject to the following rules:
-            - (I) The pick/ban will start at the designated default time for the matchup and is now considered the start of the matchup.
-            - (II) The pick/ban will occur in the match's group link.
-            - (III) The pick/ban is now subject to the rules in [Section G - Game Start Time Rules, Forfeits](#section-g---game-start-time-rules-forfeits).
-            - (IV) A turn may not last longer than 30 seconds.
-            - (V) If a turn lasts longer than 30 seconds, the other team may submit another pick. This resets the timer for the team that was skipped to 30 seconds.
+        - (3) Pick/bans must be completed prior to the matchup and are due to be submitted to the CRC no later than 10 minutes prior to the default matchup start time, unless otherwise agreed upon with the CRC.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
@@ -679,7 +731,7 @@ ___
         - (3) Overtime set to on;
           - (aa) Overtime respawn increment: Disabled;
           - (bb) Overtime bonus Juke Juices: Disabled;
-        - (4) Mercy rule disable;
+        - (4) Mercy rule disabled;
         - (5) Acceleration set to 100%;
         - (6) Top speed set to 100%;
         - (7) Bounciness set to 100%;
@@ -688,11 +740,12 @@ ___
         - (10) Bomb respawn time set to 30 seconds;
         - (11) Powerup respawn time set to 1 minute;
         - (12) Powerup delay set to 60 seconds;
-        - (13) Last Possession Clutch Time: Enabled Winnable Only;
-        - (14) Kissing Flag Carriers: Disabled;
-        - (15) Userscripts: Disabled;
-        - (16) Respawn Warnings: Disabled; and
-        - (17) Single World Joiner disabled and set to default server.
+        - (13) Powerup: Tagpro Duration set to 15 seconds;
+        - (14) Last Possession Clutch Time: Enabled Winnable Only;
+        - (15) Kissing Flag Carriers: Disabled;
+        - (16) Userscripts: Disabled;
+        - (17) Respawn Warnings: Disabled; and
+        - (18) Region set to US Central.
     - (c) Server settings:
       - (i) Identical to regular season settings.
 
@@ -753,6 +806,20 @@ ___
     - (c) The substitute can be in the "Spectator" slot and can be listening in on Discord, but they must be muted until the substitution is made.
     - (d) If a substituting team has more than four active players for an extensive amount of time, the team may be assessed a penalty determined by the CRC.
     - (e) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the CRC.
+  - (3) In the Novice league, GMs will substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
+    - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
+      - (i) Starting players are defined as the 4 players who have played the most minutes during the season at the time of the matchup.
+        - (1) If no games have been played, starting players are defined as the 4 players drafted during the snauction.
+      - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
+      - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
+    - (b) GMs should discuss their player rotation in advance of the matchup to align their substitutions and sustain a normal flow of games, when possible.
+    - (c) Examples:
+      - (i) Teams A and B both have 6 active players.
+        - (1) Game 1 is all starters for both teams. Game 2, Team A substitutes bench player 1, therefore Team B is expected to substitute bench player 1 or 2 for this game. Game 3, both teams continue with 1 bench player and 3 starters, though they may change which starters and bench players are participating. Game 4, Team A substitutes bench player 2, therefore Team B is expected to continue to have a bench player in during this game. Game 5, both teams continue with 1 bench player and 3 starters, though they may change which starters and bench players are participating.
+      - (ii) Team A has 5 active players and team B has 6 active players.
+        - (1) Game 1 is all starters for both teams. Game 2, Team B substitutes bench player 1, therefore Team A is expected to substitute their only bench player for this game. Game 3, team B substitutes bench player 2, therefore Team A is expected to leave their only bench player in for this game. Game 4, Team B continues with substitute player 2, however, Team A is no longer required to match substitutes due to the minute minimums rules (they may leave their substitute in or bring their starter back). Game 5, Team B brings bench player 1 back, but Team A is still not required to match the substitute.
+      - (iii) Teams A and B both have 6 active players.
+        - (1) Game 1 is all starters for both teams. Game 2, Team A substitutes bench players 1 and 2, therefore Team B is expected to substitute both of their bench players for this game. Game 3, both teams continue with 2 bench player and 2 starters, though they may change which starters are participating. Game 4, both teams return to 4 starters. Game is all starters for both teams.
 
 #### Section G - Game Start Time Rules, Forfeits
   - (1) Either team may share the group link to the other team whenever they are ready.
@@ -934,4 +1001,5 @@ ___
   - (3) The NALTP CRC may demand full access to a team's subreddit (including modmail), Discord, or other form of communication without needing to provide a reason, and shall be granted this access with speed.
   - (4) The CRC agrees that an attack against one or more of them on the subreddit, Discord, or any other public forum shall be considered an attack against them all and consequently they agree that, if such an attack occurs, each of them will assist the CRC Member or Members so attacked by taking forthwith, individually and in concert with the other CRC Members, such action as it deems necessary, including the use of armed force, to restore and maintain the security of the CRC.
   - (5) Any player who becomes banned from playing TagPro will be ineligible to play in NALTP. They may remain on the roster and resume playing when they are no longer banned from TagPro. Playing on an alternate account to avoid the ban will result in league punishment and referral to the TagPro Moderators.
-  - (6) The CRC has the right to interpret rules on a case-by-case basis for the sake of the league’s integrity and competitiveness.
+  - (6) Any player who becomes banned from the Competitive TagPro Discord server will be ineligible to play in NALTP. They may remain on the roster and resume playing when they are no longer banned from the server. Using an alternate Discord account to avoid the ban will result in league punishment and referral to the Competitive TagPro Discord Server Administrators.
+  - (7) The CRC has the right to interpret rules on a case-by-case basis for the sake of the league’s integrity and competitiveness.
