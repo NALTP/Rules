@@ -596,7 +596,7 @@ ___
       - (vi) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
     - (c) Priority
       - (i) Regular season
-        - (1) The first team to contact a player will have priority to loan them for the upcoming week.
+        - (1) The first team to submit the loan form for a player has priority for the upcoming week.
         - (2) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
       - (ii) Post-season
         - (1) The team which has loaned a player for the fewest total minutes (including the regular season) will have loan priority for the upcoming week.
@@ -639,6 +639,8 @@ ___
     - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
       - (i) Ex: If a player is missing 1 week in a 6 week season, they will be given a 250 minute restriction (300-(1x50)).
       - (ii) Minute restrictions are not linked to the specific week(s) a player is missing. If the player's conflict is resolved the restriction will still apply, but their captain may choose to play them and fulfill the restriction by sitting them a different week.
+      - (iii) Games extended beyond 10 minutes by overtime and/or clutch time will still count for 10 minutes.
+      - (iv) Games reduced under 10 minutes by mercy rule will still count for 10 minutes.
   - (2) Scheduling restrictions will not be applied or enforced in the Novice league.
   - (3) Players who indicate that they will miss a majority of playoffs in their signup will have their signup removed.
 
@@ -807,19 +809,19 @@ ___
     - (d) If a substituting team has more than four active players for an extensive amount of time, the team may be assessed a penalty determined by the CRC.
     - (e) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the CRC.
   - (3) In the Novice league, GMs will substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
-    - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
-      - (i) Starting players are defined as the 4 players who have played the most minutes during the season at the time of the matchup.
-        - (1) If no games have been played, starting players are defined as the 4 players drafted during the snauction.
-      - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
-      - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
-    - (b) GMs should discuss their player rotation in advance of the matchup to align their substitutions and sustain a normal flow of games, when possible.
-    - (c) Examples:
-      - (i) Teams A and B both have 6 active players.
-        - (1) Game 1 is all starters for both teams. Game 2, Team A substitutes bench player 1, therefore Team B is expected to substitute bench player 1 or 2 for this game. Game 3, both teams continue with 1 bench player and 3 starters, though they may change which starters and bench players are participating. Game 4, Team A substitutes bench player 2, therefore Team B is expected to continue to have a bench player in during this game. Game 5, both teams continue with 1 bench player and 3 starters, though they may change which starters and bench players are participating.
-      - (ii) Team A has 5 active players and team B has 6 active players.
-        - (1) Game 1 is all starters for both teams. Game 2, Team B substitutes bench player 1, therefore Team A is expected to substitute their only bench player for this game. Game 3, team B substitutes bench player 2, therefore Team A is expected to leave their only bench player in for this game. Game 4, Team B continues with substitute player 2, however, Team A is no longer required to match substitutes due to the minute minimums rules (they may leave their substitute in or bring their starter back). Game 5, Team B brings bench player 1 back, but Team A is still not required to match the substitute.
-      - (iii) Teams A and B both have 6 active players.
-        - (1) Game 1 is all starters for both teams. Game 2, Team A substitutes bench players 1 and 2, therefore Team B is expected to substitute both of their bench players for this game. Game 3, both teams continue with 2 bench player and 2 starters, though they may change which starters are participating. Game 4, both teams return to 4 starters. Game is all starters for both teams.
+    - (a) There will be two "rotational games" in each five game series.
+      - (i) The default rotational games are 2 and 4, unless otherwise agreed upon by the captains.
+      - (ii) During rotational games, teams will play all of their "bench players", using as few "starting players" as possible.
+    - (b) Definitions:
+      - (i) "Starting players" are defined at the start of each match as the 4 players with the highest average minutes per series with any number of minutes.
+        - (1) Example: Player A has attended 2 out of 4 series and played 80 total minutes, for a 40 minute/series average. Player B has attended 4 out of 4 series and played 90 total minutes, for a 22.5 minute/series average. Player A would be defined as a starting player over Player B.
+        - (2) If no series has been completed, starting players are defined as the first 4 players drafted.
+        - (3) Captains may submit a request to change their starting players to the CRC, along with their reasoning. The CRC may accept or decline at their discretion.
+        - (4) The CRC may ask a captain to redefine their starting players after a trade or free agency period.
+          - (aa) Dropped players from the Minor league will be treated as players with maximum minutes. For example, acquiring a Minor league drop after week 3 would give that player 150 minutes and a 50 minute/series average.
+        - (5) Minutes played while on loan to another Novice team will not count towards the series average.
+      - (ii) "Bench players" are defined as the remaining rostered players that aren't included in (i).
+    - (c) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
 
 #### Section G - Game Start Time Rules, Forfeits
   - (1) Either team may share the group link to the other team whenever they are ready.
